@@ -1,6 +1,21 @@
 # Anime-Searcher-3000
 Search and Sort through any Anime and Create a favorites list 
 
+<p><a href="https://www.figma.com/file/yWi9Weab80EIjEPj3xIUoM/Anime-Searcher-3000?type=design&node-id=0%3A1&t=gRvf5SVk1gQoB5lA-1">WireFrames</a></p>
+
+<img src='https://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/1st%20WireFrame.JPG'/>
+
+<img src='https://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/2nd%20WireFrame.JPG'/>
+
+<img src='https://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/3rd%20Wireframe.JPG'/>
+
+<img src='https://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/4th%20Wireframe.JPG'/>
+
+<img src='https://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/5th%20Wireframe.JPG'/>
+
+
+
+
 
 # API Routes
 

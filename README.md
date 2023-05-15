@@ -11,7 +11,7 @@ Search and Sort through any Anime and Create a favorites list
 
 <img src='https://github.com/TheeCryptoKing/Anime-Searcher-3000/blob/main/.github/images/4th%20Wireframe-Redone.JPG'/>
 
-<img src='https://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/5th%20Wireframe.JPG'/>
+<img src='https://github.com/TheeCryptoKing/Anime-Searcher-3000/blob/main/.github/images/5th%20Wireframe-Redone.JPG'/>
 
 
 

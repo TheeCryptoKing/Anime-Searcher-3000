@@ -46,3 +46,9 @@ Search and Sort through any Anime and Create a favorites list
 # React Tree
 
 <img src='https://github.com/TheeCryptoKing/Anime-Searcher-3000/assets/129634839/a9254ea6-8183-44a6-af58-c18710c114db' width='1000px'/>
+
+# Trello 
+
+<img src='https://github.com/TheeCryptoKing/Anime-Searcher-3000/blob/main/.github/images/Anime-Searcher-3000.JPG'/>
+
+

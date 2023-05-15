@@ -1,7 +1,23 @@
+import React, {useState, useEffect} from 'react';
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
+ const [topAnime, setTopAnime] = useState([])
+
+ const getData = async() => {
+  fetch(`https://api.jikan.moe/v4/top/anime/bypopularity/1/10`)
+    .then(res => res.json())
+    .then(data => setTopAnime(data))
+ }
+
+ useEffect(() => {
+  getData()
+ }, [])
+
+console.log(topAnime)
+
   return (
     <div className="App">
       <header className="App-header">
@@ -14,8 +30,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Hookers and Coca cola
+        >HI
         </a>
       </header>
     </div>

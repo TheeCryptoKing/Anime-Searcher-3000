@@ -21,11 +21,12 @@ Search and Sort through any Anime and Create a favorites list
 
 | API Route                                       | Request Method | Body              | Response                             |
 |-------------------------------------------------|----------------|-------------------|--------------------------------------|
-| /allanime                                       | GET            |                   | [{...},{...},...]                    |
+| /topTen                                         | GET            |                   | [{...},{...},...]                    |
+| /TenNew                                         | GET            |                   | [{...},{...},...]                    |
+| /search                                         | GET            |                   | [{...},{...},...]                    |
 | /favorites                                      | GET            |                   | [{...},{...},...]                    |
 | /favorites                                      | POST           | [{...},{...},...] | [{anime info},{...},...]             |
 | /favorites/:id                                  | DELETE         |                   | {}                                   |
-| /allanime?_sort=(rank)&_order=desc&_limit=10    | GET            |                   | {top 10 ranked animes}               |
 | /allanime?_sort=(release)&_order=desc&_limit=10 | GET            |                   | {10 latest releases}                 |
 | /fanfics                                        | GET            |                   | {{...},{...},...]                    |
 | /fanfics                                        | POST           | {name, ...}       | {name, genre, image, creator, title} |
@@ -37,11 +38,9 @@ Search and Sort through any Anime and Create a favorites list
 |------------------------|------------------|
 | /                      | Home.js          |
 | /favorites             | Favorites.js     |
-| /allanime              | AllAnime.js      |
+| /search                | Search.js        |
 | /fanfics               | Fanfics.js       |
-| /allanime/:id          | DisplayAnime.js  |
-| /fanfics/fanficsform   | Fanficform.js    |
-| /fanfics/fanficsdispay | FanficDisplay.js |
+| /:id                   | DisplayAnime.js  |
 
 # React Tree
 

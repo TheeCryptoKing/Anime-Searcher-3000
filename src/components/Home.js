@@ -1,8 +1,13 @@
+import React, {useState} from 'react';
 import "../stylesheets/Home.css";
 import CardContainer from "./CardConatiner";
 import Navbar from "./Navbar";
+import Modal from "./Modal";
 
 function Home({ topAnimes, newAnimes }) {
+
+const [modalStuff, setModalStuff] = useState([])
+
 
   return (
     <div>
@@ -12,12 +17,13 @@ function Home({ topAnimes, newAnimes }) {
       <div className="home-body">
         <div className="top-animes">
           <h3 className="title">Top 10 Animes by Popularity:</h3>
-          <CardContainer animeList={topAnimes}/>
+          <CardContainer setModalStuff={setModalStuff} animeList={topAnimes}/>
         </div>
         <div className="new-animes">
           <h3 className="title">Top 10 Newest Animes:</h3>
-          <CardContainer animeList={newAnimes}/>
+          <CardContainer setModalStuff={setModalStuff} animeList={newAnimes}/>
         </div>
+        <Modal modalStuff={modalStuff} />
       </div>
     </div>
   );

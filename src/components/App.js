@@ -4,6 +4,8 @@ import "../stylesheets/App.css";
 import Navbar from "./Navbar";
 import Home from "./Home";
 
+import { BrowserRouter, Route } from "react-router-dom";
+
 function App() {
   const [topAnimes, setTopAnimes] = useState([]);
   const [newAnimes, setNewAnimes] = useState([]);
@@ -31,17 +33,18 @@ function App() {
   console.log(topAnimes, newAnimes);
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <Navbar />
-      </header>
-      <div className="App-body">
-        <Home 
-          topAnimes={topAnimes} 
-          newAnimes={newAnimes}
-        />
+    
+      <div className="App">
+        <header className="App-header">
+          <Navbar />
+        </header>
+        <div className="App-body">
+          <Home 
+            topAnimes={topAnimes} 
+            newAnimes={newAnimes}
+          />
+        </div>
       </div>
-    </div>
   );
 }
 

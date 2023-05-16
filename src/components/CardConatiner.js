@@ -2,7 +2,7 @@ import { useState } from "react";
 import AnimeCard from "./AnimeCard.js";
 import "../stylesheets/CardContainer.css";
 
-function CardContainer({ animeList }) {
+function CardContainer({ animeList, newAnime, setModalStuff }) {
   const [cardIndex, setCardIndex] = useState(0);
   const cardDisplay = animeList.slice(cardIndex, cardIndex + 10).map((anime) => {
     return (
@@ -10,6 +10,8 @@ function CardContainer({ animeList }) {
         key={anime.title}
         image={anime.images.jpg.image_url}
         name={anime.title}
+        anime={anime}
+        setModalStuff={setModalStuff}
       />
     );
   });

@@ -4,7 +4,6 @@ import "../stylesheets/App.css";
 import Navbar from "./Navbar";
 import Home from "./Home";
 
-import { BrowserRouter, Route } from "react-router-dom";
 
 function App() {
   const [topAnimes, setTopAnimes] = useState([]);

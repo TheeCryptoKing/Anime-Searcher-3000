@@ -1,0 +1,30 @@
+.page-title {
+    text-align: center;
+}
+
+.form-div{
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 100px;
+}
+
+.form-input{
+    margin: 5px;
+    width: 300px;
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 180px;
+}
+
+textarea {
+    resize: none;
+  }
+
+.submit-button{
+    display:block;
+    max-width: 100px;
+}

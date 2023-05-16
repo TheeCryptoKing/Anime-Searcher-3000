@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 function FavoritesPage () {
     return (
         <div className="FavoritesPage">
-            <header className="FavoritesPage-header">
+            <header className="nav-header">
                 <Navbar />
             </header>
             <div className="FavoritesPage-body">

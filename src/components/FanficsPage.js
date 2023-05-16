@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 function FanficsPage () {
     return (
         <div className="FanficPage">
-            <header className="FanficPage-header">
+            <header className="nav-header">
                 <Navbar />
             </header>
             <div className="FanficPage-body">

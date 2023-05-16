@@ -1,0 +1,21 @@
+.page-title {
+    text-align: center;
+}
+
+.search-form{
+   text-align: center;
+}
+
+.search-button{
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.search-results{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    margin-right: 20px;
+}

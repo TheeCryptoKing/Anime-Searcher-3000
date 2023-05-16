@@ -6,15 +6,19 @@ function Navbar() {
   const links = ["Home", "Favorites", "Search", "Fanfics"]
 
   const anchors = links.map((link) => (
-    <NavLink to={"/" + link}>{link}</NavLink> 
+    <NavLink 
+    className='nav-link'
+      key={link} 
+      to={"/" + link}>{link}
+    </NavLink> 
   ));
 
-  
-
   return (
-    <div className="Nav-header">
+    <div>
       <h1 className="page-title">Anime Searcher 3000</h1>
-      <nav>{anchors}</nav>
+      <div className='nav-bar'>
+        <nav>{anchors}</nav>
+      </div>
     </div>
   )
 }

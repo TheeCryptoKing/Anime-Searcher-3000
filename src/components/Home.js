@@ -1,5 +1,6 @@
 import "../stylesheets/Home.css";
 import AnimeCard from "./AnimeCard";
+import Navbar from "./Navbar";
 
 function Home({ topAnimes, newAnimes }) {
   const topAnimesArray = topAnimes.map((anime) => {
@@ -23,16 +24,21 @@ function Home({ topAnimes, newAnimes }) {
   });
 
   return (
-    <>
-      <div className="top-animes">
-        <h3 className="title">Top 10 Animes by Popularity:</h3>
-        <div className="card-container">{topAnimesArray}</div>
+    <div>
+      <header className="nav-header">
+        <Navbar />
+      </header>
+      <div className="home-body">
+        <div className="top-animes">
+          <h3 className="title">Top 10 Animes by Popularity:</h3>
+          <div className="card-container">{topAnimesArray}</div>
+        </div>
+        <div className="new-animes">
+          <h3 className="title">Top 10 Newest Animes:</h3>
+          <div className="card-container">{newAnimesArray}</div>
+        </div>
       </div>
-      <div className="new-animes">
-        <h3 className="title">Top 10 Newest Animes:</h3>
-        <div className="card-container">{newAnimesArray}</div>
-      </div>
-    </>
+    </div>
   );
 }
 

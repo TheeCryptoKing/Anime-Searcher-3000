@@ -14,14 +14,14 @@ function App() {
   }, []);
 
   function homePageFetch() {
-    fetch('https://api.jikan.moe/v4/top/anime?filter=bypopularity&limit=10')
+    fetch('https://api.jikan.moe/v4/top/anime?filter=bypopularity')
       .then((res) => res.json())
       .then((res) => {
         setTopAnimes(res.data)
       })
       .catch(error => alert(error))
 
-    fetch('https://api.jikan.moe/v4/top/anime?filter=upcoming&limit=10')
+    fetch('https://api.jikan.moe/v4/top/anime?filter=upcoming')
       .then((res) => res.json())
       .then((res) => {
         setNewAnimes(res.data)
@@ -34,9 +34,6 @@ function App() {
   return (
     
       <div className="App">
-        {/* <header className="App-header">
-          <Navbar />
-        </header> */}
         <div className="App-body">
           <Home 
             topAnimes={topAnimes} 

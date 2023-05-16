@@ -1,10 +1,12 @@
 .top-animes, .new-animes {
     text-align: left;
+    border-style: inset;
+    margin: 10px;
 }
 
 .title{
     font-size: 20px;
-    padding-left: 10px;
+    padding-left: 10px; 
 }
 
 .card-container {

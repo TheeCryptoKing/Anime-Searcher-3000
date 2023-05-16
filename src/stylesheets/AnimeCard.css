@@ -1,4 +1,9 @@
+.anime-card{
+    text-align: center;
+}
+
 img {
+    display:block;
     max-height: 200px;
     max-width: 150px;
     padding-left: 5px;
@@ -6,9 +11,20 @@ img {
 }
 
 h5 {
+    display:block;
     font-size: 10px;
     max-width: 140px;
     text-align: center;
     margin: auto;
     margin-top: 0px;
+}
+
+.fav-button{
+    background-color: white;
+    border: none;
+    opacity: 10%;
+}
+
+.fav-button:hover {
+    opacity: 100%;
 }

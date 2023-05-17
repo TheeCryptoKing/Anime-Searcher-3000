@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import AnimeCard from "./AnimeCard.js";
-import "../stylesheets/index.css"
+import "../stylesheets/index.css";
 import "../stylesheets/CardContainer.css";
 
 function CardContainer({ animeList, setShow, setModalStuff }) {
@@ -22,13 +22,13 @@ function CardContainer({ animeList, setShow, setModalStuff }) {
     });
 
   function handleClickMore() {
-    setCardIndex((cardIndex) => 
-      (cardIndex + 10 >= animeList.length ? 0 : cardIndex + 10));
+    setCardIndex((cardIndex) =>
+      cardIndex + 10 >= animeList.length ? 0 : cardIndex + 10
+    );
   }
 
   function handleClickLess() {
-    setCardIndex((cardIndex) => 
-      (cardIndex - 10 >= 0 ? cardIndex - 10 : 15));
+    setCardIndex((cardIndex) => (cardIndex - 10 >= 0 ? cardIndex - 10 : 15));
   }
 
   return (

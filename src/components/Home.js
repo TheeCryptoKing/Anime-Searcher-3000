@@ -22,7 +22,7 @@ const [show, setShow] = useState(false)
         </div>
         <div className="new-animes">
           <h3 className="title">Top 10 Newest Animes:</h3>
-          <CardContainer setModalStuff={setModalStuff} animeList={newAnimes}/>
+          <CardContainer setShow={setShow} setModalStuff={setModalStuff} animeList={newAnimes}/>
         </div>
 
 

@@ -3,7 +3,13 @@
 }
 
 .search-form{
-   text-align: center;
+   display: block;
+   margin: 0 auto;
+   max-width: 20vw;
+}
+
+.search-body{
+    justify-content: center;
 }
 
 .search-button{

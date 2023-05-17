@@ -23,7 +23,7 @@ const [modalStuff, setModalStuff] = useState([])
           <h3 className="title">Top 10 Newest Animes:</h3>
           <CardContainer setModalStuff={setModalStuff} animeList={newAnimes}/>
         </div>
-        <Modal modalStuff={modalStuff} />
+        {/* <Modal modalStuff={modalStuff} /> */}
       </div>
     </div>
   );

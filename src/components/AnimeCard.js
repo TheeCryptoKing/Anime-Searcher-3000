@@ -1,19 +1,30 @@
 import "../stylesheets/AnimeCard.css";
-import Modal from './Modal';
+import Modal from "./Modal";
 
 function AnimeCard({ image, name, anime, setModalStuff }) {
-  
   function updateModal() {
-    setModalStuff(anime)
+    setModalStuff(anime);
   }
-  
-  
-  return (
 
+  function handlePost() {
+    fetch("http://localhost:3001/favorites", {
+      method: "POST",
+      body: JSON.stringify({
+        anime,
+      }),
+      headers: {
+        "Content-type": "application/json",
+      },
+    });
+  }
+
+  return (
     <div className="anime-card">
       <img onClick={updateModal} src={image} alt={name}></img>
       <h5>{name}</h5>
-      <button className="fav-button">❤️</button>
+      <button onClick={handlePost} className="fav-button">
+        ❤️
+      </button>
     </div>
   );
 }

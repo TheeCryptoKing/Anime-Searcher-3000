@@ -1,5 +1,5 @@
 import "../stylesheets/AnimeCard.css";
-import Modal from "./Modal";
+
 
 
 function AnimeCard({ image, name, anime, setModalStuff, setShow }) {

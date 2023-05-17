@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Navbar from "./Navbar";
 import FanficsCard from "./FanficsCard";
 import "../stylesheets/FanficsPage.css";
@@ -13,14 +13,56 @@ function FanficsPage() {
     fanficBody: "",
   };
   const [newFanFic, setNewFanFic] = useState(initialForm);
-  function handleSubmit(e) {
-    e.preventDefault();
-    setNewFanFic(initialForm);
-  }
+  const [fanFics, setFanFics] = useState([]);
 
   function handleChange(e) {
     setNewFanFic({ ...newFanFic, [e.target.name]: e.target.value });
   }
+
+  function handleSubmit(e) {
+    e.preventDefault();
+
+    fetch("http://localhost:3001/fanfics", {
+      method: "POST",
+      body: JSON.stringify({
+        newFanFic,
+      }),
+      headers: {
+        "Content-type": "application/json",
+      },
+    })
+    .then(res => res.json())
+    .then(res => updateState(res))
+    setNewFanFic(initialForm)
+  }
+
+function updateState (fanFic) {
+  setFanFics([...fanFics, fanFic])
+}
+
+  useEffect(() => {
+    getFanFics();
+  }, []);
+
+  function getFanFics() {
+    fetch("http://localhost:3001/fanfics")
+      .then((res) => res.json())
+      .then((res) => setFanFics(res));
+  }
+
+  const fanFicsArray = fanFics.map(fanFic =>{
+    return (
+      <FanficsCard 
+        key={fanFic.id}
+        animeName={fanFic.newFanFic.name}
+        title={fanFic.newFanFic.title}
+        genre={fanFic.newFanFic.genre}
+        image={fanFic.newFanFic.image}
+        creator={fanFic.newFanFic.creator}
+        body={fanFic.newFanFic.fanficBody}
+      />
+    )
+  })  
 
   return (
     <div className="FanficPage">
@@ -87,12 +129,18 @@ function FanficsPage() {
               value={newFanFic.fanficBody}
               onChange={handleChange}
             ></textarea>
-            <button className="submit-button" type="submit">
+            <button
+              className="submit-button"
+              type="submit"
+              onClick={handleSubmit}
+            >
               Submit
             </button>
           </form>
         </div>
-        <div className="fanfics-container"></div>
+        <div className="fanfics-container">
+          {fanFicsArray}
+        </div>
       </div>
     </div>
   );

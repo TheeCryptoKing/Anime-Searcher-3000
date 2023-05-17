@@ -17,6 +17,10 @@ function Home() {
     homePageFetch();
   }, []);
 
+  function writeFanFic (anime) {
+    <FanficsPage anime={anime}/>
+  }
+
   function homePageFetch() {
     fetch("https://api.jikan.moe/v4/top/anime?filter=bypopularity")
       .then((res) => res.json())

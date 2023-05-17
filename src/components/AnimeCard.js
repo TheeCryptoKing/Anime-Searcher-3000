@@ -1,6 +1,5 @@
-import "../stylesheets/index.css"
+import "../stylesheets/index.css";
 import "../stylesheets/AnimeCard.css";
-
 
 function AnimeCard({ image, name, anime, setModalStuff, setShow }) {
   function updateModal() {

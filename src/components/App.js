@@ -1,11 +1,8 @@
 import React from "react";
-
-import "../stylesheets/index.css"
+import "../stylesheets/index.css";
 
 function App() {
-  return (
-    <div className="App"></div>
-  )
+  return <div className="App"></div>;
 }
 
 export default App;

@@ -1,13 +1,15 @@
 import { useEffect, useState } from "react";
+
 import Navbar from "./Navbar";
 import FavoritesCard from "./FavoritesCard";
-import "../stylesheets/FavoritesPage.css";
 import Modal from "./Modal";
+import "../stylesheets/FavoritesPage.css";
+import "../stylesheets/index.css"
 
 function FavoritesPage() {
   const [favAnimes, setFavAnimes] = useState([]);
-  const [modalStuff, setModalStuff] = useState([])
-  const [show, setShow] = useState(false)
+  const [modalStuff, setModalStuff] = useState([]);
+  const [show, setShow] = useState(false);
 
   useEffect(() => {
     fetchFavorites();
@@ -19,40 +21,42 @@ function FavoritesPage() {
       .then((res) => {
         setFavAnimes(res);
         console.log(res);
-      });
+      })
+      .catch((error) => alert(error));
   }
 
-function updateState (id) {
-    const deletedArray = favAnimes.filter((anime) =>
-       anime.id !== id)
-       setFavAnimes(deletedArray)
-}
-
   const favAnimesArray = favAnimes.map((anime) => {
-    console.log(anime)
     return (
       <FavoritesCard
         key={anime.id}
-        name={anime.title}
+        name={anime.anime.title}
         image={anime.anime.images.jpg.image_url}
         anime={anime}
         updateState={updateState}
         setModalStuff={setModalStuff}
         setShow={setShow}
-        
       />
     );
   });
+  
+  function updateState(id) {
+    const deletedArray = favAnimes.filter((anime) => anime.id !== id);
+    setFavAnimes(deletedArray);
+  }
 
   return (
     <div className="FavoritesPage">
       <header className="nav-header">
         <Navbar />
       </header>
-      <div className="FavoritesPage-body">
-        <h1>Favorites Page</h1>
+      <div className="Favorites-body">
+        <h1 className="page-title">Favorites Page</h1>
         <div className="fav-animes">{favAnimesArray}</div>
-        <Modal onClose={() => setShow(false)} show={show} modalStuff={modalStuff} />
+        <Modal
+          onClose={() => setShow(false)}
+          show={show}
+          modalStuff={modalStuff}
+        />
       </div>
     </div>
   );

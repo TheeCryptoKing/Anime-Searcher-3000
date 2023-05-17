@@ -1,5 +1,4 @@
 import "../stylesheets/AnimeCard.css";
-import Modal from "./Modal";
 import '../stylesheets/AnimeCard.css'
 
 function FavoritesCard({ image, name, anime, setModalStuff, setShow, updateState }) {

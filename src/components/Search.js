@@ -1,31 +1,30 @@
 import { useState } from "react";
 import Navbar from "./Navbar";
 import AnimeCard from "./AnimeCard";
-import "../stylesheets/Search.css";
 import Modal from "./Modal";
+import "../stylesheets/Search.css";
 
 function Search() {
   const initialForm = {
-    name: '',
-    rating: '',
-    type: '',
-    status: ''
+    name: "",
+    rating: "",
+    type: "",
+    status: "",
   };
-
-
-  const [modalStuff, setModalStuff] = useState([])
-  const [show, setShow] = useState(false)
 
   const [searchedAnime, setSearchedAnime] = useState([]);
   const [searchForm, setSearchForm] = useState(initialForm);
+
+  const [modalStuff, setModalStuff] = useState([]);
+  const [show, setShow] = useState(false);
 
   const searchedAnimeArray = searchedAnime.map((anime) => {
     return (
       <AnimeCard
         key={anime.title}
+        name={anime.title}
         anime={anime}
         image={anime.images.jpg.image_url}
-        name={anime.title}
         setModalStuff={setModalStuff}
         setShow={setShow}
       />
@@ -39,24 +38,21 @@ function Search() {
       .then((res) => res.json())
       .then((res) => {
         setSearchedAnime(res.data);
-        console.log(res.data);
         if (res.data.length === 0) {
           alert("No Results! Refine search and try again");
         }
       })
-      .catch((error) => {
-        console.error("Error:", error);
-      });
-  }
-
-  function handleChange(e) {
-    setSearchForm({ ...searchForm, [e.target.name]: e.target.value });
+      .catch((error) => alert(error));
   }
 
   function handleSubmit(e) {
     e.preventDefault();
     handleSearch();
     setSearchForm(initialForm);
+  }
+
+  function handleChange(e) {
+    setSearchForm({ ...searchForm, [e.target.name]: e.target.value });
   }
 
   return (
@@ -120,7 +116,11 @@ function Search() {
           </button>
         </form>
         <div className="search-results">{searchedAnimeArray}</div>
-        <Modal onClose={() => setShow(false)} show={show} modalStuff={modalStuff} />
+        <Modal
+          onClose={() => setShow(false)}
+          show={show}
+          modalStuff={modalStuff}
+        />
       </div>
     </>
   );

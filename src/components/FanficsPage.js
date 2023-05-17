@@ -1,6 +1,8 @@
 import { useState, useEffect } from "react";
 import Navbar from "./Navbar";
 import FanficsCard from "./FanficsCard";
+
+import "../stylesheets/index.css"
 import "../stylesheets/FanficsPage.css";
 
 function FanficsPage() {
@@ -32,12 +34,17 @@ function FanficsPage() {
       },
     })
     .then(res => res.json())
-    .then(res => updateState(res))
+    .then(res => updateStatePost(res))
     setNewFanFic(initialForm)
   }
 
-function updateState (fanFic) {
+function updateStatePost (fanFic) {
   setFanFics([...fanFics, fanFic])
+}
+
+function updateStateDelete (id) {
+  const deletedArray = fanFics.filter((fanfic) => fanfic.id !== id);
+    setFanFics(deletedArray);
 }
 
   useEffect(() => {
@@ -54,12 +61,14 @@ function updateState (fanFic) {
     return (
       <FanficsCard 
         key={fanFic.id}
+        id={fanFic.id}
         animeName={fanFic.newFanFic.name}
         title={fanFic.newFanFic.title}
         genre={fanFic.newFanFic.genre}
         image={fanFic.newFanFic.image}
         creator={fanFic.newFanFic.creator}
         body={fanFic.newFanFic.fanficBody}
+        updateStateDelete={updateStateDelete}
       />
     )
   })  

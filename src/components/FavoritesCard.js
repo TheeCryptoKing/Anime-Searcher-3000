@@ -2,9 +2,12 @@ import "../stylesheets/AnimeCard.css";
 import Modal from "./Modal";
 import '../stylesheets/AnimeCard.css'
 
-function FavoritesCard({ image, name, anime, setModalStuff, updateState }) {
+function FavoritesCard({ image, name, anime, setModalStuff, setShow, updateState }) {
+  
   function updateModal() {
-    setModalStuff(anime);
+    setModalStuff(anime.anime);
+    setShow(true);
+    console.log()
   }
 
   function handleDelete() {
@@ -16,6 +19,7 @@ function FavoritesCard({ image, name, anime, setModalStuff, updateState }) {
       })
     };
   
+
 
   return (
     <div className="anime-card">

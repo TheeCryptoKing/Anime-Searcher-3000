@@ -1,10 +1,8 @@
+import "../stylesheets/index.css"
 import "../stylesheets/AnimeCard.css";
 
 
-
 function AnimeCard({ image, name, anime, setModalStuff, setShow }) {
-  
-
   function updateModal() {
     setModalStuff(anime);
     setShow(true);
@@ -20,9 +18,7 @@ function AnimeCard({ image, name, anime, setModalStuff, setShow }) {
         "Content-type": "application/json",
       },
     });
-    
   }
-
 
   return (
     <div className="anime-card">

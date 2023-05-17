@@ -2,9 +2,12 @@ import { useEffect, useState } from "react";
 import Navbar from "./Navbar";
 import FavoritesCard from "./FavoritesCard";
 import "../stylesheets/FavoritesPage.css";
+import Modal from "./Modal";
 
 function FavoritesPage() {
   const [favAnimes, setFavAnimes] = useState([]);
+  const [modalStuff, setModalStuff] = useState([])
+  const [show, setShow] = useState(false)
 
   useEffect(() => {
     fetchFavorites();
@@ -26,13 +29,17 @@ function updateState (id) {
 }
 
   const favAnimesArray = favAnimes.map((anime) => {
+    console.log(anime)
     return (
       <FavoritesCard
         key={anime.id}
-        name={anime.anime.title}
+        name={anime.title}
         image={anime.anime.images.jpg.image_url}
         anime={anime}
         updateState={updateState}
+        setModalStuff={setModalStuff}
+        setShow={setShow}
+        
       />
     );
   });
@@ -45,6 +52,7 @@ function updateState (id) {
       <div className="FavoritesPage-body">
         <h1>Favorites Page</h1>
         <div className="fav-animes">{favAnimesArray}</div>
+        <Modal onClose={() => setShow(false)} show={show} modalStuff={modalStuff} />
       </div>
     </div>
   );

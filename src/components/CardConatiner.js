@@ -16,6 +16,7 @@ function CardContainer({ animeList, setShow , setModalStuff }) {
       />
     );
   });
+  
   function handleClickMore() {
      setCardIndex((CardIndex) => ((cardIndex + 10 >= animeList.length) ? (0) : (cardIndex + 10)));
   }

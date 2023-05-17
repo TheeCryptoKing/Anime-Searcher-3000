@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 function Navbar() {
   
-  const links = ["Home", "Favorites", "Search", "Fanfics"]
+  const links = ["Home", "Favorites", "Search", "Fanfics", "Details"]
 
   const anchors = links.map((link) => (
     <NavLink 

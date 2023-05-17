@@ -7,6 +7,7 @@ import Modal from "./Modal";
 function Home({ topAnimes, newAnimes }) {
 
 const [modalStuff, setModalStuff] = useState([])
+const [show, setShow] = useState(false)
 
 
   return (
@@ -17,13 +18,16 @@ const [modalStuff, setModalStuff] = useState([])
       <div className="home-body">
         <div className="top-animes">
           <h3 className="title">Top 10 Animes by Popularity:</h3>
-          <CardContainer setModalStuff={setModalStuff} animeList={topAnimes}/>
+          <CardContainer setShow={setShow} setModalStuff={setModalStuff} animeList={topAnimes}/>
         </div>
         <div className="new-animes">
           <h3 className="title">Top 10 Newest Animes:</h3>
           <CardContainer setModalStuff={setModalStuff} animeList={newAnimes}/>
         </div>
-        {/* <Modal modalStuff={modalStuff} /> */}
+
+
+        <Modal onClose={() => setShow(false)} show={show} modalStuff={modalStuff} />
+
       </div>
     </div>
   );

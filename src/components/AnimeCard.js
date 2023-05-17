@@ -1,7 +1,10 @@
 import "../stylesheets/AnimeCard.css";
 import Modal from "./Modal";
 
-function AnimeCard({ image, name, anime, setModalStuff }) {
+
+function AnimeCard({ image, name, anime, setModalStuff, setShow }) {
+  
+
   function updateModal() {
     setModalStuff(anime);
   }
@@ -20,7 +23,7 @@ function AnimeCard({ image, name, anime, setModalStuff }) {
 
   return (
     <div className="anime-card">
-      <img onClick={updateModal} src={image} alt={name}></img>
+      <img onClick={handleClick} src={image} alt={name}></img>
       <h5>{name}</h5>
       <button onClick={handlePost} className="fav-button">
         ❤️

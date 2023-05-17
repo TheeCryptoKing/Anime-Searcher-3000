@@ -29,8 +29,8 @@ function FavoritesPage() {
     return (
       <FavoritesCard
         key={anime.id}
-        name={anime.anime.title}
-        image={anime.anime.images.jpg.image_url}
+        name={anime.title}
+        image={anime.images.jpg.image_url}
         anime={anime}
         updateState={updateState}
         setModalStuff={setModalStuff}

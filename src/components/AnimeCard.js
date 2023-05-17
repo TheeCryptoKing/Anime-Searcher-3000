@@ -8,11 +8,12 @@ function AnimeCard({ image, name, anime, setModalStuff, setShow }) {
   }
 
   function handlePost() {
+    console.log(anime)
     fetch("http://localhost:3001/favorites", {
       method: "POST",
-      body: JSON.stringify({
-        anime,
-      }),
+      body: JSON.stringify(
+        anime
+      ),
       headers: {
         "Content-type": "application/json",
       },

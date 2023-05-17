@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './stylesheets/index.css';
 import App from './components/App';
 import Search from './components/Search'
-import Details from './components/Details'
 import FanficsPage from './components/FanficsPage';
 import FavoritesPage from './components/FavoritesPage';
 import reportWebVitals from './reportWebVitals';
@@ -17,7 +16,6 @@ root.render(
             <Route path="/Fanfics" element={<FanficsPage/>} />
             <Route path="/Favorites" element={<FavoritesPage/>} />
             <Route path="/Search" element={<Search/>} />
-            <Route path="/Details" element={<Details/>} />
             {/* "*" Indicates that route will match anything and reroute to home */}
             <Route path="*" element={<Navigate to="/Home" replace />} />
         </Routes>

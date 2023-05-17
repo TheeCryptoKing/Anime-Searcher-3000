@@ -1,4 +1,423 @@
 {
-  "favorites": [],
-  "fanfics": []
+  "favorites": [
+    {
+      "anime": {
+        "mal_id": 30276,
+        "url": "https://myanimelist.net/anime/30276/One_Punch_Man",
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/12/76049t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/76049.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/12/76049t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76049l.webp"
+          }
+        },
+        "trailer": {
+          "youtube_id": "ExUMiF1L0HA",
+          "url": "https://www.youtube.com/watch?v=ExUMiF1L0HA",
+          "embed_url": "https://www.youtube.com/embed/ExUMiF1L0HA?enablejsapi=1&wmode=opaque&autoplay=1",
+          "images": {
+            "image_url": "https://img.youtube.com/vi/ExUMiF1L0HA/default.jpg",
+            "small_image_url": "https://img.youtube.com/vi/ExUMiF1L0HA/sddefault.jpg",
+            "medium_image_url": "https://img.youtube.com/vi/ExUMiF1L0HA/mqdefault.jpg",
+            "large_image_url": "https://img.youtube.com/vi/ExUMiF1L0HA/hqdefault.jpg",
+            "maximum_image_url": "https://img.youtube.com/vi/ExUMiF1L0HA/maxresdefault.jpg"
+          }
+        },
+        "approved": true,
+        "titles": [
+          {
+            "type": "Default",
+            "title": "One Punch Man"
+          },
+          {
+            "type": "Synonym",
+            "title": "One Punch-Man"
+          },
+          {
+            "type": "Synonym",
+            "title": "One-Punch Man"
+          },
+          {
+            "type": "Synonym",
+            "title": "OPM"
+          },
+          {
+            "type": "Japanese",
+            "title": "ワンパンマン"
+          },
+          {
+            "type": "English",
+            "title": "One Punch Man"
+          }
+        ],
+        "title": "One Punch Man",
+        "title_english": "One Punch Man",
+        "title_japanese": "ワンパンマン",
+        "title_synonyms": [
+          "One Punch-Man",
+          "One-Punch Man",
+          "OPM"
+        ],
+        "type": "TV",
+        "source": "Web manga",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+          "from": "2015-10-05T00:00:00+00:00",
+          "to": "2015-12-21T00:00:00+00:00",
+          "prop": {
+            "from": {
+              "day": 5,
+              "month": 10,
+              "year": 2015
+            },
+            "to": {
+              "day": 21,
+              "month": 12,
+              "year": 2015
+            }
+          },
+          "string": "Oct 5, 2015 to Dec 21, 2015"
+        },
+        "duration": "24 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 8.5,
+        "scored_by": 2119078,
+        "rank": 128,
+        "popularity": 4,
+        "members": 3041031,
+        "favorites": 62097,
+        "synopsis": "The seemingly unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, Saitama relentlessly trained for three years, losing all of his hair in the process. Now, Saitama is so powerful, he can defeat any enemy with just one punch. However, having no one capable of matching his strength has led Saitama to an unexpected problem—he is no longer able to enjoy the thrill of battling and has become quite bored.\n\nOne day, Saitama catches the attention of 19-year-old cyborg Genos, who witnesses his power and wishes to become Saitama's disciple. Genos proposes that the two join the Hero Association in order to become certified heroes that will be recognized for their positive contributions to society. Saitama, who is shocked that no one knows who he is, quickly agrees. Meeting new allies and taking on new foes, Saitama embarks on a new journey as a member of the Hero Association to experience the excitement of battle he once felt.\n\n[Written by MAL Rewrite]",
+        "background": "Episodes 1 and 2 were previewed at a screening in Saitama city cultural center (small hall) on September 6, 2015. Regular broadcasting began on October 5, 2015. One Punch Man is based on Yusuke Murata's manga remake of ONE's original web comic. The anime adapts the first seven volumes of the manga.",
+        "season": "fall",
+        "year": 2015,
+        "broadcast": {
+          "day": "Mondays",
+          "time": "01:05",
+          "timezone": "Asia/Tokyo",
+          "string": "Mondays at 01:05 (JST)"
+        },
+        "producers": [
+          {
+            "mal_id": 16,
+            "type": "anime",
+            "name": "TV Tokyo",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+          },
+          {
+            "mal_id": 23,
+            "type": "anime",
+            "name": "Bandai Visual",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+          },
+          {
+            "mal_id": 104,
+            "type": "anime",
+            "name": "Lantis",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+          },
+          {
+            "mal_id": 142,
+            "type": "anime",
+            "name": "Asatsu DK",
+            "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+          },
+          {
+            "mal_id": 1121,
+            "type": "anime",
+            "name": "Banpresto",
+            "url": "https://myanimelist.net/anime/producer/1121/Banpresto"
+          },
+          {
+            "mal_id": 1261,
+            "type": "anime",
+            "name": "Good Smile Company",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+          },
+          {
+            "mal_id": 1365,
+            "type": "anime",
+            "name": "Shueisha",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+          },
+          {
+            "mal_id": 1501,
+            "type": "anime",
+            "name": "JR East Marketing & Communications",
+            "url": "https://myanimelist.net/anime/producer/1501/JR_East_Marketing___Communications"
+          }
+        ],
+        "licensors": [
+          {
+            "mal_id": 119,
+            "type": "anime",
+            "name": "VIZ Media",
+            "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+          }
+        ],
+        "studios": [
+          {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+          }
+        ],
+        "genres": [
+          {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          }
+        ],
+        "explicit_genres": [],
+        "themes": [
+          {
+            "mal_id": 50,
+            "type": "anime",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+          },
+          {
+            "mal_id": 20,
+            "type": "anime",
+            "name": "Parody",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+          },
+          {
+            "mal_id": 31,
+            "type": "anime",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+          }
+        ],
+        "demographics": [
+          {
+            "mal_id": 42,
+            "type": "anime",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+          }
+        ]
+      },
+      "id": 1
+    },
+    {
+      "anime": {
+        "mal_id": 11757,
+        "url": "https://myanimelist.net/anime/11757/Sword_Art_Online",
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/11/39717t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/39717.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/11/39717t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/11/39717l.webp"
+          }
+        },
+        "trailer": {
+          "youtube_id": "6ohYYtxfDCg",
+          "url": "https://www.youtube.com/watch?v=6ohYYtxfDCg",
+          "embed_url": "https://www.youtube.com/embed/6ohYYtxfDCg?enablejsapi=1&wmode=opaque&autoplay=1",
+          "images": {
+            "image_url": "https://img.youtube.com/vi/6ohYYtxfDCg/default.jpg",
+            "small_image_url": "https://img.youtube.com/vi/6ohYYtxfDCg/sddefault.jpg",
+            "medium_image_url": "https://img.youtube.com/vi/6ohYYtxfDCg/mqdefault.jpg",
+            "large_image_url": "https://img.youtube.com/vi/6ohYYtxfDCg/hqdefault.jpg",
+            "maximum_image_url": "https://img.youtube.com/vi/6ohYYtxfDCg/maxresdefault.jpg"
+          }
+        },
+        "approved": true,
+        "titles": [
+          {
+            "type": "Default",
+            "title": "Sword Art Online"
+          },
+          {
+            "type": "Synonym",
+            "title": "S.A.O"
+          },
+          {
+            "type": "Synonym",
+            "title": "SAO"
+          },
+          {
+            "type": "Japanese",
+            "title": "ソードアート・オンライン"
+          },
+          {
+            "type": "English",
+            "title": "Sword Art Online"
+          }
+        ],
+        "title": "Sword Art Online",
+        "title_english": "Sword Art Online",
+        "title_japanese": "ソードアート・オンライン",
+        "title_synonyms": [
+          "S.A.O",
+          "SAO"
+        ],
+        "type": "TV",
+        "source": "Light novel",
+        "episodes": 25,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+          "from": "2012-07-08T00:00:00+00:00",
+          "to": "2012-12-23T00:00:00+00:00",
+          "prop": {
+            "from": {
+              "day": 8,
+              "month": 7,
+              "year": 2012
+            },
+            "to": {
+              "day": 23,
+              "month": 12,
+              "year": 2012
+            }
+          },
+          "string": "Jul 8, 2012 to Dec 23, 2012"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.2,
+        "scored_by": 2063422,
+        "rank": 3050,
+        "popularity": 5,
+        "members": 2938444,
+        "favorites": 66749,
+        "synopsis": "Ever since the release of the innovative NerveGear, gamers from all around the globe have been given the opportunity to experience a completely immersive virtual reality. Sword Art Online (SAO), one of the most recent games on the console, offers a gateway into the wondrous world of Aincrad, a vivid, medieval landscape where users can do anything within the limits of imagination. With the release of this worldwide sensation, gaming has never felt more lifelike.\n\nHowever, the idyllic fantasy rapidly becomes a brutal nightmare when SAO's creator traps thousands of players inside the game. The \"log-out\" function has been removed, with the only method of escape involving beating all of Aincrad's one hundred increasingly difficult levels. Adding to the struggle, any in-game death becomes permanent, ending the player's life in the real world.\n\nWhile Kazuto \"Kirito\" Kirigaya was fortunate enough to be a beta-tester for the game, he quickly finds that despite his advantages, he cannot overcome SAO's challenges alone. Teaming up with Asuna Yuuki and other talented players, Kirito makes an effort to face the seemingly insurmountable trials head-on. But with difficult bosses and threatening dark cults impeding his progress, Kirito finds that such tasks are much easier said than done.\n\n[Written by MAL Rewrite]",
+        "background": null,
+        "season": "summer",
+        "year": 2012,
+        "broadcast": {
+          "day": "Sundays",
+          "time": "00:00",
+          "timezone": "Asia/Tokyo",
+          "string": "Sundays at 00:00 (JST)"
+        },
+        "producers": [
+          {
+            "mal_id": 17,
+            "type": "anime",
+            "name": "Aniplex",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+          },
+          {
+            "mal_id": 79,
+            "type": "anime",
+            "name": "Genco",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+          },
+          {
+            "mal_id": 315,
+            "type": "anime",
+            "name": "DAX Production",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+          },
+          {
+            "mal_id": 681,
+            "type": "anime",
+            "name": "ASCII Media Works",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+          },
+          {
+            "mal_id": 1097,
+            "type": "anime",
+            "name": "Bandai Namco Games",
+            "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games"
+          }
+        ],
+        "licensors": [
+          {
+            "mal_id": 493,
+            "type": "anime",
+            "name": "Aniplex of America",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+          }
+        ],
+        "studios": [
+          {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+          }
+        ],
+        "genres": [
+          {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "mal_id": 2,
+            "type": "anime",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          },
+          {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          },
+          {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+          }
+        ],
+        "explicit_genres": [],
+        "themes": [
+          {
+            "mal_id": 64,
+            "type": "anime",
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+          },
+          {
+            "mal_id": 79,
+            "type": "anime",
+            "name": "Video Game",
+            "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+          }
+        ],
+        "demographics": []
+      },
+      "id": 2
+    }
+  ],
+  "fanfics": [
+    {
+      "newFanFic": {
+        "name": "asdfasf",
+        "genre": "sadfsaf",
+        "image": "",
+        "creator": "sadfsa",
+        "title": "safsadfdasf",
+        "fanficBody": "safsafdsafs"
+      },
+      "id": 1
+    }
+  ]
 }

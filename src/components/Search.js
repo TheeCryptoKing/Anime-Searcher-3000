@@ -2,6 +2,7 @@ import { useState } from "react";
 import Navbar from "./Navbar";
 import AnimeCard from "./AnimeCard";
 import "../stylesheets/Search.css";
+import Modal from "./Modal";
 
 function Search() {
   const initialForm = {
@@ -10,6 +11,10 @@ function Search() {
     type: '',
     status: ''
   };
+
+
+  const [modalStuff, setModalStuff] = useState([])
+  const [show, setShow] = useState(false)
 
   const [searchedAnime, setSearchedAnime] = useState([]);
   const [searchForm, setSearchForm] = useState(initialForm);
@@ -21,6 +26,8 @@ function Search() {
         anime={anime}
         image={anime.images.jpg.image_url}
         name={anime.title}
+        setModalStuff={setModalStuff}
+        setShow={setShow}
       />
     );
   });
@@ -113,6 +120,7 @@ function Search() {
           </button>
         </form>
         <div className="search-results">{searchedAnimeArray}</div>
+        <Modal onClose={() => setShow(false)} show={show} modalStuff={modalStuff} />
       </div>
     </>
   );

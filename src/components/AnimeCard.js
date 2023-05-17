@@ -7,6 +7,7 @@ function AnimeCard({ image, name, anime, setModalStuff, setShow }) {
 
   function updateModal() {
     setModalStuff(anime);
+    setShow(true);
   }
 
   function handlePost() {
@@ -19,11 +20,13 @@ function AnimeCard({ image, name, anime, setModalStuff, setShow }) {
         "Content-type": "application/json",
       },
     });
+    
   }
+
 
   return (
     <div className="anime-card">
-      <img onClick={handleClick} src={image} alt={name}></img>
+      <img onClick={updateModal} src={image} alt={name}></img>
       <h5>{name}</h5>
       <button onClick={handlePost} className="fav-button">
         ❤️

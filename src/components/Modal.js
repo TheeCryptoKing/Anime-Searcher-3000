@@ -8,7 +8,7 @@ function Modal({ modalStuff, show, onClose }) {
     }
 
     return (
-        <div onBlur={onClose} className="modal">
+        <div className="modal">
             <div className="modal-content">
                 <div className="modal-header">
                     {modalStuff.title}

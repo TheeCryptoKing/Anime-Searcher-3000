@@ -1,4 +1,945 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "anime": {
+        "mal_id": 5114,
+        "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1208/94745.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745l.webp"
+          }
+        },
+        "trailer": {
+          "youtube_id": "--IcmZkvL0Q",
+          "url": "https://www.youtube.com/watch?v=--IcmZkvL0Q",
+          "embed_url": "https://www.youtube.com/embed/--IcmZkvL0Q?enablejsapi=1&wmode=opaque&autoplay=1",
+          "images": {
+            "image_url": "https://img.youtube.com/vi/--IcmZkvL0Q/default.jpg",
+            "small_image_url": "https://img.youtube.com/vi/--IcmZkvL0Q/sddefault.jpg",
+            "medium_image_url": "https://img.youtube.com/vi/--IcmZkvL0Q/mqdefault.jpg",
+            "large_image_url": "https://img.youtube.com/vi/--IcmZkvL0Q/hqdefault.jpg",
+            "maximum_image_url": "https://img.youtube.com/vi/--IcmZkvL0Q/maxresdefault.jpg"
+          }
+        },
+        "approved": true,
+        "titles": [
+          {
+            "type": "Default",
+            "title": "Fullmetal Alchemist: Brotherhood"
+          },
+          {
+            "type": "Synonym",
+            "title": "Hagane no Renkinjutsushi: Fullmetal Alchemist"
+          },
+          {
+            "type": "Synonym",
+            "title": "Fullmetal Alchemist (2009)"
+          },
+          {
+            "type": "Synonym",
+            "title": "FMA"
+          },
+          {
+            "type": "Synonym",
+            "title": "FMAB"
+          },
+          {
+            "type": "Japanese",
+            "title": "鋼の錬金術師 FULLMETAL ALCHEMIST"
+          },
+          {
+            "type": "English",
+            "title": "Fullmetal Alchemist: Brotherhood"
+          },
+          {
+            "type": "French",
+            "title": "Fullmetal Alchemist Brotherhood"
+          }
+        ],
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "title_english": "Fullmetal Alchemist: Brotherhood",
+        "title_japanese": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+        "title_synonyms": [
+          "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+          "Fullmetal Alchemist (2009)",
+          "FMA",
+          "FMAB"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 64,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+          "from": "2009-04-05T00:00:00+00:00",
+          "to": "2010-07-04T00:00:00+00:00",
+          "prop": {
+            "from": {
+              "day": 5,
+              "month": 4,
+              "year": 2009
+            },
+            "to": {
+              "day": 4,
+              "month": 7,
+              "year": 2010
+            }
+          },
+          "string": "Apr 5, 2009 to Jul 4, 2010"
+        },
+        "duration": "24 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 9.1,
+        "scored_by": 2008622,
+        "rank": 1,
+        "popularity": 3,
+        "members": 3157717,
+        "favorites": 216574,
+        "synopsis": "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor.\n\nThe brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing \"automail,\" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.\n\nAs Edward becomes an infamous alchemist and gains the nickname \"Fullmetal,\" the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.\n\n[Written by MAL Rewrite]",
+        "background": null,
+        "season": "spring",
+        "year": 2009,
+        "broadcast": {
+          "day": "Sundays",
+          "time": "17:00",
+          "timezone": "Asia/Tokyo",
+          "string": "Sundays at 17:00 (JST)"
+        },
+        "producers": [
+          {
+            "mal_id": 17,
+            "type": "anime",
+            "name": "Aniplex",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+          },
+          {
+            "mal_id": 58,
+            "type": "anime",
+            "name": "Square Enix",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+          },
+          {
+            "mal_id": 143,
+            "type": "anime",
+            "name": "Mainichi Broadcasting System",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+          },
+          {
+            "mal_id": 1155,
+            "type": "anime",
+            "name": "Studio Moriken",
+            "url": "https://myanimelist.net/anime/producer/1155/Studio_Moriken"
+          }
+        ],
+        "licensors": [
+          {
+            "mal_id": 102,
+            "type": "anime",
+            "name": "Funimation",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+          },
+          {
+            "mal_id": 493,
+            "type": "anime",
+            "name": "Aniplex of America",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+          }
+        ],
+        "studios": [
+          {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+          }
+        ],
+        "genres": [
+          {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "mal_id": 2,
+            "type": "anime",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          },
+          {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+          },
+          {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "explicit_genres": [],
+        "themes": [
+          {
+            "mal_id": 38,
+            "type": "anime",
+            "name": "Military",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+          }
+        ],
+        "demographics": [
+          {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ]
+      },
+      "id": 2
+    },
+    {
+      "anime": {
+        "mal_id": 49458,
+        "url": "https://myanimelist.net/anime/49458/Kono_Subarashii_Sekai_ni_Shukufuku_wo_3",
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1893/124134.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1893/124134t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1893/124134l.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1893/124134.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1893/124134t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1893/124134l.webp"
+          }
+        },
+        "trailer": {
+          "youtube_id": null,
+          "url": null,
+          "embed_url": null,
+          "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+          }
+        },
+        "approved": true,
+        "titles": [
+          {
+            "type": "Default",
+            "title": "Kono Subarashii Sekai ni Shukufuku wo! 3"
+          },
+          {
+            "type": "Japanese",
+            "title": "この素晴らしい世界に祝福を！3"
+          },
+          {
+            "type": "English",
+            "title": "KonoSuba: God's Blessing on This Wonderful World! 3"
+          }
+        ],
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+        "title_english": "KonoSuba: God's Blessing on This Wonderful World! 3",
+        "title_japanese": "この素晴らしい世界に祝福を！3",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Light novel",
+        "episodes": null,
+        "status": "Not yet aired",
+        "airing": false,
+        "aired": {
+          "from": null,
+          "to": null,
+          "prop": {
+            "from": {
+              "day": null,
+              "month": null,
+              "year": null
+            },
+            "to": {
+              "day": null,
+              "month": null,
+              "year": null
+            }
+          },
+          "string": "Not available"
+        },
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": null,
+        "scored_by": null,
+        "rank": null,
+        "popularity": 1232,
+        "members": 178601,
+        "favorites": 1487,
+        "synopsis": "Third season of Kono Subarashii Sekai ni Shukufuku wo!",
+        "background": null,
+        "season": null,
+        "year": null,
+        "broadcast": {
+          "day": null,
+          "time": null,
+          "timezone": null,
+          "string": "Unknown"
+        },
+        "producers": [
+          {
+            "mal_id": 1696,
+            "type": "anime",
+            "name": "Kadokawa",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+          }
+        ],
+        "licensors": [],
+        "studios": [
+          {
+            "mal_id": 1967,
+            "type": "anime",
+            "name": "Drive",
+            "url": "https://myanimelist.net/anime/producer/1967/Drive"
+          }
+        ],
+        "genres": [
+          {
+            "mal_id": 2,
+            "type": "anime",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          },
+          {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "explicit_genres": [],
+        "themes": [
+          {
+            "mal_id": 62,
+            "type": "anime",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/anime/genre/62/Isekai"
+          },
+          {
+            "mal_id": 20,
+            "type": "anime",
+            "name": "Parody",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+          },
+          {
+            "mal_id": 72,
+            "type": "anime",
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+          }
+        ],
+        "demographics": []
+      },
+      "id": 4
+    },
+    {
+      "anime": {
+        "mal_id": 47160,
+        "url": "https://myanimelist.net/anime/47160/Goblin_Slayer_2nd_Season",
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1569/134760.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1569/134760t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1569/134760l.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1569/134760.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1569/134760t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1569/134760l.webp"
+          }
+        },
+        "trailer": {
+          "youtube_id": "Dc3U12kH3WA",
+          "url": "https://www.youtube.com/watch?v=Dc3U12kH3WA",
+          "embed_url": "https://www.youtube.com/embed/Dc3U12kH3WA?enablejsapi=1&wmode=opaque&autoplay=1",
+          "images": {
+            "image_url": "https://img.youtube.com/vi/Dc3U12kH3WA/default.jpg",
+            "small_image_url": "https://img.youtube.com/vi/Dc3U12kH3WA/sddefault.jpg",
+            "medium_image_url": "https://img.youtube.com/vi/Dc3U12kH3WA/mqdefault.jpg",
+            "large_image_url": "https://img.youtube.com/vi/Dc3U12kH3WA/hqdefault.jpg",
+            "maximum_image_url": "https://img.youtube.com/vi/Dc3U12kH3WA/maxresdefault.jpg"
+          }
+        },
+        "approved": true,
+        "titles": [
+          {
+            "type": "Default",
+            "title": "Goblin Slayer 2nd Season"
+          },
+          {
+            "type": "Japanese",
+            "title": "ゴブリンスレイヤー"
+          }
+        ],
+        "title": "Goblin Slayer 2nd Season",
+        "title_english": null,
+        "title_japanese": "ゴブリンスレイヤー",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Light novel",
+        "episodes": null,
+        "status": "Not yet aired",
+        "airing": false,
+        "aired": {
+          "from": "2023-01-01T00:00:00+00:00",
+          "to": null,
+          "prop": {
+            "from": {
+              "day": 1,
+              "month": 1,
+              "year": 2023
+            },
+            "to": {
+              "day": null,
+              "month": null,
+              "year": null
+            }
+          },
+          "string": "2023 to ?"
+        },
+        "duration": "Unknown",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": null,
+        "scored_by": null,
+        "rank": null,
+        "popularity": 1255,
+        "members": 175668,
+        "favorites": 1823,
+        "synopsis": "Second season of Goblin Slayer.",
+        "background": null,
+        "season": null,
+        "year": null,
+        "broadcast": {
+          "day": null,
+          "time": null,
+          "timezone": null,
+          "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+          {
+            "mal_id": 839,
+            "type": "anime",
+            "name": "LIDENFILMS",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+          }
+        ],
+        "genres": [
+          {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "mal_id": 2,
+            "type": "anime",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          },
+          {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": []
+      },
+      "id": 5
+    },
+    {
+      "anime": {
+        "mal_id": 51179,
+        "url": "https://myanimelist.net/anime/51179/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu",
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1776/131746.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1776/131746t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1776/131746l.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1776/131746.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1776/131746t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1776/131746l.webp"
+          }
+        },
+        "trailer": {
+          "youtube_id": "keti2rbgI6c",
+          "url": "https://www.youtube.com/watch?v=keti2rbgI6c",
+          "embed_url": "https://www.youtube.com/embed/keti2rbgI6c?enablejsapi=1&wmode=opaque&autoplay=1",
+          "images": {
+            "image_url": "https://img.youtube.com/vi/keti2rbgI6c/default.jpg",
+            "small_image_url": "https://img.youtube.com/vi/keti2rbgI6c/sddefault.jpg",
+            "medium_image_url": "https://img.youtube.com/vi/keti2rbgI6c/mqdefault.jpg",
+            "large_image_url": "https://img.youtube.com/vi/keti2rbgI6c/hqdefault.jpg",
+            "maximum_image_url": "https://img.youtube.com/vi/keti2rbgI6c/maxresdefault.jpg"
+          }
+        },
+        "approved": true,
+        "titles": [
+          {
+            "type": "Default",
+            "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+          },
+          {
+            "type": "Synonym",
+            "title": "Jobless Reincarnation: I Will Seriously Try If I Go To Another World"
+          },
+          {
+            "type": "Synonym",
+            "title": "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season"
+          },
+          {
+            "type": "Japanese",
+            "title": "無職転生 II ～異世界行ったら本気だす～"
+          },
+          {
+            "type": "English",
+            "title": "Mushoku Tensei: Jobless Reincarnation Season 2"
+          }
+        ],
+        "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+        "title_english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "title_japanese": "無職転生 II ～異世界行ったら本気だす～",
+        "title_synonyms": [
+          "Jobless Reincarnation: I Will Seriously Try If I Go To Another World",
+          "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season"
+        ],
+        "type": "TV",
+        "source": "Light novel",
+        "episodes": null,
+        "status": "Not yet aired",
+        "airing": false,
+        "aired": {
+          "from": "2023-07-01T00:00:00+00:00",
+          "to": null,
+          "prop": {
+            "from": {
+              "day": 1,
+              "month": 7,
+              "year": 2023
+            },
+            "to": {
+              "day": null,
+              "month": null,
+              "year": null
+            }
+          },
+          "string": "Jul 2023 to ?"
+        },
+        "duration": "Unknown",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": null,
+        "scored_by": null,
+        "rank": null,
+        "popularity": 1267,
+        "members": 173745,
+        "favorites": 1722,
+        "synopsis": "Second season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+        "background": null,
+        "season": "summer",
+        "year": 2023,
+        "broadcast": {
+          "day": null,
+          "time": null,
+          "timezone": null,
+          "string": "Unknown"
+        },
+        "producers": [
+          {
+            "mal_id": 1444,
+            "type": "anime",
+            "name": "Egg Firm",
+            "url": "https://myanimelist.net/anime/producer/1444/Egg_Firm"
+          }
+        ],
+        "licensors": [],
+        "studios": [
+          {
+            "mal_id": 1993,
+            "type": "anime",
+            "name": "Studio Bind",
+            "url": "https://myanimelist.net/anime/producer/1993/Studio_Bind"
+          }
+        ],
+        "genres": [
+          {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+          },
+          {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          },
+          {
+            "mal_id": 9,
+            "type": "anime",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+          }
+        ],
+        "explicit_genres": [],
+        "themes": [
+          {
+            "mal_id": 62,
+            "type": "anime",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/anime/genre/62/Isekai"
+          },
+          {
+            "mal_id": 72,
+            "type": "anime",
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+          }
+        ],
+        "demographics": []
+      },
+      "id": 6
+    },
+    {
+      "anime": {
+        "mal_id": 48585,
+        "url": "https://myanimelist.net/anime/48585/Black_Clover__Mahou_Tei_no_Ken",
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1499/131676.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1499/131676t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1499/131676l.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1499/131676.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1499/131676t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1499/131676l.webp"
+          }
+        },
+        "trailer": {
+          "youtube_id": "EZOToP8xLPg",
+          "url": "https://www.youtube.com/watch?v=EZOToP8xLPg",
+          "embed_url": "https://www.youtube.com/embed/EZOToP8xLPg?enablejsapi=1&wmode=opaque&autoplay=1",
+          "images": {
+            "image_url": "https://img.youtube.com/vi/EZOToP8xLPg/default.jpg",
+            "small_image_url": "https://img.youtube.com/vi/EZOToP8xLPg/sddefault.jpg",
+            "medium_image_url": "https://img.youtube.com/vi/EZOToP8xLPg/mqdefault.jpg",
+            "large_image_url": "https://img.youtube.com/vi/EZOToP8xLPg/hqdefault.jpg",
+            "maximum_image_url": "https://img.youtube.com/vi/EZOToP8xLPg/maxresdefault.jpg"
+          }
+        },
+        "approved": true,
+        "titles": [
+          {
+            "type": "Default",
+            "title": "Black Clover: Mahou Tei no Ken"
+          },
+          {
+            "type": "Japanese",
+            "title": "ブラッククローバー 魔法帝の剣"
+          },
+          {
+            "type": "English",
+            "title": "Black Clover: Sword of the Wizard King"
+          }
+        ],
+        "title": "Black Clover: Mahou Tei no Ken",
+        "title_english": "Black Clover: Sword of the Wizard King",
+        "title_japanese": "ブラッククローバー 魔法帝の剣",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Not yet aired",
+        "airing": false,
+        "aired": {
+          "from": "2023-06-16T00:00:00+00:00",
+          "to": null,
+          "prop": {
+            "from": {
+              "day": 16,
+              "month": 6,
+              "year": 2023
+            },
+            "to": {
+              "day": null,
+              "month": null,
+              "year": null
+            }
+          },
+          "string": "Jun 16, 2023"
+        },
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": null,
+        "scored_by": null,
+        "rank": null,
+        "popularity": 1527,
+        "members": 136087,
+        "favorites": 1820,
+        "synopsis": null,
+        "background": null,
+        "season": null,
+        "year": null,
+        "broadcast": {
+          "day": null,
+          "time": null,
+          "timezone": null,
+          "string": null
+        },
+        "producers": [
+          {
+            "mal_id": 109,
+            "type": "anime",
+            "name": "Shochiku",
+            "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+          }
+        ],
+        "licensors": [],
+        "studios": [
+          {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Pierrot"
+          }
+        ],
+        "genres": [
+          {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+          {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ]
+      },
+      "id": 7
+    },
+    {
+      "anime": {
+        "mal_id": 38000,
+        "url": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba",
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp"
+          }
+        },
+        "trailer": {
+          "youtube_id": "6vMuWuWlW4I",
+          "url": "https://www.youtube.com/watch?v=6vMuWuWlW4I",
+          "embed_url": "https://www.youtube.com/embed/6vMuWuWlW4I?enablejsapi=1&wmode=opaque&autoplay=1",
+          "images": {
+            "image_url": "https://img.youtube.com/vi/6vMuWuWlW4I/default.jpg",
+            "small_image_url": "https://img.youtube.com/vi/6vMuWuWlW4I/sddefault.jpg",
+            "medium_image_url": "https://img.youtube.com/vi/6vMuWuWlW4I/mqdefault.jpg",
+            "large_image_url": "https://img.youtube.com/vi/6vMuWuWlW4I/hqdefault.jpg",
+            "maximum_image_url": "https://img.youtube.com/vi/6vMuWuWlW4I/maxresdefault.jpg"
+          }
+        },
+        "approved": true,
+        "titles": [
+          {
+            "type": "Default",
+            "title": "Kimetsu no Yaiba"
+          },
+          {
+            "type": "Synonym",
+            "title": "Blade of Demon Destruction"
+          },
+          {
+            "type": "Japanese",
+            "title": "鬼滅の刃"
+          },
+          {
+            "type": "English",
+            "title": "Demon Slayer: Kimetsu no Yaiba"
+          },
+          {
+            "type": "German",
+            "title": "Demon Slayer"
+          },
+          {
+            "type": "Spanish",
+            "title": "Guardianes De La Noche: Kimetsu no Yaiba"
+          },
+          {
+            "type": "French",
+            "title": "Demon Slayer"
+          }
+        ],
+        "title": "Kimetsu no Yaiba",
+        "title_english": "Demon Slayer: Kimetsu no Yaiba",
+        "title_japanese": "鬼滅の刃",
+        "title_synonyms": [
+          "Blade of Demon Destruction"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+          "from": "2019-04-06T00:00:00+00:00",
+          "to": "2019-09-28T00:00:00+00:00",
+          "prop": {
+            "from": {
+              "day": 6,
+              "month": 4,
+              "year": 2019
+            },
+            "to": {
+              "day": 28,
+              "month": 9,
+              "year": 2019
+            }
+          },
+          "string": "Apr 6, 2019 to Sep 28, 2019"
+        },
+        "duration": "23 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 8.51,
+        "scored_by": 1923977,
+        "rank": 122,
+        "popularity": 7,
+        "members": 2781204,
+        "favorites": 87626,
+        "synopsis": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.\n\nWhen he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants of his beloved sister's humanity.\n\n[Written by MAL Rewrite]",
+        "background": "The anime covers chapters 1 to 53 of the manga. Kimetsu no Yaiba won the Animation of the Year award in the Television category at the Tokyo Anime Award Festival in 2020.",
+        "season": "spring",
+        "year": 2019,
+        "broadcast": {
+          "day": "Saturdays",
+          "time": "23:30",
+          "timezone": "Asia/Tokyo",
+          "string": "Saturdays at 23:30 (JST)"
+        },
+        "producers": [
+          {
+            "mal_id": 17,
+            "type": "anime",
+            "name": "Aniplex",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+          },
+          {
+            "mal_id": 1365,
+            "type": "anime",
+            "name": "Shueisha",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+          }
+        ],
+        "licensors": [
+          {
+            "mal_id": 493,
+            "type": "anime",
+            "name": "Aniplex of America",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+          }
+        ],
+        "studios": [
+          {
+            "mal_id": 43,
+            "type": "anime",
+            "name": "ufotable",
+            "url": "https://myanimelist.net/anime/producer/43/ufotable"
+          }
+        ],
+        "genres": [
+          {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "mal_id": 46,
+            "type": "anime",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+          },
+          {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "explicit_genres": [],
+        "themes": [
+          {
+            "mal_id": 13,
+            "type": "anime",
+            "name": "Historical",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+          }
+        ],
+        "demographics": [
+          {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ]
+      },
+      "id": 8
+    }
+  ],
   "fanfictions": []
 }

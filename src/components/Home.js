@@ -24,7 +24,10 @@ const [show, setShow] = useState(false)
           <h3 className="title">Top 10 Newest Animes:</h3>
           <CardContainer setModalStuff={setModalStuff} animeList={newAnimes}/>
         </div>
+
+
         <Modal onClose={() => setShow(false)} show={show} modalStuff={modalStuff} />
+
       </div>
     </div>
   );

@@ -1,0 +1,7 @@
+.fav-animes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    margin-right: 20px;
+}

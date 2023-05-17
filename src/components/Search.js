@@ -18,6 +18,7 @@ function Search() {
     return (
       <AnimeCard
         key={anime.title}
+        anime={anime}
         image={anime.images.jpg.image_url}
         name={anime.title}
       />

@@ -1,6 +1,7 @@
 .nav-header {
-  background-color: #fccbf4;
-  color: rgb(255, 255, 255);
+  background-image: url('http://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/538943.jpg');
+  /* add a dark layer on top of it  */
+  color: rgb(160, 203, 252);
   width: 100vw;
   height: 20vmax;
   display: flex;

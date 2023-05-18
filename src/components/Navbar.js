@@ -5,7 +5,7 @@ import "../stylesheets/Navbar.css";
 
 
 function Navbar() {
-  const links = ["Home", "Favorites", "Fanfics", "Search"];
+  const links = ["Hσɱҽ", "Fαʋσɾιƚҽʂ", "FαɳFιƈʂ", "Sҽαɾƈԋ"];
 
   const anchors = links.map((link) => (
     <NavLink className="nav-link" key={link} to={"/" + link}>
@@ -15,7 +15,7 @@ function Navbar() {
 
   return (
     <header className="nav-header">
-      <h1 className="page-title">Anime Searcher 3000</h1>
+      <h1 className="page-title">Aɳιɱҽ Sҽαɾƈԋҽɾ 3000 </h1>
         <nav>{anchors}</nav>
     </header>
   );

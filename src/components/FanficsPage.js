@@ -13,7 +13,7 @@ function FanficsPage() {
   
   const initialForm = {
     name: "",
-    genre: "",
+    genre: (fromFav ? fromFav.genres[0].name : ""),
     image: (fromFav ? fromFav.images.jpg.image_url : ""),
     creator: "",
     title: (fromFav ? fromFav.title : ""),

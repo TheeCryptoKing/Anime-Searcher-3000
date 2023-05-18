@@ -1,6 +1,563 @@
 {
   "favorites": [
     {
+      "mal_id": 40357,
+      "url": "https://myanimelist.net/anime/40357/Tate_no_Yuusha_no_Nariagari_Season_3",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1995/135164.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1995/135164.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "VW_LxM4tt-o",
+        "url": "https://www.youtube.com/watch?v=VW_LxM4tt-o",
+        "embed_url": "https://www.youtube.com/embed/VW_LxM4tt-o?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tate no Yuusha no Nariagari Season 3"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tate no Yuusha no Nariagari 3rd Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Rising of the Shield Hero 3rd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "盾の勇者の成り上がり"
+        },
+        {
+          "type": "English",
+          "title": "The Rising of the Shield Hero Season 3"
+        }
+      ],
+      "title": "Tate no Yuusha no Nariagari Season 3",
+      "title_english": "The Rising of the Shield Hero Season 3",
+      "title_japanese": "盾の勇者の成り上がり",
+      "title_synonyms": [
+        "Tate no Yuusha no Nariagari 3rd Season",
+        "The Rising of the Shield Hero 3rd Season"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": null,
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2023-10-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 10,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 2023 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 781,
+      "members": 284893,
+      "favorites": 4530,
+      "synopsis": "Third season of Tate no Yuusha no Nariagari.",
+      "background": null,
+      "season": "fall",
+      "year": 2023,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 290,
+          "type": "anime",
+          "name": "Kinema Citrus",
+          "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "demographics": [],
+      "id": 20
+    },
+    {
+      "mal_id": 16498,
+      "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/47347t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/47347t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/47347l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "LHtdKWJdif4",
+        "url": "https://www.youtube.com/watch?v=LHtdKWJdif4",
+        "embed_url": "https://www.youtube.com/embed/LHtdKWJdif4?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/LHtdKWJdif4/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shingeki no Kyojin"
+        },
+        {
+          "type": "Synonym",
+          "title": "AoT"
+        },
+        {
+          "type": "Synonym",
+          "title": "SnK"
+        },
+        {
+          "type": "Japanese",
+          "title": "進撃の巨人"
+        },
+        {
+          "type": "English",
+          "title": "Attack on Titan"
+        },
+        {
+          "type": "German",
+          "title": "Attack on Titan"
+        },
+        {
+          "type": "Spanish",
+          "title": "Ataque a los Titanes"
+        },
+        {
+          "type": "French",
+          "title": "L'Attaque des Titans"
+        }
+      ],
+      "title": "Shingeki no Kyojin",
+      "title_english": "Attack on Titan",
+      "title_japanese": "進撃の巨人",
+      "title_synonyms": [
+        "AoT",
+        "SnK"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2013-04-07T00:00:00+00:00",
+        "to": "2013-09-29T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 4,
+            "year": 2013
+          },
+          "to": {
+            "day": 29,
+            "month": 9,
+            "year": 2013
+          }
+        },
+        "string": "Apr 7, 2013 to Sep 29, 2013"
+      },
+      "duration": "24 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.54,
+      "scored_by": 2646787,
+      "rank": 107,
+      "popularity": 1,
+      "members": 3724097,
+      "favorites": 163072,
+      "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman, and his childhood friend Armin Arlert join the brutal war against the Titans and race to discover a way of defeating them before the last walls are breached.\n\n[Written by MAL Rewrite]",
+      "background": "Shingeki no Kyojin adapts content from the first eight volumes of Hajime Isayama's award-winning manga of the same name. The last episode received a pre-airing in Tokyo, Marunouchi Piccadilly 1 theater on Saturday, September 28, 2013. TV broadcast took place after midnight, a few hours later. Shingeki no Kyojin won the Animation of the Year in the Television category at the Tokyo Anime Award Festival in 2014.",
+      "season": "spring",
+      "year": 2013,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "01:58",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 01:58 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Production I.G",
+          "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 143,
+          "type": "anime",
+          "name": "Mainichi Broadcasting System",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 144,
+          "type": "anime",
+          "name": "Pony Canyon",
+          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+          "mal_id": 159,
+          "type": "anime",
+          "name": "Kodansha",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 430,
+          "type": "anime",
+          "name": "Mad Box",
+          "url": "https://myanimelist.net/anime/producer/430/Mad_Box"
+        },
+        {
+          "mal_id": 1557,
+          "type": "anime",
+          "name": "Pony Canyon Enterprise",
+          "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprise"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 858,
+          "type": "anime",
+          "name": "Wit Studio",
+          "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 46,
+          "type": "anime",
+          "name": "Award Winning",
+          "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 41,
+          "type": "anime",
+          "name": "Suspense",
+          "url": "https://myanimelist.net/anime/genre/41/Suspense"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 58,
+          "type": "anime",
+          "name": "Gore",
+          "url": "https://myanimelist.net/anime/genre/58/Gore"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Survival",
+          "url": "https://myanimelist.net/anime/genre/76/Survival"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "mal_id": 1535,
+      "url": "https://myanimelist.net/anime/1535/Death_Note",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/9/9453l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/9/9453t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/9/9453l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "Vt_3c8BgxV4",
+        "url": "https://www.youtube.com/watch?v=Vt_3c8BgxV4",
+        "embed_url": "https://www.youtube.com/embed/Vt_3c8BgxV4?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/Vt_3c8BgxV4/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/Vt_3c8BgxV4/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/Vt_3c8BgxV4/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/Vt_3c8BgxV4/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/Vt_3c8BgxV4/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Death Note"
+        },
+        {
+          "type": "Synonym",
+          "title": "DN"
+        },
+        {
+          "type": "Japanese",
+          "title": "デスノート"
+        },
+        {
+          "type": "English",
+          "title": "Death Note"
+        }
+      ],
+      "title": "Death Note",
+      "title_english": "Death Note",
+      "title_japanese": "デスノート",
+      "title_synonyms": [
+        "DN"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 37,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2006-10-04T00:00:00+00:00",
+        "to": "2007-06-27T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 10,
+            "year": 2006
+          },
+          "to": {
+            "day": 27,
+            "month": 6,
+            "year": 2007
+          }
+        },
+        "string": "Oct 4, 2006 to Jun 27, 2007"
+      },
+      "duration": "23 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.62,
+      "scored_by": 2606071,
+      "rank": 75,
+      "popularity": 2,
+      "members": 3693452,
+      "favorites": 166771,
+      "synopsis": "Brutal murders, petty thefts, and senseless violence pollute the human world. In contrast, the realm of death gods is a humdrum, unchanging gambling den. The ingenious 17-year-old Japanese student Light Yagami and sadistic god of death Ryuk share one belief: their worlds are rotten.\n\nFor his own amusement, Ryuk drops his Death Note into the human world. Light stumbles upon it, deeming the first of its rules ridiculous: the human whose name is written in this note shall die. However, the temptation is too great, and Light experiments by writing a felon's name, which disturbingly enacts his first murder.\n\nAware of the terrifying godlike power that has fallen into his hands, Light—under the alias Kira—follows his wicked sense of justice with the ultimate goal of cleansing the world of all evil-doers. The meticulous mastermind detective L is already on his trail, but as Light's brilliance rivals L's, the grand chase for Kira turns into an intense battle of wits that can only end when one of them is dead.\n\n[Written by MAL Rewrite]",
+      "background": "Death Note has been adapted into live action films, TV dramas, video games, light novels and a musical composed by a Broadway composer. It is licensed in North America by Viz Media.",
+      "season": "fall",
+      "year": 2006,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "00:56",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 00:56 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "VAP",
+          "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+          "mal_id": 85,
+          "type": "anime",
+          "name": "Konami",
+          "url": "https://myanimelist.net/anime/producer/85/Konami"
+        },
+        {
+          "mal_id": 242,
+          "type": "anime",
+          "name": "Ashi Productions",
+          "url": "https://myanimelist.net/anime/producer/242/Ashi_Productions"
+        },
+        {
+          "mal_id": 1003,
+          "type": "anime",
+          "name": "Nippon Television Network",
+          "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 119,
+          "type": "anime",
+          "name": "VIZ Media",
+          "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 11,
+          "type": "anime",
+          "name": "Madhouse",
+          "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+          "mal_id": 41,
+          "type": "anime",
+          "name": "Suspense",
+          "url": "https://myanimelist.net/anime/genre/41/Suspense"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 39,
+          "type": "anime",
+          "name": "Detective",
+          "url": "https://myanimelist.net/anime/genre/39/Detective"
+        },
+        {
+          "mal_id": 40,
+          "type": "anime",
+          "name": "Psychological",
+          "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "id": 22
+    },
+    {
       "mal_id": 5114,
       "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
       "images": {
@@ -202,1893 +759,7 @@
           "url": "https://myanimelist.net/anime/genre/27/Shounen"
         }
       ],
-      "id": 3
-    },
-    {
-      "mal_id": 2472,
-      "url": "https://myanimelist.net/anime/2472/Naruto__Shippuuden_Movie_1",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1703/134493.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1703/134493t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1703/134493l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1703/134493.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1703/134493t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1703/134493l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": null,
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Naruto: Shippuuden Movie 1"
-        },
-        {
-          "type": "Synonym",
-          "title": "Naruto Shippuden Movie"
-        },
-        {
-          "type": "Synonym",
-          "title": "Naruto Movie 4"
-        },
-        {
-          "type": "Synonym",
-          "title": "Gekijouban Naruto Shippuuden"
-        },
-        {
-          "type": "Japanese",
-          "title": "劇場版NARUTO -ナルト- 疾風伝"
-        },
-        {
-          "type": "English",
-          "title": "Naruto Shippuden the Movie 1"
-        },
-        {
-          "type": "German",
-          "title": "Naruto Shippuden: Der Film"
-        },
-        {
-          "type": "Spanish",
-          "title": "Naruto Shippuden: La Película"
-        },
-        {
-          "type": "French",
-          "title": "Naruto Shippuden Le Film: Un Funeste Présage"
-        }
-      ],
-      "title": "Naruto: Shippuuden Movie 1",
-      "title_english": "Naruto Shippuden the Movie 1",
-      "title_japanese": "劇場版NARUTO -ナルト- 疾風伝",
-      "title_synonyms": [
-        "Naruto Shippuden Movie",
-        "Naruto Movie 4",
-        "Gekijouban Naruto Shippuuden"
-      ],
-      "type": "Movie",
-      "source": "Manga",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "airing": false,
-      "aired": {
-        "from": "2007-08-04T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 4,
-            "month": 8,
-            "year": 2007
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Aug 4, 2007"
-      },
-      "duration": "1 hr 34 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 7.29,
-      "scored_by": 166735,
-      "rank": 2576,
-      "popularity": 780,
-      "members": 285243,
-      "favorites": 301,
-      "synopsis": "A group of ninja is planning to revive a powerful demon, and once its spirit is reunited with its body, the world will be destroyed. The only way to prevent this from happening is for Shion, a shrine maiden, to seal it away for good.\n\nNaruto Uzumaki is tasked to guard her, but one thing stops Shion from accepting his help: she also has the ability to predict death—and she has foreseen his demise approaching soon. In order to escape his fate, Naruto must stay away from Shion; however, undeterred, he chooses to challenge the prophecy in order to protect Shion and the world.\n\n[Written by MAL Rewrite]",
-      "background": null,
-      "season": null,
-      "year": null,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
-      },
-      "producers": [
-        {
-          "mal_id": 16,
-          "type": "anime",
-          "name": "TV Tokyo",
-          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
-        },
-        {
-          "mal_id": 17,
-          "type": "anime",
-          "name": "Aniplex",
-          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
-        },
-        {
-          "mal_id": 53,
-          "type": "anime",
-          "name": "Dentsu",
-          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
-        },
-        {
-          "mal_id": 230,
-          "type": "anime",
-          "name": "Bandai",
-          "url": "https://myanimelist.net/anime/producer/230/Bandai"
-        },
-        {
-          "mal_id": 1365,
-          "type": "anime",
-          "name": "Shueisha",
-          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
-        }
-      ],
-      "licensors": [
-        {
-          "mal_id": 119,
-          "type": "anime",
-          "name": "VIZ Media",
-          "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
-        }
-      ],
-      "studios": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Pierrot",
-          "url": "https://myanimelist.net/anime/producer/1/Pierrot"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ],
-      "id": 4
-    },
-    {
-      "mal_id": 10506,
-      "url": "https://myanimelist.net/anime/10506/Shiawase_Haitatsu_Taneko",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/2/28900.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/2/28900t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/2/28900.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/2/28900t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/2/28900l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": null,
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Shiawase Haitatsu Taneko"
-        },
-        {
-          "type": "Japanese",
-          "title": "しあわせ配達おみくじタネコ"
-        }
-      ],
-      "title": "Shiawase Haitatsu Taneko",
-      "title_english": null,
-      "title_japanese": "しあわせ配達おみくじタネコ",
-      "title_synonyms": [],
-      "type": "TV",
-      "source": "Original",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2011-03-26T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 26,
-            "month": 3,
-            "year": 2011
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Mar 26, 2011 to ?"
-      },
-      "duration": "Unknown",
-      "rating": null,
-      "score": null,
-      "scored_by": null,
-      "rank": 19504,
-      "popularity": 13285,
-      "members": 805,
-      "favorites": 2,
-      "synopsis": "The story centers around a cat who answers people's wishes and delivers happiness. (\"Tane\" and \"neko\" are the Japanese words for \"seed\" and \"cat,\" respectively.)\n\n(Source: ANN)",
-      "background": null,
-      "season": "spring",
-      "year": 2011,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Not scheduled once per week"
-      },
-      "producers": [],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 432,
-          "type": "anime",
-          "name": "Kachidoki Studio",
-          "url": "https://myanimelist.net/anime/producer/432/Kachidoki_Studio"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [],
-      "id": 5
-    },
-    {
-      "mal_id": 15407,
-      "url": "https://myanimelist.net/anime/15407/Magical_Suite_Prism_Nana",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/4/75803.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75803t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75803l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/4/75803.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75803t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75803l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": "7aN30-umH4E",
-        "url": "https://www.youtube.com/watch?v=7aN30-umH4E",
-        "embed_url": "https://www.youtube.com/embed/7aN30-umH4E?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": "https://img.youtube.com/vi/7aN30-umH4E/default.jpg",
-          "small_image_url": "https://img.youtube.com/vi/7aN30-umH4E/sddefault.jpg",
-          "medium_image_url": "https://img.youtube.com/vi/7aN30-umH4E/mqdefault.jpg",
-          "large_image_url": "https://img.youtube.com/vi/7aN30-umH4E/hqdefault.jpg",
-          "maximum_image_url": "https://img.youtube.com/vi/7aN30-umH4E/maxresdefault.jpg"
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Magical Suite Prism Nana"
-        },
-        {
-          "type": "Japanese",
-          "title": "まじかるすいーとプリズム・ナナ"
-        }
-      ],
-      "title": "Magical Suite Prism Nana",
-      "title_english": null,
-      "title_japanese": "まじかるすいーとプリズム・ナナ",
-      "title_synonyms": [],
-      "type": "OVA",
-      "source": "Original",
-      "episodes": 7,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2015-11-29T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 29,
-            "month": 11,
-            "year": 2015
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Nov 29, 2015 to ?"
-      },
-      "duration": "30 min per ep",
-      "rating": null,
-      "score": 5.81,
-      "scored_by": 198,
-      "rank": 9607,
-      "popularity": 6214,
-      "members": 9237,
-      "favorites": 6,
-      "synopsis": "In a future not too distant from ours, Nanagoo City is a beautiful city in Japan surrounded by mountains and ocean-sides. The sensitive, adolescent girls who live there are each opening up doors to their own, unique possibilities. No one wants to forget the path they take to adulthood.\n\n(Source: ANN)",
-      "background": null,
-      "season": null,
-      "year": null,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
-      },
-      "producers": [],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 44,
-          "type": "anime",
-          "name": "Shaft",
-          "url": "https://myanimelist.net/anime/producer/44/Shaft"
-        }
-      ],
-      "genres": [],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [],
-      "id": 7
-    },
-    {
-      "mal_id": 9874,
-      "url": "https://myanimelist.net/anime/9874/Touhou_Niji_Sousaku_Doujin_Anime__Musou_Kakyou",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/3/27302.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/3/27302t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/3/27302l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/3/27302.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/3/27302t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/3/27302l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": null,
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou"
-        },
-        {
-          "type": "Synonym",
-          "title": "Touhou Unofficial Doujin Anime: A Summer Day's Dream"
-        },
-        {
-          "type": "Japanese",
-          "title": "東方二次創作同人アニメ 夢想夏郷"
-        }
-      ],
-      "title": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
-      "title_english": null,
-      "title_japanese": "東方二次創作同人アニメ 夢想夏郷",
-      "title_synonyms": [
-        "Touhou Unofficial Doujin Anime: A Summer Day's Dream"
-      ],
-      "type": "OVA",
-      "source": "Game",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2008-12-29T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 29,
-            "month": 12,
-            "year": 2008
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Dec 29, 2008 to ?"
-      },
-      "duration": "22 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 7.22,
-      "scored_by": 11438,
-      "rank": 2946,
-      "popularity": 3358,
-      "members": 38050,
-      "favorites": 210,
-      "synopsis": "In the hidden magical land of Gensokyo, shrine maiden Reimu Hakurei constantly makes sure that supernatural incidents involving mythical creatures known as youkai remain as infrequent as possible. As part of her shrine's traditions, she hosts an annual summer banquet that invites a variety of guests, ranging from humans to even the strongest of youkai.\n\nOn the morning of the banquet, however, the shrine's donation box suddenly goes missing. Furthermore, there appears to be no trace of any theft whatsoever. As Reimu, her friend Marisa Kirisame, and news reporter Aya Shameimaru investigate the situation, they realize that others also have missing possessions. With each step closer to piecing the puzzle together, the group soon understands that this phenomenon is more than just simple thievery—an incident on par with Remilia Scarlet's mist or Yuyuko Saigyouji's youkai cherry blossom.\n\n[Written by MAL Rewrite]",
-      "background": null,
-      "season": null,
-      "year": null,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
-      },
-      "producers": [
-        {
-          "mal_id": 449,
-          "type": "anime",
-          "name": "Maikaze",
-          "url": "https://myanimelist.net/anime/producer/449/Maikaze"
-        }
-      ],
-      "licensors": [],
-      "studios": [],
-      "genres": [
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 32,
-          "type": "anime",
-          "name": "Vampire",
-          "url": "https://myanimelist.net/anime/genre/32/Vampire"
-        }
-      ],
-      "demographics": [],
-      "id": 8
-    },
-    {
-      "mal_id": 966,
-      "url": "https://myanimelist.net/anime/966/Crayon_Shin-chan",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/10/59897.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/59897t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/59897l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/10/59897.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/59897t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/59897l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": null,
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Crayon Shin-chan"
-        },
-        {
-          "type": "Japanese",
-          "title": "クレヨンしんちゃん"
-        },
-        {
-          "type": "English",
-          "title": "Shin Chan"
-        },
-        {
-          "type": "German",
-          "title": "Shin Chan"
-        },
-        {
-          "type": "Spanish",
-          "title": "Shin Chan"
-        }
-      ],
-      "title": "Crayon Shin-chan",
-      "title_english": "Shin Chan",
-      "title_japanese": "クレヨンしんちゃん",
-      "title_synonyms": [],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "1992-04-13T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 13,
-            "month": 4,
-            "year": 1992
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 13, 1992 to ?"
-      },
-      "duration": "21 min",
-      "rating": "G - All Ages",
-      "score": 7.77,
-      "scored_by": 38772,
-      "rank": 966,
-      "popularity": 2222,
-      "members": 79173,
-      "favorites": 1166,
-      "synopsis": "There is no such thing as an uneventful day in the life of kindergartener Shinnosuke \"Shin-chan\" Nohara. The five-year-old is a cut above the most troublesome, perverted, and shameless kid one can imagine. Shin-chan is almost always engaged in questionable activities such as forgetting about a friend during hide and seek, sumo wrestling for love, performing various gags including the notorious \"elephant\" in public, and flirting with college girls. The exemplary troublemaker has done it all and has no plans to stop anytime soon.\n\nCrayon Shin-chan follows the daily shenanigans of Shin-chan with his group of friends, parading around as the self-proclaimed \"Kasukabe Defense Force.\" The adults witnessing these shenanigans unfold can't help but adore Shin-chan, as he keeps them entertained while unintentionally solving their daily troubles through his mindless antics—leaving himself as the only problem they do not know what to do with.\n\n[Written by MAL Rewrite]",
-      "background": "The first English dubbed version was produced with many famous voice actors through 2001–2002 by Vitello Productions. In 2004, Phuuz Entertainment produced a continuation of the Vitello dub with different Los Angeles-based voice actors. The Phuuz and Vitello dub aired in the United Kingdom, Australia, and Republic of Ireland, and translations of these dubs aired in Europe and Latin America. The dubs were close to the original but had seen some censorship. The English dubbed version by Funimation was produced in 2005, featuring a Texas-based cast of voice actors, and was altered in comparison to the original—sexual references, dark humor, and references to popular American culture were added later on. Additionally, many non-existent backstories and different personalities were created. Crayon Shin-chan has also been adapted into video games, mobile games and tons of anime movies.",
-      "season": "spring",
-      "year": 1992,
-      "broadcast": {
-        "day": "Fridays",
-        "time": "19:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Fridays at 19:30 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 55,
-          "type": "anime",
-          "name": "TV Asahi",
-          "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
-        }
-      ],
-      "licensors": [
-        {
-          "mal_id": 102,
-          "type": "anime",
-          "name": "Funimation",
-          "url": "https://myanimelist.net/anime/producer/102/Funimation"
-        }
-      ],
-      "studios": [
-        {
-          "mal_id": 247,
-          "type": "anime",
-          "name": "Shin-Ei Animation",
-          "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        },
-        {
-          "mal_id": 9,
-          "type": "anime",
-          "name": "Ecchi",
-          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 23,
-          "type": "anime",
-          "name": "School",
-          "url": "https://myanimelist.net/anime/genre/23/School"
-        }
-      ],
-      "demographics": [
-        {
-          "mal_id": 42,
-          "type": "anime",
-          "name": "Seinen",
-          "url": "https://myanimelist.net/anime/genre/42/Seinen"
-        }
-      ],
-      "id": 9
-    },
-    {
-      "mal_id": 1199,
-      "url": "https://myanimelist.net/anime/1199/Nintama_Rantarou",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/6/74028.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/6/74028t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/6/74028l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/6/74028.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/6/74028t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/6/74028l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": null,
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Nintama Rantarou"
-        },
-        {
-          "type": "Synonym",
-          "title": "Ninja Boy Rantaro"
-        },
-        {
-          "type": "Synonym",
-          "title": "Rakudaii Nintama Rantarou"
-        },
-        {
-          "type": "Japanese",
-          "title": "忍たま乱太郎"
-        },
-        {
-          "type": "Spanish",
-          "title": "El Ninja Boy Rantaró"
-        }
-      ],
-      "title": "Nintama Rantarou",
-      "title_english": null,
-      "title_japanese": "忍たま乱太郎",
-      "title_synonyms": [
-        "Ninja Boy Rantaro",
-        "Rakudaii Nintama Rantarou"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "1993-04-10T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 10,
-            "month": 4,
-            "year": 1993
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 10, 1993 to ?"
-      },
-      "duration": "10 min",
-      "rating": "G - All Ages",
-      "score": 7.08,
-      "scored_by": 2329,
-      "rank": 3634,
-      "popularity": 6903,
-      "members": 7132,
-      "favorites": 68,
-      "synopsis": "Taking place in the Sengoku Period, Rantarou, Kirimaru and Shinbei are young students at Ninjutsu Academy, a school that teaches all kinds of youth how to become ninjas. Known as \"Nintamas\" (a contraction of ninja + tama [egg]), the main trio, and many other students at the school, must learn all sorts of unique skills to achieve their goal. Unfortunately, things aren't that simple, since our protagonists constantly find themselves failing their classes. \n\nWith strict ninja teachers such as Doi-sensei and Yamada-sensei, the mischievous girls from the Kunoichi class, an entire crew of pirates and dozens more interesting characters, anything can happen in the crazy world of Nintama.\n\nThe episodes are 7 minutes and thirty seconds long each, and each season (which there's currently 29 of) usually has a range of 60-90 episodes.",
-      "background": null,
-      "season": "spring",
-      "year": 1993,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Not scheduled once per week"
-      },
-      "producers": [
-        {
-          "mal_id": 111,
-          "type": "anime",
-          "name": "NHK",
-          "url": "https://myanimelist.net/anime/producer/111/NHK"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 30,
-          "type": "anime",
-          "name": "Ajia-do",
-          "url": "https://myanimelist.net/anime/producer/30/Ajia-do"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 15,
-          "type": "anime",
-          "name": "Kids",
-          "url": "https://myanimelist.net/anime/genre/15/Kids"
-        }
-      ],
-      "id": 10
-    },
-    {
-      "mal_id": 1960,
-      "url": "https://myanimelist.net/anime/1960/Sore_Ike_Anpanman",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1902/111797.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1902/111797t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1902/111797.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1902/111797t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/111797l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": null,
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Sore Ike! Anpanman"
-        },
-        {
-          "type": "Synonym",
-          "title": "Soreike! Anpanman"
-        },
-        {
-          "type": "Synonym",
-          "title": "Go! Anpanman"
-        },
-        {
-          "type": "Synonym",
-          "title": "Anpanman TV"
-        },
-        {
-          "type": "Japanese",
-          "title": "それいけ！アンパンマン"
-        }
-      ],
-      "title": "Sore Ike! Anpanman",
-      "title_english": null,
-      "title_japanese": "それいけ！アンパンマン",
-      "title_synonyms": [
-        "Soreike! Anpanman",
-        "Go! Anpanman",
-        "Anpanman TV"
-      ],
-      "type": "TV",
-      "source": "Picture book",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "1988-10-03T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 3,
-            "month": 10,
-            "year": 1988
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Oct 3, 1988 to ?"
-      },
-      "duration": "24 min",
-      "rating": "PG - Children",
-      "score": 6.53,
-      "scored_by": 1141,
-      "rank": 6180,
-      "popularity": 8969,
-      "members": 3501,
-      "favorites": 24,
-      "synopsis": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished. \n\n(Source: ANN)",
-      "background": null,
-      "season": "fall",
-      "year": 1988,
-      "broadcast": {
-        "day": "Fridays",
-        "time": "16:20",
-        "timezone": "Asia/Tokyo",
-        "string": "Fridays at 16:20 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 64,
-          "type": "anime",
-          "name": "Sotsu",
-          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
-        },
-        {
-          "mal_id": 1003,
-          "type": "anime",
-          "name": "Nippon Television Network",
-          "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 73,
-          "type": "anime",
-          "name": "TMS Entertainment",
-          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 15,
-          "type": "anime",
-          "name": "Kids",
-          "url": "https://myanimelist.net/anime/genre/15/Kids"
-        }
-      ],
-      "id": 13
-    },
-    {
-      "mal_id": 2406,
-      "url": "https://myanimelist.net/anime/2406/Sazae-san",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1008/98996.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1008/98996t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1008/98996.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1008/98996t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1008/98996l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": null,
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Sazae-san"
-        },
-        {
-          "type": "Japanese",
-          "title": "サザエさん"
-        },
-        {
-          "type": "English",
-          "title": "Mrs. Sazae"
-        }
-      ],
-      "title": "Sazae-san",
-      "title_english": "Mrs. Sazae",
-      "title_japanese": "サザエさん",
-      "title_synonyms": [],
-      "type": "TV",
-      "source": "4-koma manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "1969-10-05T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 5,
-            "month": 10,
-            "year": 1969
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Oct 5, 1969 to ?"
-      },
-      "duration": "24 min",
-      "rating": "G - All Ages",
-      "score": 6.1,
-      "scored_by": 1787,
-      "rank": 8349,
-      "popularity": 6643,
-      "members": 7856,
-      "favorites": 31,
-      "synopsis": "The main character is a mother named Sazae-san. She lives in a house with her husband, her kids and her parents. The show is the ultimate family program and tends to follow traditional themes. Think of this show as the Japanese equivalent to \"The Partridge Family\" and you'll get a good feel for this show's atmosphere. Don't expect to see things like violence, swearing, kung-fu action or magical girls. The plots are more like \"Today, Sazae-san goes to the new mall and gets lost\". Such \"boring\" plotlines and the simplistic art are often a turn-off to non-Japanese audiences, but most Japanese find the show incredibly good. As a result, it continues to be one of the top ratings grabbers on TV and is one of the few anime that is considered \"acceptable\" by adults. \n\n(Source: AniDB)",
-      "background": "Sazae-san currently holds the Guinness World Record for the longest running animated television series.",
-      "season": "fall",
-      "year": 1969,
-      "broadcast": {
-        "day": "Sundays",
-        "time": "18:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Sundays at 18:30 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 169,
-          "type": "anime",
-          "name": "Fuji TV",
-          "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 191,
-          "type": "anime",
-          "name": "Eiken",
-          "url": "https://myanimelist.net/anime/producer/191/Eiken"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        },
-        {
-          "mal_id": 36,
-          "type": "anime",
-          "name": "Slice of Life",
-          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [],
-      "id": 14
-    },
-    {
-      "mal_id": 7,
-      "url": "https://myanimelist.net/anime/7/Witch_Hunter_Robin",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/10/19969.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19969t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/10/19969.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19969t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19969l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": "7UkaILjPk8M",
-        "url": "https://www.youtube.com/watch?v=7UkaILjPk8M",
-        "embed_url": "https://www.youtube.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": "https://img.youtube.com/vi/7UkaILjPk8M/default.jpg",
-          "small_image_url": "https://img.youtube.com/vi/7UkaILjPk8M/sddefault.jpg",
-          "medium_image_url": "https://img.youtube.com/vi/7UkaILjPk8M/mqdefault.jpg",
-          "large_image_url": "https://img.youtube.com/vi/7UkaILjPk8M/hqdefault.jpg",
-          "maximum_image_url": "https://img.youtube.com/vi/7UkaILjPk8M/maxresdefault.jpg"
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Witch Hunter Robin"
-        },
-        {
-          "type": "Synonym",
-          "title": "WHR"
-        },
-        {
-          "type": "Japanese",
-          "title": "Witch Hunter ROBIN (ウイッチハンターロビン)"
-        },
-        {
-          "type": "English",
-          "title": "Witch Hunter Robin"
-        }
-      ],
-      "title": "Witch Hunter Robin",
-      "title_english": "Witch Hunter Robin",
-      "title_japanese": "Witch Hunter ROBIN (ウイッチハンターロビン)",
-      "title_synonyms": [
-        "WHR"
-      ],
-      "type": "TV",
-      "source": "Original",
-      "episodes": 26,
-      "status": "Finished Airing",
-      "airing": false,
-      "aired": {
-        "from": "2002-07-03T00:00:00+00:00",
-        "to": "2002-12-25T00:00:00+00:00",
-        "prop": {
-          "from": {
-            "day": 3,
-            "month": 7,
-            "year": 2002
-          },
-          "to": {
-            "day": 25,
-            "month": 12,
-            "year": 2002
-          }
-        },
-        "string": "Jul 3, 2002 to Dec 25, 2002"
-      },
-      "duration": "25 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 7.25,
-      "scored_by": 42702,
-      "rank": 2790,
-      "popularity": 1788,
-      "members": 111476,
-      "favorites": 610,
-      "synopsis": "Robin Sena is a powerful craft user drafted into the STNJ—a group of specialized hunters that fight deadly beings known as Witches. Though her fire power is great, she's got a lot to learn about her powers and working with her cool and aloof partner, Amon. But the truth about the Witches and herself will leave Robin on an entirely new path that she never expected!\n\n(Source: Funimation)",
-      "background": null,
-      "season": "summer",
-      "year": 2002,
-      "broadcast": {
-        "day": "Wednesdays",
-        "time": "01:25",
-        "timezone": "Asia/Tokyo",
-        "string": "Wednesdays at 01:25 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 23,
-          "type": "anime",
-          "name": "Bandai Visual",
-          "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
-        },
-        {
-          "mal_id": 53,
-          "type": "anime",
-          "name": "Dentsu",
-          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
-        },
-        {
-          "mal_id": 123,
-          "type": "anime",
-          "name": "Victor Entertainment",
-          "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
-        },
-        {
-          "mal_id": 717,
-          "type": "anime",
-          "name": "TV Tokyo Music",
-          "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
-        }
-      ],
-      "licensors": [
-        {
-          "mal_id": 102,
-          "type": "anime",
-          "name": "Funimation",
-          "url": "https://myanimelist.net/anime/producer/102/Funimation"
-        },
-        {
-          "mal_id": 233,
-          "type": "anime",
-          "name": "Bandai Entertainment",
-          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
-        }
-      ],
-      "studios": [
-        {
-          "mal_id": 14,
-          "type": "anime",
-          "name": "Sunrise",
-          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 8,
-          "type": "anime",
-          "name": "Drama",
-          "url": "https://myanimelist.net/anime/genre/8/Drama"
-        },
-        {
-          "mal_id": 7,
-          "type": "anime",
-          "name": "Mystery",
-          "url": "https://myanimelist.net/anime/genre/7/Mystery"
-        },
-        {
-          "mal_id": 37,
-          "type": "anime",
-          "name": "Supernatural",
-          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 39,
-          "type": "anime",
-          "name": "Detective",
-          "url": "https://myanimelist.net/anime/genre/39/Detective"
-        }
-      ],
-      "demographics": [],
-      "id": 15
-    },
-    {
-      "mal_id": 6,
-      "url": "https://myanimelist.net/anime/6/Trigun",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/7/20310.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/7/20310t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/7/20310l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/7/20310.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/7/20310t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/7/20310l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": "bJVyIXeUznY",
-        "url": "https://www.youtube.com/watch?v=bJVyIXeUznY",
-        "embed_url": "https://www.youtube.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": "https://img.youtube.com/vi/bJVyIXeUznY/default.jpg",
-          "small_image_url": "https://img.youtube.com/vi/bJVyIXeUznY/sddefault.jpg",
-          "medium_image_url": "https://img.youtube.com/vi/bJVyIXeUznY/mqdefault.jpg",
-          "large_image_url": "https://img.youtube.com/vi/bJVyIXeUznY/hqdefault.jpg",
-          "maximum_image_url": "https://img.youtube.com/vi/bJVyIXeUznY/maxresdefault.jpg"
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Trigun"
-        },
-        {
-          "type": "Japanese",
-          "title": "トライガン"
-        },
-        {
-          "type": "English",
-          "title": "Trigun"
-        }
-      ],
-      "title": "Trigun",
-      "title_english": "Trigun",
-      "title_japanese": "トライガン",
-      "title_synonyms": [],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": 26,
-      "status": "Finished Airing",
-      "airing": false,
-      "aired": {
-        "from": "1998-04-01T00:00:00+00:00",
-        "to": "1998-09-30T00:00:00+00:00",
-        "prop": {
-          "from": {
-            "day": 1,
-            "month": 4,
-            "year": 1998
-          },
-          "to": {
-            "day": 30,
-            "month": 9,
-            "year": 1998
-          }
-        },
-        "string": "Apr 1, 1998 to Sep 30, 1998"
-      },
-      "duration": "24 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.22,
-      "scored_by": 354358,
-      "rank": 317,
-      "popularity": 246,
-      "members": 722499,
-      "favorites": 14877,
-      "synopsis": "Vash the Stampede is the man with a $$60,000,000,000 bounty on his head. The reason: he's a merciless villain who lays waste to all those that oppose him and flattens entire cities for fun, garnering him the title \"The Humanoid Typhoon.\" He leaves a trail of death and destruction wherever he goes, and anyone can count themselves dead if they so much as make eye contact—or so the rumors say. In actuality, Vash is a huge softie who claims to have never taken a life and avoids violence at all costs.\n\nWith his crazy doughnut obsession and buffoonish attitude in tow, Vash traverses the wasteland of the planet Gunsmoke, all the while followed by two insurance agents, Meryl Stryfe and Milly Thompson, who attempt to minimize his impact on the public. But soon, their misadventures evolve into life-or-death situations as a group of legendary assassins are summoned to bring about suffering to the trio. Vash's agonizing past will be unraveled and his morality and principles pushed to the breaking point.\n\n[Written by MAL Rewrite]",
-      "background": "The Japanese release by Victor Entertainment has different openings relating to the specific episode it's played on. The initial Geneon Entertainment USA (then known as Pioneer) releases on VHS and DVD (singles, Signature Series, and box set) used only the first opening on each episode. This was due to the Japanese licensor providing them clean materials for only the first opening to put the English credits on. Geneon later fixed this mistake on their Limited Edition tin releases in 2005/2006, as well as on the Remix singles. Following Geneon USA's demise in late 2007, the show went out of print. When FUNimation Entertainment picked up the show in 2010 and released it, they repeated Geneon's mistake of using only the first opening on every episode. This mistake was later fixed in 2013 on the Anime Classics re-release.",
-      "season": "spring",
-      "year": 1998,
-      "broadcast": {
-        "day": "Thursdays",
-        "time": "01:15",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 01:15 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 123,
-          "type": "anime",
-          "name": "Victor Entertainment",
-          "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
-        }
-      ],
-      "licensors": [
-        {
-          "mal_id": 102,
-          "type": "anime",
-          "name": "Funimation",
-          "url": "https://myanimelist.net/anime/producer/102/Funimation"
-        },
-        {
-          "mal_id": 1459,
-          "type": "anime",
-          "name": "Geneon Entertainment USA",
-          "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
-        }
-      ],
-      "studios": [
-        {
-          "mal_id": 11,
-          "type": "anime",
-          "name": "Madhouse",
-          "url": "https://myanimelist.net/anime/producer/11/Madhouse"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 24,
-          "type": "anime",
-          "name": "Sci-Fi",
-          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 50,
-          "type": "anime",
-          "name": "Adult Cast",
-          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
-        }
-      ],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ],
-      "id": 16
-    },
-    {
-      "mal_id": 8,
-      "url": "https://myanimelist.net/anime/8/Bouken_Ou_Beet",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/7/21569.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/7/21569t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/7/21569l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/7/21569.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/7/21569t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/7/21569l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": null,
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Bouken Ou Beet"
-        },
-        {
-          "type": "Synonym",
-          "title": "Adventure King Beet"
-        },
-        {
-          "type": "Japanese",
-          "title": "冒険王ビィト"
-        },
-        {
-          "type": "English",
-          "title": "Beet the Vandel Buster"
-        }
-      ],
-      "title": "Bouken Ou Beet",
-      "title_english": "Beet the Vandel Buster",
-      "title_japanese": "冒険王ビィト",
-      "title_synonyms": [
-        "Adventure King Beet"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": 52,
-      "status": "Finished Airing",
-      "airing": false,
-      "aired": {
-        "from": "2004-09-30T00:00:00+00:00",
-        "to": "2005-09-29T00:00:00+00:00",
-        "prop": {
-          "from": {
-            "day": 30,
-            "month": 9,
-            "year": 2004
-          },
-          "to": {
-            "day": 29,
-            "month": 9,
-            "year": 2005
-          }
-        },
-        "string": "Sep 30, 2004 to Sep 29, 2005"
-      },
-      "duration": "23 min per ep",
-      "rating": "PG - Children",
-      "score": 6.94,
-      "scored_by": 6380,
-      "rank": 4239,
-      "popularity": 5104,
-      "members": 14932,
-      "favorites": 14,
-      "synopsis": "It is the dark century and the people are suffering under the rule of the devil, Vandel, who is able to manipulate monsters. The Vandel Busters are a group of people who hunt these devils, and among them, the Zenon Squad is known to be the strongest busters on the continent. A young boy, Beet, dreams of joining the Zenon Squad. However, one day, as a result of Beet's fault, the Zenon squad was defeated by the devil, Beltose. The five dying busters sacrificed their life power into their five weapons, Saiga. After giving their weapons to Beet, they passed away. Years have passed since then and the young Vandel Buster, Beet, begins his adventure to carry out the Zenon Squad's will to put an end to the dark century.",
-      "background": null,
-      "season": "fall",
-      "year": 2004,
-      "broadcast": {
-        "day": "Thursdays",
-        "time": "18:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 18:30 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 16,
-          "type": "anime",
-          "name": "TV Tokyo",
-          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
-        },
-        {
-          "mal_id": 53,
-          "type": "anime",
-          "name": "Dentsu",
-          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
-        }
-      ],
-      "licensors": [
-        {
-          "mal_id": 2262,
-          "type": "anime",
-          "name": "Illumitoon Entertainment",
-          "url": "https://myanimelist.net/anime/producer/2262/Illumitoon_Entertainment"
-        }
-      ],
-      "studios": [
-        {
-          "mal_id": 18,
-          "type": "anime",
-          "name": "Toei Animation",
-          "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        },
-        {
-          "mal_id": 37,
-          "type": "anime",
-          "name": "Supernatural",
-          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ],
-      "id": 17
-    },
-    {
-      "mal_id": 7,
-      "url": "https://myanimelist.net/anime/7/Witch_Hunter_Robin",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/10/19969.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19969t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/10/19969.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19969t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19969l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": "7UkaILjPk8M",
-        "url": "https://www.youtube.com/watch?v=7UkaILjPk8M",
-        "embed_url": "https://www.youtube.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": "https://img.youtube.com/vi/7UkaILjPk8M/default.jpg",
-          "small_image_url": "https://img.youtube.com/vi/7UkaILjPk8M/sddefault.jpg",
-          "medium_image_url": "https://img.youtube.com/vi/7UkaILjPk8M/mqdefault.jpg",
-          "large_image_url": "https://img.youtube.com/vi/7UkaILjPk8M/hqdefault.jpg",
-          "maximum_image_url": "https://img.youtube.com/vi/7UkaILjPk8M/maxresdefault.jpg"
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Witch Hunter Robin"
-        },
-        {
-          "type": "Synonym",
-          "title": "WHR"
-        },
-        {
-          "type": "Japanese",
-          "title": "Witch Hunter ROBIN (ウイッチハンターロビン)"
-        },
-        {
-          "type": "English",
-          "title": "Witch Hunter Robin"
-        }
-      ],
-      "title": "Witch Hunter Robin",
-      "title_english": "Witch Hunter Robin",
-      "title_japanese": "Witch Hunter ROBIN (ウイッチハンターロビン)",
-      "title_synonyms": [
-        "WHR"
-      ],
-      "type": "TV",
-      "source": "Original",
-      "episodes": 26,
-      "status": "Finished Airing",
-      "airing": false,
-      "aired": {
-        "from": "2002-07-03T00:00:00+00:00",
-        "to": "2002-12-25T00:00:00+00:00",
-        "prop": {
-          "from": {
-            "day": 3,
-            "month": 7,
-            "year": 2002
-          },
-          "to": {
-            "day": 25,
-            "month": 12,
-            "year": 2002
-          }
-        },
-        "string": "Jul 3, 2002 to Dec 25, 2002"
-      },
-      "duration": "25 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 7.25,
-      "scored_by": 42702,
-      "rank": 2790,
-      "popularity": 1788,
-      "members": 111476,
-      "favorites": 610,
-      "synopsis": "Robin Sena is a powerful craft user drafted into the STNJ—a group of specialized hunters that fight deadly beings known as Witches. Though her fire power is great, she's got a lot to learn about her powers and working with her cool and aloof partner, Amon. But the truth about the Witches and herself will leave Robin on an entirely new path that she never expected!\n\n(Source: Funimation)",
-      "background": null,
-      "season": "summer",
-      "year": 2002,
-      "broadcast": {
-        "day": "Wednesdays",
-        "time": "01:25",
-        "timezone": "Asia/Tokyo",
-        "string": "Wednesdays at 01:25 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 23,
-          "type": "anime",
-          "name": "Bandai Visual",
-          "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
-        },
-        {
-          "mal_id": 53,
-          "type": "anime",
-          "name": "Dentsu",
-          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
-        },
-        {
-          "mal_id": 123,
-          "type": "anime",
-          "name": "Victor Entertainment",
-          "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
-        },
-        {
-          "mal_id": 717,
-          "type": "anime",
-          "name": "TV Tokyo Music",
-          "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
-        }
-      ],
-      "licensors": [
-        {
-          "mal_id": 102,
-          "type": "anime",
-          "name": "Funimation",
-          "url": "https://myanimelist.net/anime/producer/102/Funimation"
-        },
-        {
-          "mal_id": 233,
-          "type": "anime",
-          "name": "Bandai Entertainment",
-          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
-        }
-      ],
-      "studios": [
-        {
-          "mal_id": 14,
-          "type": "anime",
-          "name": "Sunrise",
-          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 8,
-          "type": "anime",
-          "name": "Drama",
-          "url": "https://myanimelist.net/anime/genre/8/Drama"
-        },
-        {
-          "mal_id": 7,
-          "type": "anime",
-          "name": "Mystery",
-          "url": "https://myanimelist.net/anime/genre/7/Mystery"
-        },
-        {
-          "mal_id": 37,
-          "type": "anime",
-          "name": "Supernatural",
-          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 39,
-          "type": "anime",
-          "name": "Detective",
-          "url": "https://myanimelist.net/anime/genre/39/Detective"
-        }
-      ],
-      "demographics": [],
-      "id": 19
-    },
-    {
-      "mal_id": 40357,
-      "url": "https://myanimelist.net/anime/40357/Tate_no_Yuusha_no_Nariagari_Season_3",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1995/135164.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1995/135164.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": "VW_LxM4tt-o",
-        "url": "https://www.youtube.com/watch?v=VW_LxM4tt-o",
-        "embed_url": "https://www.youtube.com/embed/VW_LxM4tt-o?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/default.jpg",
-          "small_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/sddefault.jpg",
-          "medium_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/mqdefault.jpg",
-          "large_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/hqdefault.jpg",
-          "maximum_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/maxresdefault.jpg"
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Tate no Yuusha no Nariagari Season 3"
-        },
-        {
-          "type": "Synonym",
-          "title": "Tate no Yuusha no Nariagari 3rd Season"
-        },
-        {
-          "type": "Synonym",
-          "title": "The Rising of the Shield Hero 3rd Season"
-        },
-        {
-          "type": "Japanese",
-          "title": "盾の勇者の成り上がり"
-        },
-        {
-          "type": "English",
-          "title": "The Rising of the Shield Hero Season 3"
-        }
-      ],
-      "title": "Tate no Yuusha no Nariagari Season 3",
-      "title_english": "The Rising of the Shield Hero Season 3",
-      "title_japanese": "盾の勇者の成り上がり",
-      "title_synonyms": [
-        "Tate no Yuusha no Nariagari 3rd Season",
-        "The Rising of the Shield Hero 3rd Season"
-      ],
-      "type": "TV",
-      "source": "Light novel",
-      "episodes": null,
-      "status": "Not yet aired",
-      "airing": false,
-      "aired": {
-        "from": "2023-10-01T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 1,
-            "month": 10,
-            "year": 2023
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Oct 2023 to ?"
-      },
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": null,
-      "scored_by": null,
-      "rank": null,
-      "popularity": 781,
-      "members": 284893,
-      "favorites": 4530,
-      "synopsis": "Third season of Tate no Yuusha no Nariagari.",
-      "background": null,
-      "season": "fall",
-      "year": 2023,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "producers": [
-        {
-          "mal_id": 1696,
-          "type": "anime",
-          "name": "Kadokawa",
-          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 290,
-          "type": "anime",
-          "name": "Kinema Citrus",
-          "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 8,
-          "type": "anime",
-          "name": "Drama",
-          "url": "https://myanimelist.net/anime/genre/8/Drama"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 62,
-          "type": "anime",
-          "name": "Isekai",
-          "url": "https://myanimelist.net/anime/genre/62/Isekai"
-        }
-      ],
-      "demographics": [],
-      "id": 20
+      "id": 23
     }
   ],
   "fanfics": []

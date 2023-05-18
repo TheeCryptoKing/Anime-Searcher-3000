@@ -80,7 +80,7 @@ function updateStateDelete (id) {
   })  
 
   return (
-    <div className="FanficPage">
+    <>
         <Navbar />
       <div className="fanfic-body">
         <h1 className="title">Fanfictions</h1>
@@ -153,7 +153,7 @@ function updateStateDelete (id) {
         <div className="fanfics-container">
           {fanFicsArray}
         </div>
-    </div>
+    </>
   );
 }
 

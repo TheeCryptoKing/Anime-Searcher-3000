@@ -56,6 +56,7 @@ function FavoritesPage() {
           onClose={() => setShow(false)}
           show={show}
           modalStuff={modalStuff}
+          
         />
       </div>
     </div>

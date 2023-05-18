@@ -20,6 +20,7 @@ nav {
   justify-content: space-evenly;
   padding-left: 20vw;
   padding-right: 20vw;
+  font-family: "Sofia", sans-serif;
 }
 
 .nav-link {

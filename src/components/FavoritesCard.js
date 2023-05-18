@@ -11,6 +11,7 @@ function FavoritesCard({
   setModalStuff,
   setShow,
   updateState,
+  passDown
 }) {
   // let navigate = useNavigate();
 
@@ -18,6 +19,8 @@ function FavoritesCard({
   //   <FanficsPage title={name} />;
   //   navigate("/Fanfics");
   // };
+
+
 
   function updateModal() {
     setModalStuff(anime);

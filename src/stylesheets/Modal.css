@@ -11,9 +11,25 @@
     justify-content: center;
 }
 
+.row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pt1 {
+    display: inline-block;
+    justify-content: center;
+    border: solid;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px
+
+}
+
 .modal-content {
-    width: 500px;
-    background-color: #fff
+    width: 600px;
+    background-color: #fff;
+    position: absolute;
 
 }
 
@@ -31,4 +47,22 @@
     padding: 10px;
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
+    
+}
+
+.button {
+    color: #000000;
+    float: right;
+    font-weight: bold;
+  }
+
+.button:hover,
+.button:focus {
+    color: #f30000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+.studios {
+    display:flex;
 }

@@ -1,7 +1,10 @@
+import { useState } from 'react'
 import "../stylesheets/index.css";
 import "../stylesheets/AnimeCard.css";
 
 function AnimeCard({ image, name, anime, setModalStuff, setShow }) {
+  const [ hover, setHover ] = useState("anime-card")
+  
   function updateModal() {
     setModalStuff(anime);
     setShow(true);
@@ -20,9 +23,25 @@ function AnimeCard({ image, name, anime, setModalStuff, setShow }) {
     });
   }
 
+function handleMouseOver () {
+  setHover('anime-card-hover')
+}
+
+function handleMouseLeave () {
+  setHover('anime-card')
+}
+
   return (
-    <div className="anime-card">
-      <img onClick={updateModal} src={image} alt={name}></img>
+    <div 
+      className={hover}
+      onMouseOver={handleMouseOver}
+      onMouseLeave={handleMouseLeave}
+    >
+      <img 
+        onClick={updateModal} 
+        src={image} 
+        alt={name}
+      ></img>
       <h5>{name}</h5>
       <button onClick={handlePost} className="fav-button">
         ❤️

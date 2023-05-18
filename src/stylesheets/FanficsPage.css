@@ -1,5 +1,12 @@
-.page-title {
+.fanfic-body{
+    background-color: #ffe9dc;
+    height: 100vh;
+}
+
+.title {
     text-align: center;
+    color: black;
+
 }
 
 .form-div{

@@ -1,8 +1,8 @@
-import { useNavigate, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 import "../stylesheets/AnimeCard.css";
 import "../stylesheets/AnimeCard.css";
-import FanficsPage from "./FanficsPage";
+
 
 function FavoritesCard({
   image,
@@ -13,14 +13,6 @@ function FavoritesCard({
   updateState,
   passDown
 }) {
-  // let navigate = useNavigate();
-
-  // const routeChange = () => {
-  //   <FanficsPage title={name} />;
-  //   navigate("/Fanfics");
-  // };
-
-
 
   function updateModal() {
     setModalStuff(anime);
@@ -44,7 +36,7 @@ function FavoritesCard({
       <button onClick={handleDelete} className="fav-button">
         🗑️
       </button>
-      
+
       <button className='link'>
         <Link to="/Fanfics" state={anime}>Wewowwoo</Link>
       </button>

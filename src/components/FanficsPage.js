@@ -82,9 +82,8 @@ function updateStateDelete (id) {
   return (
     <div className="FanficPage">
         <Navbar />
-      <div className="FanficPage-body">
-        <h1 className="page-title">Fanfictions</h1>
-        <div className="form-div">
+      <div className="fanfic-body">
+        <h1 className="title">Fanfictions</h1>
           <form onSubmit={handleSubmit}>
             <input
               placeholder="Name"
@@ -154,7 +153,6 @@ function updateStateDelete (id) {
         <div className="fanfics-container">
           {fanFicsArray}
         </div>
-      </div>
     </div>
   );
 }

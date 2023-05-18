@@ -4,6 +4,17 @@
   height: 100%;
   max-width: 100%; 
   margin: auto;
+  border: inset black;
+}
+
+.anime-card-hover {
+  text-align: center;
+  position: relative;
+  height: 100%;
+  max-width: 100%; 
+  margin: auto;
+  transform: scale(1.05);
+  border: inset black;
 }
 
 img {

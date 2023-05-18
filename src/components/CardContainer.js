@@ -18,6 +18,7 @@ function CardContainer({ animeList, setShow, setModalStuff }) {
           setModalStuff={setModalStuff}
           setShow={setShow}
         />
+        
       );
     });
 

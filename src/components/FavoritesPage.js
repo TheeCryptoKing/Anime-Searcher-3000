@@ -48,7 +48,7 @@ function FavoritesPage() {
     <div className="FavoritesPage">
         <Navbar />
       <div className="Favorites-body">
-        <h1 className="page-title">Favorites Page</h1>
+        <h1 className="title">Favorites Page</h1>
         <div className="fav-animes">{favAnimesArray}</div>
         <Modal
           onClose={() => setShow(false)}

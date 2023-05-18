@@ -9,12 +9,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    width: -1vw;
 }
 
-.row {
-    display: flex;
-    justify-content: space-evenly;
-}
 
 .pt1 {
     display: inline-block;
@@ -27,7 +24,10 @@
 }
 
 .modal-content {
-    width: 600px;
+    width: 50vw;
+    height: 30vh;
+    min-width: 30vw;
+    min-height: 80vh;
     background-color: #fff;
     position: absolute;
 

@@ -1,21 +1,50 @@
-.page-title {
+.title {
     text-align: center;
 }
 
 .search-form{
    display: block;
-   margin: 0 auto;
-   max-width: 20vw;
+   text-align: center;
+   justify-content: space-around;
+   height: 120px;
+}
+
+.text-input{
+    width: 30vw;
+    text-align: center;
+    margin-bottom: 2px;
+    border-radius: 5px;
+    background-color: rgb(160, 203, 252);
+    border: inset;
+    height: 20px;
+}
+
+select{
+    border-radius: 5px;
+    background-color: rgb(160, 203, 252);
+    border: inset;
+    height: 30px;
+}
+
+.search-field{
+    width: 15vw;
 }
 
 .search-body{
-    justify-content: center;
+    text-align: center;
 }
 
+.inner-div{
+    display: flex;
+}
 .search-button{
     display: block;
     margin: auto;
-    margin-top: 5px;
+    margin-top: 2px;
+    border-radius: 5px;
+    border: outset;
+    width: 100px;
+    background-color: rgb(160, 203, 252);
 }
 
 .search-results{

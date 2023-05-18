@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { useLocation} from "react-router-dom";
 import Navbar from "./Navbar";
 import FanficsCard from "./FanficsCard";
 
@@ -6,14 +7,19 @@ import "../stylesheets/index.css"
 import "../stylesheets/FanficsPage.css";
 
 function FanficsPage() {
+
+  const location = useLocation();
+  const fromFav = location.state
+  
   const initialForm = {
     name: "",
     genre: "",
-    image: "",
+    image: (fromFav ? fromFav.images.jpg.image_url : ""),
     creator: "",
-    title: "",
+    title: (fromFav ? fromFav.title : ""),
     fanficBody: "",
   };
+  console.log(fromFav);
   const [newFanFic, setNewFanFic] = useState(initialForm);
   const [fanFics, setFanFics] = useState([]);
 

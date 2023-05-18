@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 import "../stylesheets/index.css"
 import "../stylesheets/Modal.css";
 
@@ -14,8 +14,11 @@ function Modal({ modalStuff, show, onClose }) {
         <div className="modal-header">
           {modalStuff.title}
           <button onClick={onClose} className="button">
-          X
-        </button>
+            X
+          </button>
+          <button onClick={onClose} className="button">
+            <Link to="/Fanfics" state={modalStuff}>Write a Fanfic</Link>
+          </button>
         </div>
         <div className="modal-body">
           <div className="row">

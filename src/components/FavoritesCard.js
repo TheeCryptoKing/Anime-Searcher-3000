@@ -38,7 +38,7 @@ function FavoritesCard({
       </button>
 
       <button className='link'>
-        <Link to="/Fanfics" state={anime}>Wewowwoo</Link>
+        <Link to="/Fanfics" state={anime}>Write a Fanfic</Link>
       </button>
     </div>
   );

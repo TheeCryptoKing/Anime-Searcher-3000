@@ -64,12 +64,13 @@ function Search() {
           <input
             placeholder="Search for an Anime"
             type="text"
-            className="search-field"
+            className="text-input"
             name="name"
             id="name"
             onChange={handleChange}
             value={searchForm.name}
           ></input>
+          <div className="innerDiv">
           <select
             name="rating"
             className="search-field"
@@ -109,6 +110,7 @@ function Search() {
             <option value="completed">Completed</option>
             <option value="upcoming">Upcoming</option>
           </select>
+          </div>
           <button type="submit" className="search-button">
             Search
           </button>

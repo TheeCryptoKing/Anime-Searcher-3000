@@ -1,29 +1,35 @@
-.fanfic-body{
-    background-color: #ffe9dc;
-    height: 100vh;
-}
-
 .title {
     text-align: center;
     color: black;
 }
 
+.inner-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px
+}
 .form-div{
     padding-left: 50px;
     padding-right: 50px;
     height: 200px;
+    align-content: center;
 }
 
 .form-input{
-    margin: 5px;
     width: 300px;
+    border-radius: 5px;
+    background-color: rgb(160, 203, 252);
+    border: inset;
+    /* height: 20px; */
 }
 
 form{
     display:flex;
-    flex-direction: column;
     flex-wrap: wrap;
-    height: 180px;
+    justify-content: center;
+    height: 200px;
 }
 
 textarea {
@@ -32,7 +38,12 @@ textarea {
 
 .submit-button{
     display:block;
+    flex-basis: 100%;
     max-width: 100px;
+    margin: auto;
+    border-radius: 5px;
+    background-color: rgb(160, 203, 252);
+    border: outset;
 }
 
 .fanfics-container{

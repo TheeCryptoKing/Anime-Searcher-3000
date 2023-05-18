@@ -85,6 +85,7 @@ function updateStateDelete (id) {
       <div className="fanfic-body">
         <h1 className="title">Fanfictions</h1>
           <form onSubmit={handleSubmit}>
+          <div className="inner-div">
             <input
               placeholder="Name"
               type="text"
@@ -94,25 +95,7 @@ function updateStateDelete (id) {
               value={newFanFic.name}
               onChange={handleChange}
             ></input>
-            <input
-              placeholder="Genre"
-              type="text"
-              className="form-input"
-              name="genre"
-              id="genre"
-              value={newFanFic.genre}
-              onChange={handleChange}
-            ></input>
-            <input
-              placeholder="Image Url"
-              type="text"
-              className="form-input"
-              name="image"
-              id="image"
-              value={newFanFic.image}
-              onChange={handleChange}
-            ></input>
-            <input
+             <input
               placeholder="Creator"
               type="text"
               className="form-input"
@@ -130,12 +113,32 @@ function updateStateDelete (id) {
               value={newFanFic.title}
               onChange={handleChange}
             ></input>
+              <input
+              placeholder="Genre"
+              type="text"
+              className="form-input"
+              name="genre"
+              id="genre"
+              value={newFanFic.genre}
+              onChange={handleChange}
+            ></input>
+            <input
+              placeholder="Image Url"
+              type="text"
+              className="form-input"
+              name="image"
+              id="image"
+              value={newFanFic.image}
+              onChange={handleChange}
+            ></input>
+            </div>
+            <div className="innerDiv">
             <textarea
               placeholder="Write Fanfiction Here"
               type="text"
               className="form-input"
-              cols="2"
-              rows="9"
+              cols="500"
+              rows="10"
               name="fanficBody"
               id="fanficBody"
               value={newFanFic.fanficBody}
@@ -148,6 +151,7 @@ function updateStateDelete (id) {
             >
               Submit
             </button>
+            </div>
           </form>
         </div>
         <div className="fanfics-container">

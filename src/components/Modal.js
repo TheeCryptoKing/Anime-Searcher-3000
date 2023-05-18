@@ -8,6 +8,7 @@ function Modal({ modalStuff, show, onClose }) {
     return null;
   }
 
+
   return (
     <div className="modal">
       <div className="modal-content">
@@ -21,7 +22,6 @@ function Modal({ modalStuff, show, onClose }) {
           </button>
         </div>
         <div className="modal-body">
-          <div className="row">
             <img className="pt1"
               src={modalStuff.images.jpg.image_url}
               alt={modalStuff.title}
@@ -43,11 +43,10 @@ function Modal({ modalStuff, show, onClose }) {
               ))}
             </div>
             {modalStuff.trailer.embed_url ? (
-              <iframe width="60%" height="200px" className="pt1" title={modalStuff.title} src={modalStuff.trailer.embed_url} />
+              <iframe allow="fullscreen" width="60%" height="200px" className="pt1" title={modalStuff.title} src={modalStuff.trailer.embed_url} />
             ) : "Nothing to show here..."}
         </div>
       </div>
-    </div>
   );
 }
 

@@ -1,9 +1,13 @@
 .top-animes, .new-animes {
     text-align: left;
+    max-width: 100vw;
     border-style: inset;
     margin: .5vw;
     background-color: #070427;
     color: #66FCF1;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 .title{
@@ -12,10 +16,9 @@
     color: white;
 }
 
-
 .home-body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-color: #fccbf4;
+    align-content: center;
 }

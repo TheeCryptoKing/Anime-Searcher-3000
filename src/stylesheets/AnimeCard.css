@@ -2,32 +2,28 @@
   text-align: center;
   position: relative;
   height: 100%;
-  max-width: 100%; 
+  width: 15%;
   margin: auto;
   border: inset black;
+  flex-shrink: 1;
 }
 
 .anime-card-hover {
   text-align: center;
   position: relative;
   height: 100%;
-  max-width: 100%; 
   margin: auto;
   transform: scale(1.05);
   border: inset black;
 }
 
 img {
-  display: block;
-  /* padding-left: 5px; */
-  height: 25vh;
-  max-width: 25vh; 
-  object-fit: cover;
+  width: 15vw;
 }
 
 h5 {
   display: block;
-  font-size: 10px;
+  font-size: 1vmin;
   max-width: 140px;
   text-align: center;
   margin: auto;

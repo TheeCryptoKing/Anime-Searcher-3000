@@ -59,6 +59,7 @@ h5 {
     transform: scale(1);
   }
 }
+
 @keyframes heartBeat {
   0% {
     -webkit-transform: scale(1);
@@ -83,4 +84,5 @@ h5 {
 }
 .fav-button:active {
     animation: heartBeat 1s linear alternate;
+    animation-duration: 1s;
 }

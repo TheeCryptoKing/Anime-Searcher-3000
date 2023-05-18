@@ -20,7 +20,7 @@ function FavoritesCard({
   };
 
   function updateModal() {
-    setModalStuff(anime.anime);
+    setModalStuff(anime);
     setShow(true);
   }
 

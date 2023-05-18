@@ -1,19 +1,35 @@
 .nav-header {
-  background-color: #282c34;
-  height: 200px;
+  background-color: #fccbf4;
+  color: rgb(255, 255, 255);
+  width: 100vw;
+  height: 20vmax;
   display: flex;
-  justify-content: space-between;
   flex-direction: column;
-  align-items: center;
-
-  font-size: calc(10px + 2vmin);
-  color: rgb(186, 171, 171);
-  padding: 10px;
 }
 
-.nav-link {
-  color: rgb(186, 171, 171);
-  margin-left: 50px;
+.page-title{
+  font-size: 6vmax;
+  margin: auto;
+}
+
+.page-title:hover{
+  color: rgb(233, 24, 24);
+  transition: 1s;
+}
+nav{
+  background-color: #298acd;
+  margin-top: auto;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20vw;
+  padding-right: 20vw; 
+  
+}
+
+.nav-link{
+  font-size: 2vmax;
+  color: rgb(255, 255, 255);
+  margin: .5vh;
 }
 
 a:link {
@@ -21,5 +37,6 @@ a:link {
 }
 
 a:hover {
-  color: white;
+  color: rgb(233, 24, 24);
+  transition: .5s;
 }

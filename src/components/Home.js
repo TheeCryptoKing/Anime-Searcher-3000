@@ -12,9 +12,7 @@ const [show, setShow] = useState(false)
 
   return (
     <div>
-      <header className="nav-header">
         <Navbar />
-      </header>
       <div className="home-body">
         <div className="top-animes">
           <h3 className="title">Top 10 Animes by Popularity:</h3>

@@ -75,9 +75,7 @@ function updateStateDelete (id) {
 
   return (
     <div className="FanficPage">
-      <header className="nav-header">
         <Navbar />
-      </header>
       <div className="FanficPage-body">
         <h1 className="page-title">Fanfictions</h1>
         <div className="form-div">

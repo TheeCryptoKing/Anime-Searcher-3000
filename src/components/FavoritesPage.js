@@ -46,9 +46,7 @@ function FavoritesPage() {
 
   return (
     <div className="FavoritesPage">
-      <header className="nav-header">
         <Navbar />
-      </header>
       <div className="Favorites-body">
         <h1 className="page-title">Favorites Page</h1>
         <div className="fav-animes">{favAnimesArray}</div>

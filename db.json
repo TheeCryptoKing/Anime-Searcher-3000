@@ -1,4 +1,317 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "mal_id": 10686,
+      "url": "https://myanimelist.net/anime/10686/Naruto__Honoo_no_Chuunin_Shiken_Naruto_vs_Konohamaru",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/9/30813.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/9/30813t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/9/30813l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/9/30813.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/9/30813t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/9/30813l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!"
+        },
+        {
+          "type": "Japanese",
+          "title": "炎の中忍試験! ナルトvs木ノ葉丸!!"
+        },
+        {
+          "type": "English",
+          "title": "Naruto Shippuden: Chunin Exam on Fire! and Naruto vs. Konohamaru!"
+        }
+      ],
+      "title": "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!",
+      "title_english": "Naruto Shippuden: Chunin Exam on Fire! and Naruto vs. Konohamaru!",
+      "title_japanese": "炎の中忍試験! ナルトvs木ノ葉丸!!",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2011-07-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 30,
+            "month": 7,
+            "year": 2011
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 30, 2011"
+      },
+      "duration": "14 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.17,
+      "scored_by": 39946,
+      "rank": 3201,
+      "popularity": 2279,
+      "members": 76182,
+      "favorites": 36,
+      "synopsis": "As the Fourth Great Ninja War quickly approaches, Sunagakure hosts a special Chunin exam to strengthen the troops of the Allied Shinobi Forces. Among the participants are Konohamaru Sarutobi, an ambitious rookie, and Naruto Uzumaki, who has become a renowned ninja. Despite the significant disparity in skill, Konohamaru is excited at the prospect of proving himself in a competition against Naruto—the one person he both admires and sees as his rival.\n\n[Written by MAL Rewrite]",
+      "background": "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!! was aired together with Naruto: Shippuuden Movie 5 - Blood Prison, both presenting stories which fall closely before the series' \"Fourth Shinobi World War: Confrontation\" arc. In addition, their release date was only one month prior to the aforementioned arc's premiere date, January 5, 2012.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 119,
+          "type": "anime",
+          "name": "VIZ Media",
+          "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Pierrot",
+          "url": "https://myanimelist.net/anime/producer/1/Pierrot"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Martial Arts",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "mal_id": 10659,
+      "url": "https://myanimelist.net/anime/10659/Naruto_Soyokazeden_Movie__Naruto_to_Mashin_to_Mitsu_no_Onegai_Dattebayo",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/31573.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/31573t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/31573l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/31573.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/31573t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/31573l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!"
+        },
+        {
+          "type": "Synonym",
+          "title": "Gekijouban Naruto Soyokazeden: Naruto to Mashin to Mitsu no Onegai Dattebayo!!"
+        },
+        {
+          "type": "Synonym",
+          "title": "Naruto: Gentle Breeze Chronicles the Film: Naruto"
+        },
+        {
+          "type": "Synonym",
+          "title": "the Genie"
+        },
+        {
+          "type": "Synonym",
+          "title": "and the Three Wishes Dattebayo!!"
+        },
+        {
+          "type": "Japanese",
+          "title": "劇場版NARUTO －ナルト－ そよ風伝 ナルトと魔神と3つのお願いだってばよ！！"
+        },
+        {
+          "type": "English",
+          "title": "Naruto: The Magic Genie and the Three Wishes"
+        }
+      ],
+      "title": "Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!",
+      "title_english": "Naruto: The Magic Genie and the Three Wishes",
+      "title_japanese": "劇場版NARUTO －ナルト－ そよ風伝 ナルトと魔神と3つのお願いだってばよ！！",
+      "title_synonyms": [
+        "Gekijouban Naruto Soyokazeden: Naruto to Mashin to Mitsu no Onegai Dattebayo!!",
+        "Naruto: Gentle Breeze Chronicles the Film: Naruto",
+        "the Genie",
+        "and the Three Wishes Dattebayo!!"
+      ],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2010-07-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 31,
+            "month": 7,
+            "year": 2010
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 31, 2010"
+      },
+      "duration": "14 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.95,
+      "scored_by": 25228,
+      "rank": 4165,
+      "popularity": 2825,
+      "members": 52276,
+      "favorites": 36,
+      "synopsis": "While enjoying a barbecue alongside team members and peers, Naruto Uzumaki stumbles upon a strange old bottle that houses a genie! The mythical being is willing to grant three wishes, but in a flurry of excitement, Naruto ends up wasting the first two. Outraged, Sasuke Uchiha and Sakura Haruno start fighting with him over the last remaining chance.\n\nAs the other ninjas join the dispute, the whole matter—before they know it—turns into an all-out brawl for the precious container.\n\n[Written by MAL Rewrite]",
+      "background": "Although Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!! was screened together with Naruto: Shippuuden Movie 4 - The Lost Tower and shares a common animanga version with the film, the OVA falls within the first series' timeline somewhere between \"Chunin Exams\" and \"Sasuke Recovery Mission\" arcs, or from episodes 68 to 107 respectively, unlike the movie.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [
+        {
+          "mal_id": 119,
+          "type": "anime",
+          "name": "VIZ Media",
+          "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Pierrot",
+          "url": "https://myanimelist.net/anime/producer/1/Pierrot"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Martial Arts",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "id": 3
+    }
+  ],
   "fanfics": []
 }

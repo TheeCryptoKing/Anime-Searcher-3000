@@ -14,12 +14,10 @@ function Navbar() {
   ));
 
   return (
-    <div>
+    <header className="nav-header">
       <h1 className="page-title">Anime Searcher 3000</h1>
-      <div className="nav-bar">
         <nav>{anchors}</nav>
-      </div>
-    </div>
+    </header>
   );
 }
 

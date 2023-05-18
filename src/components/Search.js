@@ -57,9 +57,7 @@ function Search() {
 
   return (
     <>
-      <header className="nav-header">
         <Navbar />
-      </header>
       <div className="search-body">
         <h1 className="page-title">Anime Search</h1>
         <form className="search-form" onSubmit={handleSubmit}>

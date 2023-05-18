@@ -7,7 +7,7 @@ import "../stylesheets/CardContainer.css";
 function CardContainer({ animeList, setShow, setModalStuff }) {
   const [cardIndex, setCardIndex] = useState(0);
   const cardDisplay = animeList
-    .slice(cardIndex, cardIndex + 10)
+    .slice(cardIndex, cardIndex + 5)
     .map((anime) => {
       return (
         <AnimeCard
@@ -23,12 +23,12 @@ function CardContainer({ animeList, setShow, setModalStuff }) {
 
   function handleClickMore() {
     setCardIndex((cardIndex) =>
-      cardIndex + 10 >= animeList.length ? 0 : cardIndex + 10
+      cardIndex + 5 >= animeList.length ? 0 : cardIndex + 5
     );
   }
 
   function handleClickLess() {
-    setCardIndex((cardIndex) => (cardIndex - 10 >= 0 ? cardIndex - 10 : 15));
+    setCardIndex((cardIndex) => (cardIndex - 5 >= 0 ? cardIndex - 5 : 20));
   }
 
   return (

@@ -1,15 +1,20 @@
 .top-animes, .new-animes {
     text-align: left;
     border-style: inset;
-    margin: 10px;
+    margin: .5vw;
+    background-color: #61ad98;
 }
 
 .title{
-    font-size: 20px;
-    padding-left: 10px; 
+    font-size: 1.5vmax;
+    padding-left: .5vw; 
+    color: white;
 }
 
-.card-container {
+
+.home-body{
     display: flex;
-    justify-content: space-evenly;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #fccbf4;
 }

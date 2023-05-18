@@ -11,11 +11,11 @@ function FavoritesCard({
   setModalStuff,
   setShow,
   updateState,
+  passDown
 }) {
   let navigate = useNavigate();
 
   const routeChange = () => {
-    <FanficsPage title={name} />;
     navigate("/Fanfics");
   };
 

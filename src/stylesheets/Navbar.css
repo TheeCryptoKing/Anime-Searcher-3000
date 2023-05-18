@@ -5,31 +5,27 @@
   height: 20vmax;
   display: flex;
   flex-direction: column;
+  margin-bottom: .5vh;
 }
 
-.page-title{
+.page-title {
   font-size: 6vmax;
   margin: auto;
 }
 
-.page-title:hover{
-  color: rgb(233, 24, 24);
-  transition: 1s;
-}
-nav{
+nav {
   background-color: #298acd;
   margin-top: auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   padding-left: 20vw;
-  padding-right: 20vw; 
-  
+  padding-right: 20vw;
 }
 
-.nav-link{
+.nav-link {
   font-size: 2vmax;
   color: rgb(255, 255, 255);
-  margin: .5vh;
+  margin: 0.5vh;
 }
 
 a:link {
@@ -38,5 +34,10 @@ a:link {
 
 a:hover {
   color: rgb(233, 24, 24);
-  transition: .5s;
+  transition: 0.5s;
+}
+
+.page-title:hover {
+  color: rgb(233, 24, 24);
+  transition: 1s;
 }

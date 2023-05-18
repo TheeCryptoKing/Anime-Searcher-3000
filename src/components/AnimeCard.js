@@ -24,9 +24,9 @@ function AnimeCard({ image, name, anime, setModalStuff, setShow }) {
     <div className="anime-card">
       <img onClick={updateModal} src={image} alt={name}></img>
       <h5>{name}</h5>
-      <button onClick={handlePost} className="fav-button">
+      {/* <button onClick={handlePost} className="fav-button">
         ❤️
-      </button>
+      </button> */}
     </div>
   );
 }

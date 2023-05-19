@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Amita:wght@400;700&display=swap');
+
 .nav-header {
   background-image: url('http://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/538943.jpg');
   /* add a dark layer on top of it  */
@@ -14,17 +16,20 @@
 }
 
 nav {
-  background-color: #298acd;
+  filter: invert(0.3) saturate(3.0);
+  background-image: url('https://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/39033.png') , linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5) );
+  background-blend-mode: multiply;
   margin-top: auto;
   display: flex;
   justify-content: space-evenly;
   padding-left: 20vw;
   padding-right: 20vw;
+  font-family: 'Amita', cursive;
 }
 
 .nav-link {
   font-size: 2vmax;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 217, 255);
   margin: 0.5vh;
 }
 

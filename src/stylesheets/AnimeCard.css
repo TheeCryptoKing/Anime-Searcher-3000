@@ -6,6 +6,7 @@
   margin: auto;
   border: inset black;
   flex-shrink: 1;
+  color:cyan
 }
 
 .anime-card-hover {

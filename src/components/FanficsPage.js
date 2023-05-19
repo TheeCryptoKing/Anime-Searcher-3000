@@ -83,7 +83,7 @@ function updateStateDelete (id) {
     <>
         <Navbar />
       <div className="fanfic-body">
-        <h1 className="title">Fanfictions</h1>
+        <h1 className="title">FαɳFιƈʂ</h1>
           <form onSubmit={handleSubmit}>
           <div className="inner-div">
             <input

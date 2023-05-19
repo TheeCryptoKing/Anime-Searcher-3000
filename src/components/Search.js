@@ -55,11 +55,12 @@ function Search() {
     setSearchForm({ ...searchForm, [e.target.name]: e.target.value });
   }
 
+
   return (
     <>
         <Navbar />
       <div className="search-body">
-        <h1 className="title">Anime Search</h1>
+        <h1 className="title">Sҽαɾƈԋ</h1>
         <form className="search-form" onSubmit={handleSubmit}>
           <input
             placeholder="Search for an Anime"
@@ -70,6 +71,7 @@ function Search() {
             onChange={handleChange}
             value={searchForm.name}
           ></input>
+            <input className="reset" type="reset" value="X" onClick={() => setSearchForm(initialForm)} alt="Clear the search form"></input>
           <div className="innerDiv">
           <select
             name="rating"

@@ -24,6 +24,7 @@
 
 nav {
   filter: invert(0.3) saturate(3.0);
+  /* background-color: black; */
   background-image: url('https://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/39033.png') , linear-gradient(rgba(54, 54, 54, 0.5), rgba(0,0,0,.5) );
   background-blend-mode: multiply;
   margin-top: auto;

@@ -136,7 +136,7 @@ function updateStateDelete (id) {
             <textarea
               placeholder="Write Fanfiction Here"
               type="text"
-              className="form-input"
+              className="text-area"
               cols="500"
               rows="10"
               name="fanficBody"

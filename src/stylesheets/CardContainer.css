@@ -1,17 +1,14 @@
 .card-container {
-    display: flex;
-    justify-content: space-evenly;
-    max-width: 100vw;
-    background-color: rgba(0, 0, 0, 0);
-    padding: .5vmax;
-    align-content: flex-start;
-    flex-shrink: 1;
-}
-.show-more {
-    height: 200px;
-    border: 0px;
-    margin: auto;
-    background-color: rgba(0, 0, 0, 0);
-    size:200%;
+  background-color: rgba(0, 0, 0, 0);
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 100vw;
+  padding: 0.5vmax;
 }
 
+.show-more {
+  background-color: rgba(0, 0, 0, 0);
+  height: 200px;
+  margin: auto;
+  border: 0px;
+}

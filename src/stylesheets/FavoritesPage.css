@@ -2,10 +2,6 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin-left: 20px;
+    margin-left: 10px;
     margin-right: 20px;
-}
-
-.page-title{
-    text-align: center;
 }

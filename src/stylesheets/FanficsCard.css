@@ -1,33 +1,31 @@
-.fanfic-card{
-    border: inset;
-    margin: 10px;
-    padding:10px;
-    width: 40%;
-    color:aquamarine;
-    background-color: rgba(51, 50, 50, 0.82);
+.fanfic-card {
+  background-color: rgba(51, 50, 50, 0.82);
+  color: aquamarine;
+  width: 40%;
+  border: inset;
+  margin: 10px;
+  padding: 10px;
 }
 
-.card-info{
-    display:flex;
-    justify-content: space-around;
-
-}
-img{
-    /* height: 30max;
-    width: 15vw; */
-    display:block;
+img {
+  display: block;
 }
 
-.text-info{
-    display: flex;
-    flex-direction: column;
-    align-items: center;   
-    margin-left: auto;
-    margin-right: auto;
+.card-info {
+  display: flex;
+  justify-content: space-around;
 }
 
-.delete-button{
-    border-radius: 5px;
-    background-color: rgb(160, 203, 252);
-    border: outset;
+.text-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.delete-button {
+  background-color: rgb(160, 203, 252);
+  border: outset;
+  border-radius: 5px;
 }

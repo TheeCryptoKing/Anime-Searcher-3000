@@ -1,7 +1,8 @@
 import { Link } from "react-router-dom";
-import { useState } from 'react'
+import { useState } from "react";
 
 import "../stylesheets/AnimeCard.css";
+import "../stylesheets/index.css";
 
 function FavoritesCard({
   image,
@@ -10,9 +11,8 @@ function FavoritesCard({
   setModalStuff,
   setShow,
   updateState,
-  passDown
 }) {
-  const [ hover, setHover ] = useState("anime-card")
+  const [ hover, setHover ] = useState("anime-card");
 
   function updateModal() {
     setModalStuff(anime);
@@ -29,16 +29,16 @@ function FavoritesCard({
       });
   }
 
-  function handleMouseOver () {
-    setHover('anime-card-hover')
+  function handleMouseOver() {
+    setHover("anime-card-hover");
   }
-  
-  function handleMouseLeave () {
-    setHover('anime-card')
+
+  function handleMouseLeave() {
+    setHover("anime-card");
   }
 
   return (
-    <div 
+    <div
       className={hover}
       onMouseOver={handleMouseOver}
       onMouseLeave={handleMouseLeave}
@@ -48,13 +48,10 @@ function FavoritesCard({
       <button onClick={handleDelete} className="fav-button">
         🗑️
       </button>
-
-      <button className='link'>
-        <Link 
-          to="/Fanfics" 
-          state={anime}
-          className=""
-          >Write a Fanfic</Link>
+      <button className="link">
+        <Link to="/Fanfics" state={anime} className="">
+          Write a Fanfic
+        </Link>
       </button>
     </div>
   );

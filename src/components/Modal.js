@@ -11,42 +11,58 @@ function Modal({ modalStuff, show, onClose }) {
 
   return (
     <div className="modal">
+      
       <div className="modal-content">
+        
         <div className="modal-header">
-          {modalStuff.title}
-          <button onClick={onClose} className="button">
-            X
-          </button>
+          <h4>{modalStuff.title}</h4>
           <button onClick={onClose} className="button">
             <Link to="/Fanfics" state={modalStuff}>Write a Fanfic</Link>
           </button>
+          <button onClick={onClose} className="button">
+            X
+          </button>
         </div>
+
         <div className="modal-body">
-            <img className="pt1"
-              src={modalStuff.images.jpg.image_url}
-              alt={modalStuff.title}
-            ></img>
-            <div className="pt1">
-              <p>rating: {modalStuff.rating}</p>
-              <p>score: {modalStuff.score}</p>
-              <p>rank: {modalStuff.rank}</p>
+            
+            <div className='row'>
+            <div className="pt1" >
+                {modalStuff.trailer.embed_url ? (
+                  <iframe classallow="fullscreen" width="700vw" height="393vw" title={modalStuff.title} src={modalStuff.trailer.embed_url} />
+                ) : "Nothing to show here..."}        
+              </div>    
+
             </div>
+
+            <div className='row'>
+              <div className="pt1">
+                <p>Information:</p>
+                <p>episodes: {modalStuff.episodes}</p>
+                <p>status: {modalStuff.status}</p>
+                <p>release year: {modalStuff.year}</p>
+                <p>studios: </p>
+                {modalStuff.studios.map((studio) => (
+                  <p key={studio.name}>{studio.name}</p>                 
+                ))}
+              </div>  
+              <img className="pt1"
+                src={modalStuff.images.jpg.image_url}
+                alt={modalStuff.title}
+              ></img>
+              <div className="pt1">
+                <p>rating: {modalStuff.rating}</p>
+                <p>score: {modalStuff.score}</p>
+                <p>rank: {modalStuff.rank}</p>
+              </div>
+
+            </div>   
+
+
+
           </div>
-            <div className="pt1">
-              <p>Information:</p>
-              <p>episodes: {modalStuff.episodes}</p>
-              <p>status: {modalStuff.status}</p>
-              <p>release year: {modalStuff.year}</p>
-              <p>studios: </p>
-              {modalStuff.studios.map((studio) => (
-                <p key={studio.name}>{studio.name}</p>
-              ))}
-            </div>
-            {modalStuff.trailer.embed_url ? (
-              <iframe allow="fullscreen" width="60%" height="200px" className="pt1" title={modalStuff.title} src={modalStuff.trailer.embed_url} />
-            ) : "Nothing to show here..."}
         </div>
-      </div>
+    </div>
   );
 }
 

@@ -3,14 +3,14 @@
     max-width: 100vw;
     border-style: inset;
     margin: .5vw;
-    background-color: #070427;
-    color: #66FCF1;
+    background-color: rgba(51, 50, 50, 0.82);
+    color: #000000;
     flex-shrink: 0;
     display: flex;
     flex-direction: column;
 }
 
-.title{
+.div-title{
     font-size: 1.5vmax;
     padding-left: .5vw; 
     color: white;

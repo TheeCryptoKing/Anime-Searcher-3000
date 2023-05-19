@@ -6,7 +6,8 @@
   margin: auto;
   border: inset black;
   flex-shrink: 1;
-  color:cyan
+  color:black;
+  background-color: #ffe9dc;
 }
 
 .anime-card-hover {
@@ -16,6 +17,7 @@
   margin: auto;
   transform: scale(1.05);
   border: inset black;
+  background-color: #ffe9dc;
 }
 
 img {

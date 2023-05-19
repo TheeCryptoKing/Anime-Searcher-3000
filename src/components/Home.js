@@ -15,11 +15,11 @@ return (
       <Navbar />
     <div className="home-body">
       <div className="top-animes">
-        <h3 className="title" style={{ color:'cyan' }} >Tσρ 10 Aɳιɱҽ'ʂ Ⴆყ Pσρυʅαɾιƚყ:</h3>
+        <h3 className="div-title" style={{ color:'beige' }} >Tσρ Aɳιɱҽ'ʂ Ⴆყ Pσρυʅαɾιƚყ:</h3>
         <CardContainer setShow={setShow} setModalStuff={setModalStuff} animeList={topAnimes}/>
       </div>
       <div className="new-animes">
-        <h3 className="title" style={{ color:'cyan' }} >Tσρ 10 Nҽɯҽʂƚ Aɳιɱҽʂ:</h3>
+        <h3 className="div-title" style={{ color:'beige' }} >Tσρ Nҽɯҽʂƚ Aɳιɱҽʂ:</h3>
         <CardContainer setShow={setShow} setModalStuff={setModalStuff} animeList={newAnimes}/>
       </div>
 

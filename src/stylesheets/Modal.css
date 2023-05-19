@@ -1,65 +1,85 @@
 .modal {
+    margin: 0 auto;
     z-index: 2;
     position: fixed;
     left: 0;
     top: 0;
-    right: 0;   
+    right: 0;
     bottom: 0;
     background-color: rgba(0, 0, 0, 0.5);
     display: flex;
     align-items: center;
     justify-content: center;
-    width: -1vw;
 }
-
-
 .pt1 {
-    display: inline-block;
+    display: flex;
     justify-content: center;
     border: solid;
     border-radius: 5px;
     margin: 10px;
     padding: 5px
 }
-
 .modal-content {
-    width: 50vw;
-    height: 30vh;
-    min-width: 30vw;
-    min-height: 80vh;
+    max-width: 50vw;
+    max-height: 110vh;
     background-color: #fff;
     position: absolute;
+    margin: 0;
 }
-
+#details, #information {
+    border: 3px solid black;
+    border-radius: 5px;
+}
 .modal-header {
     padding: 10px
 }
-
-.modal-content {
-    margin: 0;
-
+#video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
+.video-row {
+    height: 50vh; /* Adjust the height as desired */
+  }
+  .video-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+     /* 16:9 aspect ratio (adjust as needed) */
+  }
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  /* Media queries for responsiveness */
+  @media (max-width: 767px) {
+    .video-row {
+      height: auto;
+    }
+    .video-container {
+      padding-bottom: 75%; /* Adjust the aspect ratio and height as desired */
+    }
+  }
 .modal-body {
     padding: 10px;
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
-    
 }
-
 .button {
     color: #000000;
     float: right;
     font-weight: bold;
   }
-
 .button:hover,
 .button:focus {
-    color: #f30000;
+    color: #F30000;
     text-decoration: none;
     cursor: pointer;
   }
-
 .studios {
     display:flex;
 }

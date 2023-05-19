@@ -25,12 +25,12 @@ function FanficsCard({
     <article className="fanfic-card">
       <div className="card-info">
         <img src={image} alt={animeName}></img>
-        <div>
-          <h2>{title}</h2>
-          <h2>{creator}</h2>
-          <h4>Based on: {animeName}</h4>
-          <h4>{genre}</h4>
-          <button onClick={handleDelete}>🗑️</button>
+        <div className="text-info">
+        <h2>{animeName}</h2>
+        <h2>By: {creator}</h2>
+          <h4>Based on: {title}</h4>
+          <h4>Genre: {genre}</h4>
+          <button className="delete-button"onClick={handleDelete}>🗑️</button>
         </div>
       </div>
       <p>{body}</p>

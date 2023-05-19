@@ -1,8 +1,3 @@
-.title {
-    text-align: center;
-    color: black;
-}
-
 .inner-div{
     display: flex;
     flex-direction: column;
@@ -18,13 +13,24 @@
 }
 
 .form-input{
-    width: 300px;
+    width: 500px;
+    height: 30px;
     border-radius: 5px;
     background-color: rgb(160, 203, 252);
+    color: black;
     border: inset;
     /* height: 20px; */
 }
 
+.text-area{
+    width: 900px;
+    border-radius: 5px;
+    background-color: rgb(160, 203, 252);
+    border: inset;
+    color:black;
+    height:170px;
+    text-align: center;
+}
 form{
     display:flex;
     flex-wrap: wrap;
@@ -44,6 +50,7 @@ textarea {
     border-radius: 5px;
     background-color: rgb(160, 203, 252);
     border: outset;
+    color: black;
 }
 
 .fanfics-container{
@@ -51,4 +58,8 @@ textarea {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
+}
+
+::placeholder{
+    color: black;
 }

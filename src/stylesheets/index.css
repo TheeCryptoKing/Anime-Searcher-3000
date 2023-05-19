@@ -20,6 +20,8 @@ code {
 
 .title {
   text-align: center;
-  color: black;
+  color:  rgb(160, 203, 252);
   font-size: 5vmin;
+  background-color: rgba(82, 78, 78, 0.82);
 }
+

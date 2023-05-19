@@ -1,21 +1,32 @@
 .fanfic-card{
     border: inset;
     margin: 10px;
-    /* text-align: center; */
     padding:10px;
-    /* display: flex;
-    flex: wrap; */
     width: 40%;
+    color:aquamarine;
+    background-color: rgba(51, 50, 50, 0.82);
 }
 
 .card-info{
     display:flex;
+    justify-content: space-around;
 
 }
 img{
-    /* margin-left: auto;
-    margin-right: auto; */
+
     display:block;
 }
 
+.text-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+    margin-left: auto;
+    margin-right: auto;
+}
 
+.delete-button{
+    border-radius: 5px;
+    background-color: rgb(160, 203, 252);
+    border: inset;
+}

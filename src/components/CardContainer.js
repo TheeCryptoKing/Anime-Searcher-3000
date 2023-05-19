@@ -18,7 +18,6 @@ function CardContainer({ animeList, setShow, setModalStuff }) {
           setModalStuff={setModalStuff}
           setShow={setShow}
         />
-        
       );
     });
 
@@ -35,11 +34,11 @@ function CardContainer({ animeList, setShow, setModalStuff }) {
   return (
     <div className="card-container">
       <button className="show-more" onClick={handleClickLess}>
-        ⏪
+      ↵
       </button>
       {cardDisplay}
       <button className="show-more" onClick={handleClickMore}>
-        ⏩
+      ↳
       </button>
     </div>
   );

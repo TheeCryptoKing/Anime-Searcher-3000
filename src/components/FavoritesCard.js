@@ -2,9 +2,6 @@ import { Link } from "react-router-dom";
 import { useState } from 'react'
 
 import "../stylesheets/AnimeCard.css";
-import "../stylesheets/AnimeCard.css";
-
-
 
 function FavoritesCard({
   image,
@@ -53,7 +50,11 @@ function FavoritesCard({
       </button>
 
       <button className='link'>
-        <Link to="/Fanfics" state={anime}>Write a Fanfic</Link>
+        <Link 
+          to="/Fanfics" 
+          state={anime}
+          className=""
+          >Write a Fanfic</Link>
       </button>
     </div>
   );

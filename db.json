@@ -1,6 +1,232 @@
 {
   "favorites": [
     {
+      "mal_id": 16498,
+      "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/47347t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/47347t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/47347l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "LHtdKWJdif4",
+        "url": "https://www.youtube.com/watch?v=LHtdKWJdif4",
+        "embed_url": "https://www.youtube.com/embed/LHtdKWJdif4?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/LHtdKWJdif4/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shingeki no Kyojin"
+        },
+        {
+          "type": "Synonym",
+          "title": "AoT"
+        },
+        {
+          "type": "Synonym",
+          "title": "SnK"
+        },
+        {
+          "type": "Japanese",
+          "title": "進撃の巨人"
+        },
+        {
+          "type": "English",
+          "title": "Attack on Titan"
+        },
+        {
+          "type": "German",
+          "title": "Attack on Titan"
+        },
+        {
+          "type": "Spanish",
+          "title": "Ataque a los Titanes"
+        },
+        {
+          "type": "French",
+          "title": "L'Attaque des Titans"
+        }
+      ],
+      "title": "Shingeki no Kyojin",
+      "title_english": "Attack on Titan",
+      "title_japanese": "進撃の巨人",
+      "title_synonyms": [
+        "AoT",
+        "SnK"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2013-04-07T00:00:00+00:00",
+        "to": "2013-09-29T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 4,
+            "year": 2013
+          },
+          "to": {
+            "day": 29,
+            "month": 9,
+            "year": 2013
+          }
+        },
+        "string": "Apr 7, 2013 to Sep 29, 2013"
+      },
+      "duration": "24 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.54,
+      "scored_by": 2647347,
+      "rank": 107,
+      "popularity": 1,
+      "members": 3724759,
+      "favorites": 163101,
+      "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman, and his childhood friend Armin Arlert join the brutal war against the Titans and race to discover a way of defeating them before the last walls are breached.\n\n[Written by MAL Rewrite]",
+      "background": "Shingeki no Kyojin adapts content from the first eight volumes of Hajime Isayama's award-winning manga of the same name. The last episode received a pre-airing in Tokyo, Marunouchi Piccadilly 1 theater on Saturday, September 28, 2013. TV broadcast took place after midnight, a few hours later. Shingeki no Kyojin won the Animation of the Year in the Television category at the Tokyo Anime Award Festival in 2014.",
+      "season": "spring",
+      "year": 2013,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "01:58",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 01:58 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Production I.G",
+          "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 143,
+          "type": "anime",
+          "name": "Mainichi Broadcasting System",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 144,
+          "type": "anime",
+          "name": "Pony Canyon",
+          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+          "mal_id": 159,
+          "type": "anime",
+          "name": "Kodansha",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 430,
+          "type": "anime",
+          "name": "Mad Box",
+          "url": "https://myanimelist.net/anime/producer/430/Mad_Box"
+        },
+        {
+          "mal_id": 1557,
+          "type": "anime",
+          "name": "Pony Canyon Enterprise",
+          "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprise"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 858,
+          "type": "anime",
+          "name": "Wit Studio",
+          "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 46,
+          "type": "anime",
+          "name": "Award Winning",
+          "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 41,
+          "type": "anime",
+          "name": "Suspense",
+          "url": "https://myanimelist.net/anime/genre/41/Suspense"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 58,
+          "type": "anime",
+          "name": "Gore",
+          "url": "https://myanimelist.net/anime/genre/58/Gore"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Survival",
+          "url": "https://myanimelist.net/anime/genre/76/Survival"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "id": 1
+    },
+    {
       "mal_id": 1535,
       "url": "https://myanimelist.net/anime/1535/Death_Note",
       "images": {
@@ -177,7 +403,424 @@
           "url": "https://myanimelist.net/anime/genre/27/Shounen"
         }
       ],
-      "id": 1
+      "id": 2
+    },
+    {
+      "mal_id": 5114,
+      "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1208/94745.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "--IcmZkvL0Q",
+        "url": "https://www.youtube.com/watch?v=--IcmZkvL0Q",
+        "embed_url": "https://www.youtube.com/embed/--IcmZkvL0Q?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/--IcmZkvL0Q/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/--IcmZkvL0Q/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/--IcmZkvL0Q/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/--IcmZkvL0Q/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/--IcmZkvL0Q/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Fullmetal Alchemist: Brotherhood"
+        },
+        {
+          "type": "Synonym",
+          "title": "Hagane no Renkinjutsushi: Fullmetal Alchemist"
+        },
+        {
+          "type": "Synonym",
+          "title": "Fullmetal Alchemist (2009)"
+        },
+        {
+          "type": "Synonym",
+          "title": "FMA"
+        },
+        {
+          "type": "Synonym",
+          "title": "FMAB"
+        },
+        {
+          "type": "Japanese",
+          "title": "鋼の錬金術師 FULLMETAL ALCHEMIST"
+        },
+        {
+          "type": "English",
+          "title": "Fullmetal Alchemist: Brotherhood"
+        },
+        {
+          "type": "French",
+          "title": "Fullmetal Alchemist Brotherhood"
+        }
+      ],
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "title_english": "Fullmetal Alchemist: Brotherhood",
+      "title_japanese": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "title_synonyms": [
+        "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+        "Fullmetal Alchemist (2009)",
+        "FMA",
+        "FMAB"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 64,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2009-04-05T00:00:00+00:00",
+        "to": "2010-07-04T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 4,
+            "year": 2009
+          },
+          "to": {
+            "day": 4,
+            "month": 7,
+            "year": 2010
+          }
+        },
+        "string": "Apr 5, 2009 to Jul 4, 2010"
+      },
+      "duration": "24 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 9.1,
+      "scored_by": 2009722,
+      "rank": 1,
+      "popularity": 3,
+      "members": 3159149,
+      "favorites": 216636,
+      "synopsis": "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor.\n\nThe brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing \"automail,\" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.\n\nAs Edward becomes an infamous alchemist and gains the nickname \"Fullmetal,\" the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.\n\n[Written by MAL Rewrite]",
+      "background": null,
+      "season": "spring",
+      "year": 2009,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "17:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 17:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+          "mal_id": 58,
+          "type": "anime",
+          "name": "Square Enix",
+          "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+          "mal_id": 143,
+          "type": "anime",
+          "name": "Mainichi Broadcasting System",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 1155,
+          "type": "anime",
+          "name": "Studio Moriken",
+          "url": "https://myanimelist.net/anime/producer/1155/Studio_Moriken"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+          "mal_id": 493,
+          "type": "anime",
+          "name": "Aniplex of America",
+          "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "mal_id": 30276,
+      "url": "https://myanimelist.net/anime/30276/One_Punch_Man",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/12/76049t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/12/76049.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/12/76049t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76049l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "ExUMiF1L0HA",
+        "url": "https://www.youtube.com/watch?v=ExUMiF1L0HA",
+        "embed_url": "https://www.youtube.com/embed/ExUMiF1L0HA?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/ExUMiF1L0HA/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/ExUMiF1L0HA/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/ExUMiF1L0HA/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/ExUMiF1L0HA/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/ExUMiF1L0HA/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "One Punch Man"
+        },
+        {
+          "type": "Synonym",
+          "title": "One Punch-Man"
+        },
+        {
+          "type": "Synonym",
+          "title": "One-Punch Man"
+        },
+        {
+          "type": "Synonym",
+          "title": "OPM"
+        },
+        {
+          "type": "Japanese",
+          "title": "ワンパンマン"
+        },
+        {
+          "type": "English",
+          "title": "One Punch Man"
+        }
+      ],
+      "title": "One Punch Man",
+      "title_english": "One Punch Man",
+      "title_japanese": "ワンパンマン",
+      "title_synonyms": [
+        "One Punch-Man",
+        "One-Punch Man",
+        "OPM"
+      ],
+      "type": "TV",
+      "source": "Web manga",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2015-10-05T00:00:00+00:00",
+        "to": "2015-12-21T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 10,
+            "year": 2015
+          },
+          "to": {
+            "day": 21,
+            "month": 12,
+            "year": 2015
+          }
+        },
+        "string": "Oct 5, 2015 to Dec 21, 2015"
+      },
+      "duration": "24 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.5,
+      "scored_by": 2120174,
+      "rank": 128,
+      "popularity": 4,
+      "members": 3042327,
+      "favorites": 62122,
+      "synopsis": "The seemingly unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, Saitama relentlessly trained for three years, losing all of his hair in the process. Now, Saitama is so powerful, he can defeat any enemy with just one punch. However, having no one capable of matching his strength has led Saitama to an unexpected problem—he is no longer able to enjoy the thrill of battling and has become quite bored.\n\nOne day, Saitama catches the attention of 19-year-old cyborg Genos, who witnesses his power and wishes to become Saitama's disciple. Genos proposes that the two join the Hero Association in order to become certified heroes that will be recognized for their positive contributions to society. Saitama, who is shocked that no one knows who he is, quickly agrees. Meeting new allies and taking on new foes, Saitama embarks on a new journey as a member of the Hero Association to experience the excitement of battle he once felt.\n\n[Written by MAL Rewrite]",
+      "background": "Episodes 1 and 2 were previewed at a screening in Saitama city cultural center (small hall) on September 6, 2015. Regular broadcasting began on October 5, 2015. One Punch Man is based on Yusuke Murata's manga remake of ONE's original web comic. The anime adapts the first seven volumes of the manga.",
+      "season": "fall",
+      "year": 2015,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "01:05",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 01:05 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 16,
+          "type": "anime",
+          "name": "TV Tokyo",
+          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "Bandai Visual",
+          "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+          "mal_id": 104,
+          "type": "anime",
+          "name": "Lantis",
+          "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+          "mal_id": 142,
+          "type": "anime",
+          "name": "Asatsu DK",
+          "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+        },
+        {
+          "mal_id": 1121,
+          "type": "anime",
+          "name": "Banpresto",
+          "url": "https://myanimelist.net/anime/producer/1121/Banpresto"
+        },
+        {
+          "mal_id": 1261,
+          "type": "anime",
+          "name": "Good Smile Company",
+          "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 1501,
+          "type": "anime",
+          "name": "JR East Marketing & Communications",
+          "url": "https://myanimelist.net/anime/producer/1501/JR_East_Marketing___Communications"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 119,
+          "type": "anime",
+          "name": "VIZ Media",
+          "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 11,
+          "type": "anime",
+          "name": "Madhouse",
+          "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 50,
+          "type": "anime",
+          "name": "Adult Cast",
+          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        },
+        {
+          "mal_id": 20,
+          "type": "anime",
+          "name": "Parody",
+          "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ],
+      "id": 4
     },
     {
       "mal_id": 11757,
@@ -366,228 +1009,77 @@
         }
       ],
       "demographics": [],
-      "id": 4
-    },
-    {
-      "mal_id": 51009,
-      "url": "https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1600/134703.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1600/134703t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1600/134703l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1600/134703.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1600/134703t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1600/134703l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": "aybr_9MzKXI",
-        "url": "https://www.youtube.com/watch?v=aybr_9MzKXI",
-        "embed_url": "https://www.youtube.com/embed/aybr_9MzKXI?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": "https://img.youtube.com/vi/aybr_9MzKXI/default.jpg",
-          "small_image_url": "https://img.youtube.com/vi/aybr_9MzKXI/sddefault.jpg",
-          "medium_image_url": "https://img.youtube.com/vi/aybr_9MzKXI/mqdefault.jpg",
-          "large_image_url": "https://img.youtube.com/vi/aybr_9MzKXI/hqdefault.jpg",
-          "maximum_image_url": "https://img.youtube.com/vi/aybr_9MzKXI/maxresdefault.jpg"
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Jujutsu Kaisen 2nd Season"
-        },
-        {
-          "type": "Synonym",
-          "title": "Sorcery Fight"
-        },
-        {
-          "type": "Synonym",
-          "title": "JJK"
-        },
-        {
-          "type": "Japanese",
-          "title": "呪術廻戦"
-        }
-      ],
-      "title": "Jujutsu Kaisen 2nd Season",
-      "title_english": null,
-      "title_japanese": "呪術廻戦",
-      "title_synonyms": [
-        "Sorcery Fight",
-        "JJK"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": null,
-      "status": "Not yet aired",
-      "airing": false,
-      "aired": {
-        "from": "2023-07-06T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 6,
-            "month": 7,
-            "year": 2023
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Jul 6, 2023 to ?"
-      },
-      "duration": "Unknown",
-      "rating": "R - 17+ (violence & profanity)",
-      "score": null,
-      "scored_by": null,
-      "rank": null,
-      "popularity": 823,
-      "members": 270558,
-      "favorites": 3299,
-      "synopsis": "Second season of Jujutsu Kaisen.",
-      "background": null,
-      "season": "summer",
-      "year": 2023,
-      "broadcast": {
-        "day": "Thursdays",
-        "time": "23:56",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 23:56 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 1143,
-          "type": "anime",
-          "name": "TOHO animation",
-          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
-        },
-        {
-          "mal_id": 1365,
-          "type": "anime",
-          "name": "Shueisha",
-          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
-        },
-        {
-          "mal_id": 1856,
-          "type": "anime",
-          "name": "dugout",
-          "url": "https://myanimelist.net/anime/producer/1856/dugout"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 569,
-          "type": "anime",
-          "name": "MAPPA",
-          "url": "https://myanimelist.net/anime/producer/569/MAPPA"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 23,
-          "type": "anime",
-          "name": "School",
-          "url": "https://myanimelist.net/anime/genre/23/School"
-        }
-      ],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ],
       "id": 5
     },
     {
-      "mal_id": 51009,
-      "url": "https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season",
+      "mal_id": 40357,
+      "url": "https://myanimelist.net/anime/40357/Tate_no_Yuusha_no_Nariagari_Season_3",
       "images": {
         "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1600/134703.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1600/134703t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1600/134703l.jpg"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1995/135164.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164l.jpg"
         },
         "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1600/134703.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1600/134703t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1600/134703l.webp"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1995/135164.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164l.webp"
         }
       },
       "trailer": {
-        "youtube_id": "aybr_9MzKXI",
-        "url": "https://www.youtube.com/watch?v=aybr_9MzKXI",
-        "embed_url": "https://www.youtube.com/embed/aybr_9MzKXI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "youtube_id": "VW_LxM4tt-o",
+        "url": "https://www.youtube.com/watch?v=VW_LxM4tt-o",
+        "embed_url": "https://www.youtube.com/embed/VW_LxM4tt-o?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
-          "image_url": "https://img.youtube.com/vi/aybr_9MzKXI/default.jpg",
-          "small_image_url": "https://img.youtube.com/vi/aybr_9MzKXI/sddefault.jpg",
-          "medium_image_url": "https://img.youtube.com/vi/aybr_9MzKXI/mqdefault.jpg",
-          "large_image_url": "https://img.youtube.com/vi/aybr_9MzKXI/hqdefault.jpg",
-          "maximum_image_url": "https://img.youtube.com/vi/aybr_9MzKXI/maxresdefault.jpg"
+          "image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/maxresdefault.jpg"
         }
       },
       "approved": true,
       "titles": [
         {
           "type": "Default",
-          "title": "Jujutsu Kaisen 2nd Season"
+          "title": "Tate no Yuusha no Nariagari Season 3"
         },
         {
           "type": "Synonym",
-          "title": "Sorcery Fight"
+          "title": "Tate no Yuusha no Nariagari 3rd Season"
         },
         {
           "type": "Synonym",
-          "title": "JJK"
+          "title": "The Rising of the Shield Hero 3rd Season"
         },
         {
           "type": "Japanese",
-          "title": "呪術廻戦"
+          "title": "盾の勇者の成り上がり"
+        },
+        {
+          "type": "English",
+          "title": "The Rising of the Shield Hero Season 3"
         }
       ],
-      "title": "Jujutsu Kaisen 2nd Season",
-      "title_english": null,
-      "title_japanese": "呪術廻戦",
+      "title": "Tate no Yuusha no Nariagari Season 3",
+      "title_english": "The Rising of the Shield Hero Season 3",
+      "title_japanese": "盾の勇者の成り上がり",
       "title_synonyms": [
-        "Sorcery Fight",
-        "JJK"
+        "Tate no Yuusha no Nariagari 3rd Season",
+        "The Rising of the Shield Hero 3rd Season"
       ],
       "type": "TV",
-      "source": "Manga",
+      "source": "Light novel",
       "episodes": null,
       "status": "Not yet aired",
       "airing": false,
       "aired": {
-        "from": "2023-07-06T00:00:00+00:00",
+        "from": "2023-10-01T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 6,
-            "month": 7,
+            "day": 1,
+            "month": 10,
             "year": 2023
           },
           "to": {
@@ -596,53 +1088,41 @@
             "year": null
           }
         },
-        "string": "Jul 6, 2023 to ?"
+        "string": "Oct 2023 to ?"
       },
       "duration": "Unknown",
-      "rating": "R - 17+ (violence & profanity)",
+      "rating": "PG-13 - Teens 13 or older",
       "score": null,
       "scored_by": null,
       "rank": null,
-      "popularity": 823,
-      "members": 270558,
-      "favorites": 3299,
-      "synopsis": "Second season of Jujutsu Kaisen.",
+      "popularity": 781,
+      "members": 285034,
+      "favorites": 4536,
+      "synopsis": "Third season of Tate no Yuusha no Nariagari.",
       "background": null,
-      "season": "summer",
+      "season": "fall",
       "year": 2023,
       "broadcast": {
-        "day": "Thursdays",
-        "time": "23:56",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 23:56 (JST)"
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
       },
       "producers": [
         {
-          "mal_id": 1143,
+          "mal_id": 1696,
           "type": "anime",
-          "name": "TOHO animation",
-          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
-        },
-        {
-          "mal_id": 1365,
-          "type": "anime",
-          "name": "Shueisha",
-          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
-        },
-        {
-          "mal_id": 1856,
-          "type": "anime",
-          "name": "dugout",
-          "url": "https://myanimelist.net/anime/producer/1856/dugout"
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
         }
       ],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 569,
+          "mal_id": 290,
           "type": "anime",
-          "name": "MAPPA",
-          "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+          "name": "Kinema Citrus",
+          "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
         }
       ],
       "genres": [
@@ -651,6 +1131,18 @@
           "type": "anime",
           "name": "Action",
           "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
         },
         {
           "mal_id": 10,
@@ -662,20 +1154,13 @@
       "explicit_genres": [],
       "themes": [
         {
-          "mal_id": 23,
+          "mal_id": 62,
           "type": "anime",
-          "name": "School",
-          "url": "https://myanimelist.net/anime/genre/23/School"
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
         }
       ],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ],
+      "demographics": [],
       "id": 6
     },
     {
@@ -834,170 +1319,18 @@
       "id": 7
     },
     {
-      "mal_id": 40357,
-      "url": "https://myanimelist.net/anime/40357/Tate_no_Yuusha_no_Nariagari_Season_3",
+      "mal_id": 49458,
+      "url": "https://myanimelist.net/anime/49458/Kono_Subarashii_Sekai_ni_Shukufuku_wo_3",
       "images": {
         "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1995/135164.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164l.jpg"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1893/124134.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1893/124134t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1893/124134l.jpg"
         },
         "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1995/135164.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/135164l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": "VW_LxM4tt-o",
-        "url": "https://www.youtube.com/watch?v=VW_LxM4tt-o",
-        "embed_url": "https://www.youtube.com/embed/VW_LxM4tt-o?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/default.jpg",
-          "small_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/sddefault.jpg",
-          "medium_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/mqdefault.jpg",
-          "large_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/hqdefault.jpg",
-          "maximum_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/maxresdefault.jpg"
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Tate no Yuusha no Nariagari Season 3"
-        },
-        {
-          "type": "Synonym",
-          "title": "Tate no Yuusha no Nariagari 3rd Season"
-        },
-        {
-          "type": "Synonym",
-          "title": "The Rising of the Shield Hero 3rd Season"
-        },
-        {
-          "type": "Japanese",
-          "title": "盾の勇者の成り上がり"
-        },
-        {
-          "type": "English",
-          "title": "The Rising of the Shield Hero Season 3"
-        }
-      ],
-      "title": "Tate no Yuusha no Nariagari Season 3",
-      "title_english": "The Rising of the Shield Hero Season 3",
-      "title_japanese": "盾の勇者の成り上がり",
-      "title_synonyms": [
-        "Tate no Yuusha no Nariagari 3rd Season",
-        "The Rising of the Shield Hero 3rd Season"
-      ],
-      "type": "TV",
-      "source": "Light novel",
-      "episodes": null,
-      "status": "Not yet aired",
-      "airing": false,
-      "aired": {
-        "from": "2023-10-01T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 1,
-            "month": 10,
-            "year": 2023
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Oct 2023 to ?"
-      },
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": null,
-      "scored_by": null,
-      "rank": null,
-      "popularity": 781,
-      "members": 285034,
-      "favorites": 4536,
-      "synopsis": "Third season of Tate no Yuusha no Nariagari.",
-      "background": null,
-      "season": "fall",
-      "year": 2023,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "producers": [
-        {
-          "mal_id": 1696,
-          "type": "anime",
-          "name": "Kadokawa",
-          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 290,
-          "type": "anime",
-          "name": "Kinema Citrus",
-          "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 8,
-          "type": "anime",
-          "name": "Drama",
-          "url": "https://myanimelist.net/anime/genre/8/Drama"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 62,
-          "type": "anime",
-          "name": "Isekai",
-          "url": "https://myanimelist.net/anime/genre/62/Isekai"
-        }
-      ],
-      "demographics": [],
-      "id": 8
-    },
-    {
-      "mal_id": 10686,
-      "url": "https://myanimelist.net/anime/10686/Naruto__Honoo_no_Chuunin_Shiken_Naruto_vs_Konohamaru",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/9/30813.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/9/30813t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/9/30813l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/9/30813.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/9/30813t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/9/30813l.webp"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1893/124134.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1893/124134t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1893/124134l.webp"
         }
       },
       "trailer": {
@@ -1016,34 +1349,34 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!"
+          "title": "Kono Subarashii Sekai ni Shukufuku wo! 3"
         },
         {
           "type": "Japanese",
-          "title": "炎の中忍試験! ナルトvs木ノ葉丸!!"
+          "title": "この素晴らしい世界に祝福を！3"
         },
         {
           "type": "English",
-          "title": "Naruto Shippuden: Chunin Exam on Fire! and Naruto vs. Konohamaru!"
+          "title": "KonoSuba: God's Blessing on This Wonderful World! 3"
         }
       ],
-      "title": "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!",
-      "title_english": "Naruto Shippuden: Chunin Exam on Fire! and Naruto vs. Konohamaru!",
-      "title_japanese": "炎の中忍試験! ナルトvs木ノ葉丸!!",
+      "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+      "title_english": "KonoSuba: God's Blessing on This Wonderful World! 3",
+      "title_japanese": "この素晴らしい世界に祝福を！3",
       "title_synonyms": [],
-      "type": "Movie",
-      "source": "Manga",
-      "episodes": 1,
-      "status": "Finished Airing",
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": null,
+      "status": "Not yet aired",
       "airing": false,
       "aired": {
-        "from": "2011-07-30T00:00:00+00:00",
+        "from": null,
         "to": null,
         "prop": {
           "from": {
-            "day": 30,
-            "month": 7,
-            "year": 2011
+            "day": null,
+            "month": null,
+            "year": null
           },
           "to": {
             "day": null,
@@ -1051,48 +1384,177 @@
             "year": null
           }
         },
-        "string": "Jul 30, 2011"
+        "string": "Not available"
       },
-      "duration": "14 min",
+      "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 7.17,
-      "scored_by": 39946,
-      "rank": 3201,
-      "popularity": 2279,
-      "members": 76182,
-      "favorites": 36,
-      "synopsis": "As the Fourth Great Ninja War quickly approaches, Sunagakure hosts a special Chunin exam to strengthen the troops of the Allied Shinobi Forces. Among the participants are Konohamaru Sarutobi, an ambitious rookie, and Naruto Uzumaki, who has become a renowned ninja. Despite the significant disparity in skill, Konohamaru is excited at the prospect of proving himself in a competition against Naruto—the one person he both admires and sees as his rival.\n\n[Written by MAL Rewrite]",
-      "background": "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!! was aired together with Naruto: Shippuuden Movie 5 - Blood Prison, both presenting stories which fall closely before the series' \"Fourth Shinobi World War: Confrontation\" arc. In addition, their release date was only one month prior to the aforementioned arc's premiere date, January 5, 2012.",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 1227,
+      "members": 178999,
+      "favorites": 1497,
+      "synopsis": "Third season of Kono Subarashii Sekai ni Shukufuku wo!",
+      "background": null,
       "season": null,
       "year": null,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
-        "string": null
+        "string": "Unknown"
       },
       "producers": [
         {
-          "mal_id": 1365,
+          "mal_id": 1696,
           "type": "anime",
-          "name": "Shueisha",
-          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
         }
       ],
-      "licensors": [
-        {
-          "mal_id": 119,
-          "type": "anime",
-          "name": "VIZ Media",
-          "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
-        }
-      ],
+      "licensors": [],
       "studios": [
         {
-          "mal_id": 1,
+          "mal_id": 1967,
           "type": "anime",
-          "name": "Pierrot",
-          "url": "https://myanimelist.net/anime/producer/1/Pierrot"
+          "name": "Drive",
+          "url": "https://myanimelist.net/anime/producer/1967/Drive"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 20,
+          "type": "anime",
+          "name": "Parody",
+          "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+          "mal_id": 72,
+          "type": "anime",
+          "name": "Reincarnation",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        }
+      ],
+      "demographics": [],
+      "id": 8
+    },
+    {
+      "mal_id": 47160,
+      "url": "https://myanimelist.net/anime/47160/Goblin_Slayer_2nd_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1569/134760.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1569/134760t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1569/134760l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1569/134760.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1569/134760t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1569/134760l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "Dc3U12kH3WA",
+        "url": "https://www.youtube.com/watch?v=Dc3U12kH3WA",
+        "embed_url": "https://www.youtube.com/embed/Dc3U12kH3WA?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/Dc3U12kH3WA/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/Dc3U12kH3WA/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/Dc3U12kH3WA/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/Dc3U12kH3WA/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/Dc3U12kH3WA/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Goblin Slayer 2nd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "ゴブリンスレイヤー"
+        }
+      ],
+      "title": "Goblin Slayer 2nd Season",
+      "title_english": null,
+      "title_japanese": "ゴブリンスレイヤー",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": null,
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2023-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2023 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 1253,
+      "members": 175878,
+      "favorites": 1827,
+      "synopsis": "Second season of Goblin Slayer.",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 839,
+          "type": "anime",
+          "name": "LIDENFILMS",
+          "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
         }
       ],
       "genres": [
@@ -1107,89 +1569,205 @@
           "type": "anime",
           "name": "Adventure",
           "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [],
+      "id": 9
+    },
+    {
+      "mal_id": 51179,
+      "url": "https://myanimelist.net/anime/51179/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1776/131746.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1776/131746t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1776/131746l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1776/131746.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1776/131746t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1776/131746l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "keti2rbgI6c",
+        "url": "https://www.youtube.com/watch?v=keti2rbgI6c",
+        "embed_url": "https://www.youtube.com/embed/keti2rbgI6c?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/keti2rbgI6c/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/keti2rbgI6c/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/keti2rbgI6c/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/keti2rbgI6c/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/keti2rbgI6c/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+        },
+        {
+          "type": "Synonym",
+          "title": "Jobless Reincarnation: I Will Seriously Try If I Go To Another World"
+        },
+        {
+          "type": "Synonym",
+          "title": "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "無職転生 II ～異世界行ったら本気だす～"
+        },
+        {
+          "type": "English",
+          "title": "Mushoku Tensei: Jobless Reincarnation Season 2"
+        }
+      ],
+      "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+      "title_english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+      "title_japanese": "無職転生 II ～異世界行ったら本気だす～",
+      "title_synonyms": [
+        "Jobless Reincarnation: I Will Seriously Try If I Go To Another World",
+        "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": null,
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2023-07-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 7,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 2023 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 1263,
+      "members": 174597,
+      "favorites": 1736,
+      "synopsis": "Second season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+      "background": null,
+      "season": "summer",
+      "year": 2023,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [
+        {
+          "mal_id": 1444,
+          "type": "anime",
+          "name": "Egg Firm",
+          "url": "https://myanimelist.net/anime/producer/1444/Egg_Firm"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1993,
+          "type": "anime",
+          "name": "Studio Bind",
+          "url": "https://myanimelist.net/anime/producer/1993/Studio_Bind"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
         }
       ],
       "explicit_genres": [],
       "themes": [
         {
-          "mal_id": 17,
+          "mal_id": 62,
           "type": "anime",
-          "name": "Martial Arts",
-          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
         },
         {
-          "mal_id": 31,
+          "mal_id": 72,
           "type": "anime",
-          "name": "Super Power",
-          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+          "name": "Reincarnation",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
         }
       ],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ],
-      "id": 9
+      "demographics": [],
+      "id": 10
     }
   ],
   "fanfics": [
     {
       "newFanFic": {
-        "name": "BIG GAS",
+        "name": "Saitama: The Car Salesman",
         "genre": "Action",
-        "image": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
-        "creator": "Eli",
-        "title": "Fullmetal Alchemist: Brotherhood",
-        "fanficBody": "More than 100 stealth egg attacks baffle one Euclid homeowner and police (photos and video) EUCLID, Ohio -- An 85-year-old Euclid man's home has become the target of mysterious egging attacks that began in March 2014 and haven't stopped. The continuous onslaught of eggs has baffled police, neighbors and local government officials who have tried and failed to identify the source of the attacks that have ruined the man's home and kept his family on edge. \"The accuracy is phenomenal,\" Albert Clemens, Sr. said. \"Because almost every time when it's nice weather and they launch five or six of these at a time, they almost invariably hit the front door.\" Clemens green two-story house sits on the corner of Wilmore Avenue and East 210th Street. He and his wife bought the home as newlyweds about 60 years ago. Though his wife has since passed away, Clemens still lives there with his 49-year-old daughter and 51-year-old son. The house has been pelted with eggs several times a week -- sometimes more than once a day -- for the past year. The attacks always happen after dark and last around 10 minutes each. The family has been awoken as late as 2 a.m. by what sounds like the crack of a gunshot against the aluminum siding or front door. Clemens and police believe the eggs are being launched from a block or two away. The siding on the front of Clemens' home is destroyed, splattered with dried egg residue that stripped off the paint. Other than a few rogue eggs that hit nearby homes, no other neighbors have been targeted. \"Somebody is deeply, deeply angry at somebody in that household for some reason,\" Euclid Lt. Mitch Houser said. Winter offered a short respite for the family, as the egging became less frequent during the cold weather. But both Clemens and police anticipate the attacks picking back up as the snow and ice thaw. An unsolved mystery Euclid police have not taken the investigation lightly. They've spent a year doing undercover stakeouts, canvassing the neighborhood and even sending eggshells for testing. The department's entire community policing unit was dedicated to tracking down the eggers at one point. Officers respond quickly to every egging call at the home -- which is less than a mile from the police station. Both Clemens and detectives are at a dead end when it comes to suspects. Clemens had suspicions about a young man across the street who confronted him a couple years ago and asked him to stop calling police about suspicious activity in the neighborhood. Clemens said that he had started calling police more often as he noticed more crime -- mostly suspected drug activity. Another neighbor Clemens suspected was ruled out when officers saw him standing outside as an attack occurred in the presence of police. Investigators have taken several different approaches to nabbing the eggers, including installing a surveillance camera on the house. Detectives even collected some eggshell samples and tested them in a crime lab. The eggs were traced back to a local Amish farm, but the trail ended there. Clemens says the culprits either have access to a large supply of eggs or are stealing them from businesses that throw them out when they go bad. Detectives have followed this thread, visiting local restaurants and businesses asking about missing eggs. They've also tried collecting fingerprints from eggshells, but Houser said that's an impossible task. When an egg breaks, it releases proteins that destroy DNA. Officers have gone door to door questioning neighbors and handing out fliers. Nobody has come forward with any tips. \"The person or people who are doing it have remained very tight-lipped apparently,\" Houser said. \"I would imagine it would be hard to keep a secret of something that had been done hundreds of times and for nobody to step forward to talk about it.\" The guilty parties don't appear to be intimidated by police interest in the case. An officer last year was taking a report when a barrage of eggs was launched at the house. One hit him in the foot. Houser said he's never seen this level of vandalism in his 20 years of police work. It's frustrated the whole department, which has dedicated hundreds of hours toward solving the egging mystery. \"The man hours put into that investigation were huge and one of the reasons it's so frustrating that we don't have somebody right now that we can criminally charge,\" Houser said. The culprits will face charges of felony vandalism and criminal damaging, Houser said. Additional charges could be tacked on if investigators find evidence that the attacks are a hate crime. The search continues Clemens is waiting until the perpetrators are caught before he repairs the tarnished siding. His insurance company is refusing to settle a claim until the guilty party is found. He said he used to clean up after each attack, but it became so frequent that he couldn't keep up. Police initially offered a $500 reward for information, but bumped it up to $1,000 after nobody came forward. That money is still up for grabs. \"We're not going to let it go,\" Houser said. \"We'll continue to put effort into it until we figure something out.\" Despite all the torment, Clemens said he'd never consider moving from his beloved home. \"I like the neighborhood,\" Clemens said. \"I like the city of Euclid. I would live and die in this house -- but it's been kind of a nightmare.\""
+        "image": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+        "creator": "Michael Jackson",
+        "title": "One Punch Man",
+        "fanficBody": "\nSaitama, the unbeatable hero known as One Punch Man, was facing a new challenge. It wasn't a monstrous villain or a city-threatening disaster, but rather the mundane world of car sales. After saving countless lives and growing bored with his daily routine, Saitama decided it was time for a change. He wanted to apply his strength and wit in a different way, and what better way than becoming a car salesman?\n\nSaitama strolled confidently into the sleek and modern showroom of \"Speed Demon Auto Sales.\" The moment he stepped through the doors, all eyes turned to him. The sales team, dressed in sharp suits and ties, regarded him with curiosity and a hint of skepticism. Saitama, however, remained unfazed.\n\nThe manager, Mr. Johnson, approached Saitama cautiously. \"Ah, you must be the new recruit,\" he said, eyeing Saitama's bald head and yellow jumpsuit. \"We weren't expecting someone with your... unique style. But if you're serious about this, I suppose we can give you a chance.\"\n\nSaitama simply nodded, his calm expression never wavering. He understood that appearances could be deceiving, and he was determined to prove his worth in the world of car sales.\n\nFor weeks, Saitama immersed himself in the intricacies of automobile knowledge. He devoured every piece of information about the latest models, engine specifications, and pricing details. His ability to absorb and retain information astounded his colleagues, who soon began to view him in a new light.\n\nOn his first day on the showroom floor, Saitama approached a potential customer browsing the selection of sedans. The man, a tech-savvy individual with discerning taste, scrutinized every detail of the vehicles. Saitama approached him with a warm smile.\n\n\"Looking for a car that matches your style, sir?\" Saitama asked, his voice calm and reassuring.\n\nThe man raised an eyebrow. \"And what makes you think you can help me?\"\n\nSaitama leaned against one of the sleek cars, nonchalantly flexing his bicep. \"Well, you see, I've faced opponents much tougher than any car on this lot. I know power when I see it. Let me show you something special.\"\n\nIntrigued, the man followed Saitama to a hidden corner of the showroom. There, covered in a white cloth, stood an unassuming hatchback. Saitama dramatically unveiled it, revealing a shining red sports car underneath.\n\n\"This,\" Saitama said with a grin, \"is the Speed Demon GT. It may not look like much, but trust me when I say it packs a punch.\"\n\nHe revved the engine, and the sports car came to life with a roar. The customer's eyes widened with excitement. Saitama continued to showcase the car's features, effortlessly addressing every question and concern the man had.\n\nIn no time, the customer was sold. He couldn't resist the allure of the Speed Demon GT's power and sleek design. Saitama had done the impossible - he had made a sale on his very first try.\n\nWord of Saitama's uncanny talent quickly spread throughout the dealership. The other salespeople marveled at his ability to connect with customers, using his experiences as a hero to highlight the unique aspects of each car. Saitama's sales figures skyrocketed, making him the top performer in the entire dealership.\n\nBut Saitama remained humble, never losing sight of his goal to bring joy to people's lives, whether it be through saving them from disaster or helping them find their dream car. He had discovered a new passion, one that allowed him to use his strength and knowledge in unexpected ways."
       },
       "id": 1
     },
     {
       "newFanFic": {
-        "name": "YES SIRE",
+        "name": "Light Yagami Passed Out on the Couch",
         "genre": "Supernatural",
         "image": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
-        "creator": "ELI ",
+        "creator": "Kwame B.",
         "title": "Death Note",
-        "fanficBody": "More than 100 stealth egg attacks baffle one Euclid homeowner and police (photos and video) EUCLID, Ohio -- An 85-year-old Euclid man's home has become the target of mysterious egging attacks that began in March 2014 and haven't stopped. The continuous onslaught of eggs has baffled police, neighbors and local government officials who have tried and failed to identify the source of the attacks that have ruined the man's home and kept his family on edge. \"The accuracy is phenomenal,\" Albert Clemens, Sr. said. \"Because almost every time when it's nice weather and they launch five or six of these at a time, they almost invariably hit the front door.\" Clemens green two-story house sits on the corner of Wilmore Avenue and East 210th Street. He and his wife bought the home as newlyweds about 60 years ago. Though his wife has since passed away, Clemens still lives there with his 49-year-old daughter and 51-year-old son. The house has been pelted with eggs several times a week -- sometimes more than once a day -- for the past year. The attacks always happen after dark and last around 10 minutes each. The family has been awoken as late as 2 a.m. by what sounds like the crack of a gunshot against the aluminum siding or front door. Clemens and police believe the eggs are being launched from a block or two away. The siding on the front of Clemens' home is destroyed, splattered with dried egg residue that stripped off the paint. Other than a few rogue eggs that hit nearby homes, no other neighbors have been targeted. \"Somebody is deeply, deeply angry at somebody in that household for some reason,\" Euclid Lt. Mitch Houser said. Winter offered a short respite for the family, as the egging became less frequent during the cold weather. But both Clemens and police anticipate the attacks picking back up as the snow and ice thaw. An unsolved mystery Euclid police have not taken the investigation lightly. They've spent a year doing undercover stakeouts, canvassing the neighborhood and even sending eggshells for testing. The department's entire community policing unit was dedicated to tracking down the eggers at one point. Officers respond quickly to every egging call at the home -- which is less than a mile from the police station. Both Clemens and detectives are at a dead end when it comes to suspects. Clemens had suspicions about a young man across the street who confronted him a couple years ago and asked him to stop calling police about suspicious activity in the neighborhood. Clemens said that he had started calling police more often as he noticed more crime -- mostly suspected drug activity. Another neighbor Clemens suspected was ruled out when officers saw him standing outside as an attack occurred in the presence of police. Investigators have taken several different approaches to nabbing the eggers, including installing a surveillance camera on the house. Detectives even collected some eggshell samples and tested them in a crime lab. The eggs were traced back to a local Amish farm, but the trail ended there. Clemens says the culprits either have access to a large supply of eggs or are stealing them from businesses that throw them out when they go bad. Detectives have followed this thread, visiting local restaurants and businesses asking about missing eggs. They've also tried collecting fingerprints from eggshells, but Houser said that's an impossible task. When an egg breaks, it releases proteins that destroy DNA. Officers have gone door to door questioning neighbors and handing out fliers. Nobody has come forward with any tips. \"The person or people who are doing it have remained very tight-lipped apparently,\" Houser said. \"I would imagine it would be hard to keep a secret of something that had been done hundreds of times and for nobody to step forward to talk about it.\" The guilty parties don't appear to be intimidated by police interest in the case. An officer last year was taking a report when a barrage of eggs was launched at the house. One hit him in the foot. Houser said he's never seen this level of vandalism in his 20 years of police work. It's frustrated the whole department, which has dedicated hundreds of hours toward solving the egging mystery. \"The man hours put into that investigation were huge and one of the reasons it's so frustrating that we don't have somebody right now that we can criminally charge,\" Houser said. The culprits will face charges of felony vandalism and criminal damaging, Houser said. Additional charges could be tacked on if investigators find evidence that the attacks are a hate crime. The search continues Clemens is waiting until the perpetrators are caught before he repairs the tarnished siding. His insurance company is refusing to settle a claim until the guilty party is found. He said he used to clean up after each attack, but it became so frequent that he couldn't keep up. Police initially offered a $500 reward for information, but bumped it up to $1,000 after nobody came forward. That money is still up for grabs. \"We're not going to let it go,\" Houser said. \"We'll continue to put effort into it until we figure something out.\" Despite all the torment, Clemens said he'd never consider moving from his beloved home. \"I like the neighborhood,\" Clemens said. \"I like the city of Euclid. I would live and die in this house -- but it's been kind of a nightmare.\""
+        "fanficBody": "Light Yagami, the brilliant and cunning protagonist of Death Note, had spent yet another intense night plotting his next move as Kira. The weight of his actions and the pressure of maintaining his double life as a high school student and a god-like vigilante had begun to take its toll on him. As the night drew to a close, exhaustion finally caught up with Light, and he found himself succumbing to an overwhelming sleepiness.\n\nWith heavy eyelids, Light stumbled his way into the living room, collapsing onto the plush couch. The soft cushions embraced him, providing a sense of comfort he hadn't felt in a long time. His body sank into the cozy depths, and he let out a contented sigh, feeling the stress slowly melt away.\n\nWrapped in the serenity of the room, Light's eyes fluttered shut. The weight of the Death Note, the weapon that granted him his powers, rested beside him on the coffee table, a constant reminder of the responsibility he carried. But for now, he allowed himself to surrender to the gentle embrace of sleep.\n\nAs his breathing deepened, Light's dreams took him to a realm far removed from the realm of justice and darkness he navigated every day. The world around him transformed into a serene landscape, with sunlight filtering through a canopy of trees, casting a gentle glow upon the grassy fields. Birds chirped melodiously in the distance, their harmonious songs lulling him deeper into his slumber.\n\nIn his dream, Light found himself standing on a calm shoreline, the waves lapping gently at his feet. He looked out at the horizon, where the colors of the setting sun painted the sky with a breathtaking palette. A peaceful calm washed over him as he admired the beauty of the scene, forgetting, even if just for a moment, the burden he carried.\n\nUnbeknownst to Light, Ryuk, the Shinigami who had bestowed the Death Note upon him, watched from the shadows. The usually mischievous and enigmatic creature observed with curiosity as his human companion, the orchestrator of a complex game of life and death, finally found respite in slumber.\n\nLight's features softened as he slept, his usually sharp and calculating eyes relaxed. A faint smile graced his lips, hinting at the innocence and vulnerability he rarely revealed in his waking hours. It was a sight that intrigued Ryuk, a reminder of the humanity that lay beneath Light's cold exterior.\n\nThe minutes turned into hours as Light's peaceful slumber continued. The room around him remained silent, the only sound being the soft hum of the air conditioner. Even as the world outside carried on, the weight of Kira's actions and the constant vigilance required to maintain his secret identity faded away, if only temporarily.\n\nEventually, the morning light filtered through the curtains, gently caressing Light's face. Slowly, he stirred from his deep sleep, stretching his arms above his head. His eyes opened, momentarily disoriented as he adjusted to his surroundings.\n\nWith a yawn, Light sat up on the couch, his gaze falling upon the Death Note resting on the coffee table. The weight of his responsibilities returned, and a determined glint appeared in his eyes once more. He had rested, rejuvenated, and now he would continue his mission to create a new world, no matter the cost.\n\nBut in the depths of his memories, the dream of a peaceful shoreline lingered. Light couldn't help but wonder if there might be a world where he could find solace, away from the darkness he had embraced. For now, though, he knew his path lay in the shadows, orchestrating the fate of humanity with the pen and the power of the Death Note."
       },
       "id": 2
     },
     {
       "newFanFic": {
-        "name": "fdfafsdf",
-        "genre": "Supernatural",
-        "image": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
-        "creator": "ME",
-        "title": "Death Note",
-        "fanficBody": "More than 100 stealth egg attacks baffle one Euclid homeowner and police (photos and video) EUCLID, Ohio -- An 85-year-old Euclid man's home has become the target of mysterious egging attacks that began in March 2014 and haven't stopped. The continuous onslaught of eggs has baffled police, neighbors and local government officials who have tried and failed to identify the source of the attacks that have ruined the man's home and kept his family on edge. \"The accuracy is phenomenal,\" Albert Clemens, Sr. said. \"Because almost every time when it's nice weather and they launch five or six of these at a time, they almost invariably hit the front door.\" Clemens green two-story house sits on the corner of Wilmore Avenue and East 210th Street. He and his wife bought the home as newlyweds about 60 years ago. Though his wife has since passed away, Clemens still lives there with his 49-year-old daughter and 51-year-old son. The house has been pelted with eggs several times a week -- sometimes more than once a day -- for the past year. The attacks always happen after dark and last around 10 minutes each. The family has been awoken as late as 2 a.m. by what sounds like the crack of a gunshot against the aluminum siding or front door. Clemens and police believe the eggs are being launched from a block or two away. The siding on the front of Clemens' home is destroyed, splattered with dried egg residue that stripped off the paint. Other than a few rogue eggs that hit nearby homes, no other neighbors have been targeted. \"Somebody is deeply, deeply angry at somebody in that household for some reason,\" Euclid Lt. Mitch Houser said. Winter offered a short respite for the family, as the egging became less frequent during the cold weather. But both Clemens and police anticipate the attacks picking back up as the snow and ice thaw. An unsolved mystery Euclid police have not taken the investigation lightly. They've spent a year doing undercover stakeouts, canvassing the neighborhood and even sending eggshells for testing. The department's entire community policing unit was dedicated to tracking down the eggers at one point. Officers respond quickly to every egging call at the home -- which is less than a mile from the police station. Both Clemens and detectives are at a dead end when it comes to suspects. Clemens had suspicions about a young man across the street who confronted him a couple years ago and asked him to stop calling police about suspicious activity in the neighborhood. Clemens said that he had started calling police more often as he noticed more crime -- mostly suspected drug activity. Another neighbor Clemens suspected was ruled out when officers saw him standing outside as an attack occurred in the presence of police. Investigators have taken several different approaches to nabbing the eggers, including installing a surveillance camera on the house. Detectives even collected some eggshell samples and tested them in a crime lab. The eggs were traced back to a local Amish farm, but the trail ended there. Clemens says the culprits either have access to a large supply of eggs or are stealing them from businesses that throw them out when they go bad. Detectives have followed this thread, visiting local restaurants and businesses asking about missing eggs. They've also tried collecting fingerprints from eggshells, but Houser said that's an impossible task. When an egg breaks, it releases proteins that destroy DNA. Officers have gone door to door questioning neighbors and handing out fliers. Nobody has come forward with any tips. \"The person or people who are doing it have remained very tight-lipped apparently,\" Houser said. \"I would imagine it would be hard to keep a secret of something that had been done hundreds of times and for nobody to step forward to talk about it.\" The guilty parties don't appear to be intimidated by police interest in the case. An officer last year was taking a report when a barrage of eggs was launched at the house. One hit him in the foot. Houser said he's never seen this level of vandalism in his 20 years of police work. It's frustrated the whole department, which has dedicated hundreds of hours toward solving the egging mystery. \"The man hours put into that investigation were huge and one of the reasons it's so frustrating that we don't have somebody right now that we can criminally charge,\" Houser said. The culprits will face charges of felony vandalism and criminal damaging, Houser said. Additional charges could be tacked on if investigators find evidence that the attacks are a hate crime. The search continues Clemens is waiting until the perpetrators are caught before he repairs the tarnished siding. His insurance company is refusing to settle a claim until the guilty party is found. He said he used to clean up after each attack, but it became so frequent that he couldn't keep up. Police initially offered a $500 reward for information, but bumped it up to $1,000 after nobody came forward. That money is still up for grabs. \"We're not going to let it go,\" Houser said. \"We'll continue to put effort into it until we figure something out.\" Despite all the torment, Clemens said he'd never consider moving from his beloved home. \"I like the neighborhood,\" Clemens said. \"I like the city of Euclid. I would live and die in this house -- but it's been kind of a nightmare.\""
+        "name": "Naruto: Dog Owner",
+        "genre": "Action",
+        "image": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+        "creator": "Ashay",
+        "title": "Naruto",
+        "fanficBody": "Naruto Uzumaki, the spirited ninja of Konoha, had finally reached a point in his life where he felt ready for a new companion. As he strolled through the bustling streets of the village, a small sign caught his attention: \"Paws and Tails Pet Store.\"\n\nCuriosity piqued, Naruto followed the sign, entering the cozy pet shop with excitement radiating from his every pore. The store was filled with the sounds of barks and meows, a symphony of furry friends awaiting their forever homes.\n\nAs Naruto made his way through the aisles, he couldn't help but feel drawn to the section reserved for dogs. He saw puppies of various breeds and sizes, each vying for his attention with wagging tails and soulful eyes.\n\nBut one particular puppy caught Naruto's eye. It was a tiny Shiba Inu, its coat a beautiful shade of red, its ears perked up, and its eyes brimming with mischief. Naruto's heart melted as he watched the playful pup paw at the glass enclosure, seemingly pleading to be taken home.\n\nUnable to resist, Naruto approached the store owner, a kind-hearted woman named Mrs. Hana, who had been observing him with a knowing smile.\n\n\"Hey, Mrs. Hana! How much for that Shiba Inu puppy?\" Naruto asked eagerly.\n\nMrs. Hana chuckled and replied, \"Ah, you have a good eye, Naruto. That's a special little pup right there. I call him Kurama. He's quite mischievous, but I think he'd be a perfect fit for someone as energetic as you. How about we discuss the adoption process?\"\n\nNaruto's eyes lit up with excitement. He couldn't wait to bring Kurama home and shower him with love and attention. After going through the necessary paperwork, Naruto held Kurama in his arms, the bond between them already forming.\n\nBack in his small apartment, Naruto introduced Kurama to his new home. The energetic puppy immediately started exploring every nook and cranny, leaving no corner untouched. Naruto laughed, realizing he had his hands full with this spirited little companion.\n\nDays turned into weeks, and Naruto and Kurama became inseparable. They spent hours training together, with Naruto teaching Kurama basic commands and the importance of teamwork. Kurama proved to be a quick learner, eager to please his beloved owner.\n\nOutside of their training sessions, Naruto took Kurama on countless adventures around the village. The pair would run through the forests, play in the park, and even enjoy some of Ichiraku Ramen's famous bowls together. Naruto's friends admired the bond between the ninja and his dog, noting how they seemed to understand each other without the need for words.\n\nBut it wasn't all fun and games. Naruto soon realized that raising a puppy required patience, discipline, and plenty of chew toys. Kurama's mischievous nature often led him to mischief, like digging up Naruto's garden or stealing Ichiraku Ramen coupons. Still, Naruto couldn't stay mad for long, always finding himself laughing at Kurama's antics.\n\nAs the years passed, Naruto and Kurama's bond grew stronger. Kurama matured into a loyal and protective companion, always by Naruto's side. Through triumphs and trials, they faced the challenges of life together, relying on their unbreakable bond to see them through.\n\nAnd so, Naruto Uzumaki, the spirited ninja with a heart of gold, found not only a lifelong friend but a faithful partner in Kurama. Their journey continued, side by side, as they embraced the adventures and obstacles that awaited them, ready to face whatever the ninja world had in store."
       },
       "id": 3
-    },
-    {
-      "newFanFic": {
-        "name": "fdsfasdfsdfd",
-        "genre": "Supernatural",
-        "image": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
-        "creator": "fdsafsdfdsaf",
-        "title": "Death Note",
-        "fanficBody": "More than 100 stealth egg attacks baffle one Euclid homeowner and police (photos and video) EUCLID, Ohio -- An 85-year-old Euclid man's home has become the target of mysterious egging attacks that began in March 2014 and haven't stopped. The continuous onslaught of eggs has baffled police, neighbors and local government officials who have tried and failed to identify the source of the attacks that have ruined the man's home and kept his family on edge. \"The accuracy is phenomenal,\" Albert Clemens, Sr. said. \"Because almost every time when it's nice weather and they launch five or six of these at a time, they almost invariably hit the front door.\" Clemens green two-story house sits on the corner of Wilmore Avenue and East 210th Street. He and his wife bought the home as newlyweds about 60 years ago. Though his wife has since passed away, Clemens still lives there with his 49-year-old daughter and 51-year-old son. The house has been pelted with eggs several times a week -- sometimes more than once a day -- for the past year. The attacks always happen after dark and last around 10 minutes each. The family has been awoken as late as 2 a.m. by what sounds like the crack of a gunshot against the aluminum siding or front door. Clemens and police believe the eggs are being launched from a block or two away. The siding on the front of Clemens' home is destroyed, splattered with dried egg residue that stripped off the paint. Other than a few rogue eggs that hit nearby homes, no other neighbors have been targeted. \"Somebody is deeply, deeply angry at somebody in that household for some reason,\" Euclid Lt. Mitch Houser said. Winter offered a short respite for the family, as the egging became less frequent during the cold weather. But both Clemens and police anticipate the attacks picking back up as the snow and ice thaw. An unsolved mystery Euclid police have not taken the investigation lightly. They've spent a year doing undercover stakeouts, canvassing the neighborhood and even sending eggshells for testing. The department's entire community policing unit was dedicated to tracking down the eggers at one point. Officers respond quickly to every egging call at the home -- which is less than a mile from the police station. Both Clemens and detectives are at a dead end when it comes to suspects. Clemens had suspicions about a young man across the street who confronted him a couple years ago and asked him to stop calling police about suspicious activity in the neighborhood. Clemens said that he had started calling police more often as he noticed more crime -- mostly suspected drug activity. Another neighbor Clemens suspected was ruled out when officers saw him standing outside as an attack occurred in the presence of police. Investigators have taken several different approaches to nabbing the eggers, including installing a surveillance camera on the house. Detectives even collected some eggshell samples and tested them in a crime lab. The eggs were traced back to a local Amish farm, but the trail ended there. Clemens says the culprits either have access to a large supply of eggs or are stealing them from businesses that throw them out when they go bad. Detectives have followed this thread, visiting local restaurants and businesses asking about missing eggs. They've also tried collecting fingerprints from eggshells, but Houser said that's an impossible task. When an egg breaks, it releases proteins that destroy DNA. Officers have gone door to door questioning neighbors and handing out fliers. Nobody has come forward with any tips. \"The person or people who are doing it have remained very tight-lipped apparently,\" Houser said. \"I would imagine it would be hard to keep a secret of something that had been done hundreds of times and for nobody to step forward to talk about it.\" The guilty parties don't appear to be intimidated by police interest in the case. An officer last year was taking a report when a barrage of eggs was launched at the house. One hit him in the foot. Houser said he's never seen this level of vandalism in his 20 years of police work. It's frustrated the whole department, which has dedicated hundreds of hours toward solving the egging mystery. \"The man hours put into that investigation were huge and one of the reasons it's so frustrating that we don't have somebody right now that we can criminally charge,\" Houser said. The culprits will face charges of felony vandalism and criminal damaging, Houser said. Additional charges could be tacked on if investigators find evidence that the attacks are a hate crime. The search continues Clemens is waiting until the perpetrators are caught before he repairs the tarnished siding. His insurance company is refusing to settle a claim until the guilty party is found. He said he used to clean up after each attack, but it became so frequent that he couldn't keep up. Police initially offered a $500 reward for information, but bumped it up to $1,000 after nobody came forward. That money is still up for grabs. \"We're not going to let it go,\" Houser said. \"We'll continue to put effort into it until we figure something out.\" Despite all the torment, Clemens said he'd never consider moving from his beloved home. \"I like the neighborhood,\" Clemens said. \"I like the city of Euclid. I would live and die in this house -- but it's been kind of a nightmare.\""
-      },
-      "id": 4
-    },
-    {
-      "newFanFic": {
-        "name": "MY GUY",
-        "genre": "Action",
-        "image": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
-        "creator": "dsfdsfa",
-        "title": "Sword Art Online",
-        "fanficBody": "More than 100 stealth egg attacks baffle one Euclid homeowner and police (photos and video) EUCLID, Ohio -- An 85-year-old Euclid man's home has become the target of mysterious egging attacks that began in March 2014 and haven't stopped. The continuous onslaught of eggs has baffled police, neighbors and local government officials who have tried and failed to identify the source of the attacks that have ruined the man's home and kept his family on edge. \"The accuracy is phenomenal,\" Albert Clemens, Sr. said. \"Because almost every time when it's nice weather and they launch five or six of these at a time, they almost invariably hit the front door.\" Clemens green two-story house sits on the corner of Wilmore Avenue and East 210th Street. He and his wife bought the home as newlyweds about 60 years ago. Though his wife has since passed away, Clemens still lives there with his 49-year-old daughter and 51-year-old son. The house has been pelted with eggs several times a week -- sometimes more than once a day -- for the past year. The attacks always happen after dark and last around 10 minutes each. The family has been awoken as late as 2 a.m. by what sounds like the crack of a gunshot against the aluminum siding or front door. Clemens and police believe the eggs are being launched from a block or two away. The siding on the front of Clemens' home is destroyed, splattered with dried egg residue that stripped off the paint. Other than a few rogue eggs that hit nearby homes, no other neighbors have been targeted. \"Somebody is deeply, deeply angry at somebody in that household for some reason,\" Euclid Lt. Mitch Houser said. Winter offered a short respite for the family, as the egging became less frequent during the cold weather. But both Clemens and police anticipate the attacks picking back up as the snow and ice thaw. An unsolved mystery Euclid police have not taken the investigation lightly. They've spent a year doing undercover stakeouts, canvassing the neighborhood and even sending eggshells for testing. The department's entire community policing unit was dedicated to tracking down the eggers at one point. Officers respond quickly to every egging call at the home -- which is less than a mile from the police station. Both Clemens and detectives are at a dead end when it comes to suspects. Clemens had suspicions about a young man across the street who confronted him a couple years ago and asked him to stop calling police about suspicious activity in the neighborhood. Clemens said that he had started calling police more often as he noticed more crime -- mostly suspected drug activity. Another neighbor Clemens suspected was ruled out when officers saw him standing outside as an attack occurred in the presence of police. Investigators have taken several different approaches to nabbing the eggers, including installing a surveillance camera on the house. Detectives even collected some eggshell samples and tested them in a crime lab. The eggs were traced back to a local Amish farm, but the trail ended there. Clemens says the culprits either have access to a large supply of eggs or are stealing them from businesses that throw them out when they go bad. Detectives have followed this thread, visiting local restaurants and businesses asking about missing eggs. They've also tried collecting fingerprints from eggshells, but Houser said that's an impossible task. When an egg breaks, it releases proteins that destroy DNA. Officers have gone door to door questioning neighbors and handing out fliers. Nobody has come forward with any tips. \"The person or people who are doing it have remained very tight-lipped apparently,\" Houser said. \"I would imagine it would be hard to keep a secret of something that had been done hundreds of times and for nobody to step forward to talk about it.\" The guilty parties don't appear to be intimidated by police interest in the case. An officer last year was taking a report when a barrage of eggs was launched at the house. One hit him in the foot. Houser said he's never seen this level of vandalism in his 20 years of police work. It's frustrated the whole department, which has dedicated hundreds of hours toward solving the egging mystery. \"The man hours put into that investigation were huge and one of the reasons it's so frustrating that we don't have somebody right now that we can criminally charge,\" Houser said. The culprits will face charges of felony vandalism and criminal damaging, Houser said. Additional charges could be tacked on if investigators find evidence that the attacks are a hate crime. The search continues Clemens is waiting until the perpetrators are caught before he repairs the tarnished siding. His insurance company is refusing to settle a claim until the guilty party is found. He said he used to clean up after each attack, but it became so frequent that he couldn't keep up. Police initially offered a $500 reward for information, but bumped it up to $1,000 after nobody came forward. That money is still up for grabs. \"We're not going to let it go,\" Houser said. \"We'll continue to put effort into it until we figure something out.\" Despite all the torment, Clemens said he'd never consider moving from his beloved home. \"I like the neighborhood,\" Clemens said. \"I like the city of Euclid. I would live and die in this house -- but it's been kind of a nightmare.\""
-      },
-      "id": 5
     }
   ]
 }

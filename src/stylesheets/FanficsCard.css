@@ -28,5 +28,5 @@ img{
 .delete-button{
     border-radius: 5px;
     background-color: rgb(160, 203, 252);
-    border: inset;
+    border: outset;
 }

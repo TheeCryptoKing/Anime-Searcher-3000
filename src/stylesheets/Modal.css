@@ -1,85 +1,92 @@
 .modal {
-    margin: 0 auto;
-    z-index: 2;
-    position: fixed;
-    left: 0;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    background-color: rgba(0, 0, 0, 0.5);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  z-index: 2;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 50vw;
+  min-height: 30vh;
+  margin: auto;
+}
+
+.modal-content {
+  background-color: beige;
+  scale: 0.9;
+  border-radius: 10px;
+  border: inset;
+}
+
+.pt-video iframe{
+  width: 55vw;
+  height: 40vh;
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  height: 10 px;
+  justify-content: space-evenly;
+  font-size: 2.2vmin;
+  height: 5vh;
+}
+
+.modal-header {
+  font-size: 2.2vmin;
+  height: 5vh;
+  font-family: monospace;
+}
+
+.row-video{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 100vw;
+  padding: .5vmax;
+  align-content: flex-start;
+  flex-shrink: 1;
 }
 .pt1 {
-    display: flex;
-    justify-content: center;
-    border: solid;
-    border-radius: 5px;
-    margin: 10px;
-    padding: 5px
+  display: flex;
+  font-family: monospace;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+  border: solid;
+  border-radius: 5px;
+  margin: 5px;
 }
-.modal-content {
-    max-width: 50vw;
-    max-height: 110vh;
-    background-color: #fff;
-    position: absolute;
-    margin: 0;
+
+.pt-pic{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid;
+  border-radius: 5px;
+  margin: 5px;
 }
-#details, #information {
-    border: 3px solid black;
-    border-radius: 5px;
-}
-.modal-header {
-    padding: 10px
-}
-#video {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.video-row {
-    height: 50vh; /* Adjust the height as desired */
-  }
-  .video-container {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-     /* 16:9 aspect ratio (adjust as needed) */
-  }
-  .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-  /* Media queries for responsiveness */
-  @media (max-width: 767px) {
-    .video-row {
-      height: auto;
-    }
-    .video-container {
-      padding-bottom: 75%; /* Adjust the aspect ratio and height as desired */
-    }
-  }
-.modal-body {
-    padding: 10px;
-    border-top: 1px solid #eee;
-    border-bottom: 1px solid #eee;
+
+.modal p {
+  font-size: 2vmin;
 }
 .button {
-    color: #000000;
-    float: right;
-    font-weight: bold;
-  }
+  color: #000000;
+  background-color: rgb(160, 203, 252);
+  border-radius: 5px;
+  float: right;
+  border: outset;
+  color: black;
+  font-weight: bold;
+}
 .button:hover,
 .button:focus {
-    color: #F30000;
-    text-decoration: none;
-    cursor: pointer;
-  }
-.studios {
-    display:flex;
+  color: #F30000;
 }

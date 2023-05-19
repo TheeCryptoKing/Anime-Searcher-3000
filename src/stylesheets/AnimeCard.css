@@ -6,6 +6,7 @@
   margin: auto;
   border: inset black;
   flex-shrink: 1;
+  border-radius: 5px;
   color:black;
   background-color: #ffe9dc;
 }
@@ -18,10 +19,19 @@
   transform: scale(1.03);
   border: inset black;
   background-color: #ffe9dc;
+  border-radius: 5px;
 }
 
 img {
-  width: 14.6vw;
+  width: 14.64vw;
+}
+
+
+.link{
+  border-radius: 5px;
+    background-color: rgb(160, 203, 252);
+    border: outset;
+    color: black;
 }
 
 h5 {
@@ -36,7 +46,7 @@ h5 {
 .fav-button {
   background-color: rgba(255, 255, 255, 0);
   border: none;
-  opacity: 50%;
+  opacity: 75%;
   z-index: 2;
   position: absolute;
   top: 1%;

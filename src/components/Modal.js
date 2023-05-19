@@ -6,9 +6,6 @@ function Modal({ modalStuff, show, onClose }) {
   if (!show) {
     return null;
   }
-
-  const videoWorking = modalStuff.trailer.embed_url && modalStuff.trailer.is_responsive;
-
   return (
     <div className="modal">
       <div className="modal-content">
@@ -23,19 +20,11 @@ function Modal({ modalStuff, show, onClose }) {
         </div>
         <div className="modal-body">
             <div className='row-video'>
-            {videoWorking ? (
-              <div className="pt-video">
-                <iframe
-                  allowFullScreen
-                  width="100%"
-                  height="100%"
-                  title={modalStuff.title}
-                  src={modalStuff.trailer.embed_url}
-                />
+            <div className="pt-video" >
+                {modalStuff.trailer.embed_url ? (
+                  <iframe classallow="fullscreen" width="700vw" height="393vw" title={modalStuff.title} src={modalStuff.trailer.embed_url} />
+                ) : "Nothing to show here..."}
               </div>
-            ) : (
-              <p>Video is unresponsive or not available.</p>
-            )}
             </div>
             <div className='row'>
               <div className="pt1">

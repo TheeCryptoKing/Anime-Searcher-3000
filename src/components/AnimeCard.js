@@ -32,7 +32,7 @@ function handleMouseLeave () {
 }
 
   return (
-    <div 
+    <article 
       className={hover}
       onMouseOver={handleMouseOver}
       onMouseLeave={handleMouseLeave}
@@ -46,7 +46,7 @@ function handleMouseLeave () {
       <button onClick={handlePost} className="fav-button">
         ❤️
       </button>
-    </div>
+    </article>
   );
 }
 

@@ -5,7 +5,7 @@ import "../stylesheets/Navbar.css";
 
 
 function Navbar() {
-  const links = ["Home", "Favorites", "Fanfics", "Search"];
+  const links = ["HOME", "FAVORITES", "FANFICS", "SEARCH"];
 
   const anchors = links.map((link) => (
     <NavLink className="nav-link" key={link} to={"/" + link}>

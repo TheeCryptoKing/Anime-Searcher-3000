@@ -1,11 +1,9 @@
 .top-animes, .new-animes {
     text-align: left;
-    max-width: 100vw;
     border-style: inset;
     margin: .5vw;
     background-color: rgba(51, 50, 50, 0.82);
     color: #000000;
-    flex-shrink: 0;
     display: flex;
     flex-direction: column;
     border-radius: 5px;
@@ -14,6 +12,7 @@
 .div-title{
     font-size: 1.5vmax;
     padding-left: .5vw; 
+    height: 1vh;
     color: white;
 }
 

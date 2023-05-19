@@ -13,7 +13,7 @@
 }
 
 .form-input{
-    width: 500px;
+    width: 40vw;
     height: 30px;
     border-radius: 5px;
     background-color: rgb(160, 203, 252);
@@ -23,24 +23,22 @@
 }
 
 .text-area{
-    width: 900px;
+    width: 50vw;
     border-radius: 5px;
     background-color: rgb(160, 203, 252);
     border: inset;
     color:black;
     height:170px;
     text-align: center;
+    resize: none;
 }
 form{
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
-    height: 200px;
+    margin:10px;
 }
 
-textarea {
-    resize: none;
-  }
 
 .submit-button{
     display:block;
@@ -55,6 +53,7 @@ textarea {
 
 .fanfics-container{
     display:flex;
+    margin-top:10px;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;

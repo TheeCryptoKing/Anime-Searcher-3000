@@ -32,11 +32,12 @@ img {
     background-color: rgb(160, 203, 252);
     border: outset;
     color: black;
+    font-size: 1.2vmin;
 }
 
 h5 {
   display: block;
-  font-size: 1vmin;
+  font-size: 1.2vmin;
   max-width: 140px;
   text-align: center;
   margin: auto;

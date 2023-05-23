@@ -16,7 +16,7 @@ function FavoritesPage() {
   }, []);
 
   function fetchFavorites() {
-    fetch("http://localhost:3001/favorites")
+    fetch("https://anime-searcher-3000.onrender.com/favorites")
       .then((res) => res.json())
       .then((res) => {
         setFavAnimes(res);

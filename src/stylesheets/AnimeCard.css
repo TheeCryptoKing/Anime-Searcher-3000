@@ -32,6 +32,7 @@ img {
     background-color: rgb(160, 203, 252);
     border: outset;
     color: black;
+    font-size: 1.8vmin;
 }
 
 h5 {

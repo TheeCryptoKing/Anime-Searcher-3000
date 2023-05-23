@@ -22,7 +22,7 @@ function Modal({ modalStuff, show, onClose }) {
             <div className='row-video'>
             <div className="pt-video" >
                 {modalStuff.trailer.embed_url ? (
-                  <iframe classallow="fullscreen" width="700vw" height="393vw" title={modalStuff.title} src={modalStuff.trailer.embed_url} />
+                  <iframe allowFullScreen width="700vw" height="393vw" title={modalStuff.title} src={modalStuff.trailer.embed_url} />
                 ) : "Nothing to show here..."}
               </div>
             </div>

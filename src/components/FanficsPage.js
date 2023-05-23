@@ -30,7 +30,7 @@ function FanficsPage() {
   function handleSubmit(e) {
     e.preventDefault();
 
-    fetch("http://localhost:3001/fanfics", {
+    fetch("https://anime-searcher-3000.onrender.com/fanfics", {
       method: "POST",
       body: JSON.stringify({
         newFanFic,
@@ -58,7 +58,7 @@ function updateStateDelete (id) {
   }, []);
 
   function getFanFics() {
-    fetch("http://localhost:3001/fanfics")
+    fetch("https://anime-searcher-3000.onrender.com/fanfics")
       .then((res) => res.json())
       .then((res) => setFanFics(res));
   }

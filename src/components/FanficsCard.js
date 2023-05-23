@@ -12,7 +12,7 @@ function FanficsCard({
 }) {
 
   function handleDelete() {
-    fetch(`http://localhost:3001/fanfics/${id}`, {
+    fetch(`https://anime-searcher-3000.onrender.com/fanfics/${id}`, {
       method: "DELETE",
     })
       .then((res) => res.json())

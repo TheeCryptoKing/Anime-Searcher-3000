@@ -13,7 +13,7 @@
 }
 
 .form-input{
-    width: 500px;
+    width: 40vw;
     height: 30px;
     border-radius: 5px;
     background-color: rgb(160, 203, 252);
@@ -23,7 +23,7 @@
 }
 
 .text-area{
-    width: 900px;
+    width: 50vw;
     border-radius: 5px;
     background-color: rgb(160, 203, 252);
     border: inset;
@@ -31,11 +31,11 @@
     height:170px;
     text-align: center;
 }
+
 form{
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
-    height: 200px;
 }
 
 textarea {

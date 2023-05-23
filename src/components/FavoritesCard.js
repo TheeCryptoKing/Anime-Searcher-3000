@@ -20,7 +20,7 @@ function FavoritesCard({
   }
 
   function handleDelete() {
-    fetch(`http://localhost:3001/favorites/${anime.id}`, {
+    fetch(`https://anime-searcher-3000.onrender.com/favorites/${anime.id}`, {
       method: "DELETE",
     })
       .then((res) => res.json())

@@ -1,43 +1,34 @@
 import React, { useState, useEffect } from "react";
 import Home from "./Home";
 
-
 function App() {
-  const [topAnimes, setTopAnimes] = useState([]);
-  const [newAnimes, setNewAnimes] = useState([]);
+  const [ topAnimes, setTopAnimes ] = useState([]);
+  const [ newAnimes, setNewAnimes ] = useState([]);
 
   useEffect(() => {
     homePageFetch();
   }, []);
 
   function homePageFetch() {
-    fetch('https://api.jikan.moe/v4/top/anime?filter=bypopularity')
+    fetch("https://api.jikan.moe/v4/top/anime?filter=bypopularity")
       .then((res) => res.json())
       .then((res) => {
-        setTopAnimes(res.data)
+        setTopAnimes(res.data);
       })
-      .catch(error => alert(error))
+      .catch((error) => alert(error));
 
-    fetch('https://api.jikan.moe/v4/top/anime?filter=upcoming')
+    fetch("https://api.jikan.moe/v4/top/anime?filter=upcoming")
       .then((res) => res.json())
       .then((res) => {
-        setNewAnimes(res.data)
+        setNewAnimes(res.data);
       })
-      .catch(error => alert(error))
+      .catch((error) => alert(error));
   }
 
-  console.log(topAnimes, newAnimes);
-
   return (
-    
-      <div className="App">
-        <div className="App-body">
-          <Home 
-            topAnimes={topAnimes} 
-            newAnimes={newAnimes}
-          />
-        </div>
-      </div>
+    <div className="App">
+        <Home topAnimes={topAnimes} newAnimes={newAnimes} />
+    </div>
   );
 }
 

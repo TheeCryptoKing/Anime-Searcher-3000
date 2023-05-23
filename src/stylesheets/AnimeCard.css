@@ -1,61 +1,66 @@
 .anime-card {
-  text-align: center;
+  background-color: #ffe9dc;
+  color: black;
   position: relative;
   height: 100%;
   width: 15%;
+  text-align: center;
   margin: auto;
-  border: inset black;
-  flex-shrink: 1;
+  border: outset;
   border-radius: 5px;
-  color:black;
-  background-color: #ffe9dc;
 }
 
 .anime-card-hover {
-  text-align: center;
+  background-color: #ffe9dc;
+  color: black;
   position: relative;
   height: 100%;
+  width: 15%;
+  text-align: center;
   margin: auto;
-  transform: scale(1.03);
-  border: inset black;
-  background-color: #ffe9dc;
+  border: outset;
   border-radius: 5px;
+  transform: scale(1.03);
 }
 
 img {
   width: 14.64vw;
 }
 
-
-.link{
-  border-radius: 5px;
-    background-color: rgb(160, 203, 252);
-    border: outset;
-    color: black;
-    font-size: 1.8vmin;
-}
-
 h5 {
   display: block;
-  font-size: 1vmin;
-  max-width: 140px;
   text-align: center;
+  font-size: 1.2vmin;
+  max-width: 140px;
   margin: auto;
   margin-top: 0px;
 }
 
+.link {
+  background-color: rgb(160, 203, 252);
+  color: black;
+  font-size: 1.2vmin;
+  border: outset;
+  border-radius: 5px;
+}
+
 .fav-button {
   background-color: rgba(255, 255, 255, 0);
-  border: none;
   opacity: 75%;
-  z-index: 2;
   position: absolute;
+  z-index: 2;
   top: 1%;
   right: 2%;
+  border: none;
 }
 
 .fav-button:hover {
   opacity: 100%;
+}
+
+.fav-button:active {
+  animation: heartBeat 1s linear alternate;
+  animation-duration: 1s;
 }
 
 @-webkit-keyframes heartBeat {
@@ -102,8 +107,4 @@ h5 {
     -webkit-transform: scale(1);
     transform: scale(1);
   }
-}
-.fav-button:active {
-    animation: heartBeat 1s linear alternate;
-    animation-duration: 1s;
 }

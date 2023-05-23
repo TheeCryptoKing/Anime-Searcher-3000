@@ -1,65 +1,65 @@
-.inner-div{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    margin-left: 50px;
-    margin-right: 50px
-}
-.form-div{
-    padding-left: 50px;
-    padding-right: 50px;
-    height: 200px;
-    align-content: center;
+.fanfics-container {
+  display: flex;
+  margin-top: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
-.form-input{
-    width: 40vw;
-    height: 30px;
-    border-radius: 5px;
-    background-color: rgb(160, 203, 252);
-    color: black;
-    border: inset;
-    /* height: 20px; */
+form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px;
+  opacity: 90%;
 }
 
-.text-area{
-    width: 50vw;
-    border-radius: 5px;
-    background-color: rgb(160, 203, 252);
-    border: inset;
-    color:black;
-    height:170px;
-    text-align: center;
+.form-input {
+  background-color: rgb(160, 203, 252);
+  color: black;
+  height: 30px;
+  width: 40vw;
+  border: inset;
+  border-radius: 5px;
 }
 
-form{
-    display:flex;
-    flex-wrap: wrap;
-    justify-content: center;
+.form-div {
+  height: 200px;
+  align-content: center;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
-textarea {
-    resize: none;
-  }
-
-.submit-button{
-    display:block;
-    flex-basis: 100%;
-    max-width: 100px;
-    margin: auto;
-    border-radius: 5px;
-    background-color: rgb(160, 203, 252);
-    border: outset;
-    color: black;
+.inner-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
-.fanfics-container{
-    display:flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+.text-area {
+  background-color: rgb(160, 203, 252);
+  color: black;
+  height: 170px;
+  text-align: center;
+  resize: none;
+  width: 50vw;
+  border: inset;
+  border-radius: 5px;
 }
 
-::placeholder{
-    color: black;
+.submit-button {
+  background-color: rgb(160, 203, 252);
+  color: black;
+  display: block;
+  flex-basis: 100%;
+  max-width: 100px;
+  margin: auto;
+  border: outset;
+  border-radius: 5px;
+}
+
+::placeholder {
+  color: black;
 }

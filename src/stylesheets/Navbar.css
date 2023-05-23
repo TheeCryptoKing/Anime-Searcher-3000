@@ -2,40 +2,36 @@
 
 .nav-header {
   background-image: url('http://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/538943.jpg');
-  /* add a dark layer on top of it  */
   color: rgb(160, 203, 252);
-  width: 100vw;
-  height: 20vmax;
   display: flex;
   flex-direction: column;
+  width: 100vw;
+  height: 20vmax;
 }
 
 .page-title {
   font-size: 6vmax;
-  margin: auto;
   text-shadow: 5px 5px #558ABB;
-}
-
-.nav-link {
-  font-size: 2vmax;
-  color: rgba(0, 217, 255);
-  margin: 0.5vh;
+  margin: auto;
 }
 
 nav {
-  filter: invert(0.3) saturate(3.0);
-  /* background-color: black; */
   background-image: url('https://raw.githubusercontent.com/TheeCryptoKing/Anime-Searcher-3000/main/.github/images/39033.png') , linear-gradient(rgba(54, 54, 54, 0.5), rgba(0,0,0,.5) );
   background-blend-mode: multiply;
-  margin-top: auto;
+  filter: invert(0.3) saturate(3.0);
+  font-family: 'Amita', cursive;
   display: flex;
   justify-content: space-evenly;
+  margin-top: auto;
   padding-left: 20vw;
   padding-right: 20vw;
-  font-family: 'Amita', cursive;
 }
 
-
+.nav-link {
+  color: rgba(0, 217, 255);
+  font-size: 2vmax;
+  margin: 0.5vh;
+}
 
 a:link {
   text-decoration: none;

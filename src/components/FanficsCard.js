@@ -1,3 +1,4 @@
+import "../stylesheets/index.css"
 import "../stylesheets/FanficsCard.css";
 
 function FanficsCard({
@@ -16,9 +17,7 @@ function FanficsCard({
       method: "DELETE",
     })
       .then((res) => res.json())
-      .then(() => {
-        updateStateDelete(id);
-      });
+      .then(() => updateStateDelete(id));
   }
 
   return (
@@ -26,11 +25,13 @@ function FanficsCard({
       <div className="card-info">
         <img src={image} alt={animeName}></img>
         <div className="text-info">
-        <h2>{animeName}</h2>
-        <h2>By: {creator}</h2>
+          <h2>{animeName}</h2>
+          <h2>By: {creator}</h2>
           <h4>Based on: {title}</h4>
           <h4>Genre: {genre}</h4>
-          <button className="delete-button"onClick={handleDelete}>🗑️</button>
+          <button className="delete-button" onClick={handleDelete}>
+            🗑️
+          </button>
         </div>
       </div>
       <p>{body}</p>
